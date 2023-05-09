@@ -1,0 +1,22 @@
+,col0,col1,col2
+0,1,ReplaceConstant,org.dynjs.runtime.builtins.types.date.prototype.SetUTCSeconds.<init>(Lorg/dynjs/runtime/GlobalContext;)V:13 - ReplaceConstant - 2 -> 1
+1,2,ReplaceConstant,org.dynjs.runtime.builtins.types.date.prototype.SetUTCSeconds.<init>(Lorg/dynjs/runtime/GlobalContext;)V:13 - ReplaceConstant - 2 -> -1
+2,3,ReplaceConstant,org.dynjs.runtime.builtins.types.date.prototype.SetUTCSeconds.<init>(Lorg/dynjs/runtime/GlobalContext;)V:13 - ReplaceConstant - 2 -> 3
+3,4,ReplaceConstant,org.dynjs.runtime.builtins.types.date.prototype.SetUTCSeconds.<init>(Lorg/dynjs/runtime/GlobalContext;)V:13 - ReplaceConstant - 0 -> 1
+4,5,ReplaceConstant,org.dynjs.runtime.builtins.types.date.prototype.SetUTCSeconds.<init>(Lorg/dynjs/runtime/GlobalContext;)V:13 - ReplaceConstant - sec -> 
+5,6,ReplaceConstant,org.dynjs.runtime.builtins.types.date.prototype.SetUTCSeconds.<init>(Lorg/dynjs/runtime/GlobalContext;)V:13 - ReplaceConstant - 1 -> 0
+6,7,ReplaceConstant,org.dynjs.runtime.builtins.types.date.prototype.SetUTCSeconds.<init>(Lorg/dynjs/runtime/GlobalContext;)V:13 - ReplaceConstant - ms -> 
+7,8,ReplaceComparisonOperator,org.dynjs.runtime.builtins.types.date.prototype.SetUTCSeconds.call(Lorg/dynjs/runtime/ExecutionContext;Ljava/lang/Object;[Ljava/lang/Object;)Ljava/lang/Object;:18 - ReplaceComparisonOperator != -> -1
+8,9,ReplaceComparisonOperator,org.dynjs.runtime.builtins.types.date.prototype.SetUTCSeconds.call(Lorg/dynjs/runtime/ExecutionContext;Ljava/lang/Object;[Ljava/lang/Object;)Ljava/lang/Object;:18 - ReplaceComparisonOperator != -> <
+9,10,ReplaceComparisonOperator,org.dynjs.runtime.builtins.types.date.prototype.SetUTCSeconds.call(Lorg/dynjs/runtime/ExecutionContext;Ljava/lang/Object;[Ljava/lang/Object;)Ljava/lang/Object;:18 - ReplaceComparisonOperator != -> >
+10,11,ReplaceConstant,org.dynjs.runtime.builtins.types.date.prototype.SetUTCSeconds.call(Lorg/dynjs/runtime/ExecutionContext;Ljava/lang/Object;[Ljava/lang/Object;)Ljava/lang/Object;:19 - ReplaceConstant - setUTCSeconds(...) may only be used with Dates -> 
+11,12,ReplaceConstant,org.dynjs.runtime.builtins.types.date.prototype.SetUTCSeconds.call(Lorg/dynjs/runtime/ExecutionContext;Ljava/lang/Object;[Ljava/lang/Object;)Ljava/lang/Object;:25 - ReplaceConstant - 0 -> 1
+12,13,ReplaceConstant,org.dynjs.runtime.builtins.types.date.prototype.SetUTCSeconds.call(Lorg/dynjs/runtime/ExecutionContext;Ljava/lang/Object;[Ljava/lang/Object;)Ljava/lang/Object;:28 - ReplaceConstant - 1 -> 0
+13,14,ReplaceComparisonOperator,org.dynjs.runtime.builtins.types.date.prototype.SetUTCSeconds.call(Lorg/dynjs/runtime/ExecutionContext;Ljava/lang/Object;[Ljava/lang/Object;)Ljava/lang/Object;:28 - ReplaceComparisonOperator == -> !=
+14,15,ReplaceConstant,org.dynjs.runtime.builtins.types.date.prototype.SetUTCSeconds.call(Lorg/dynjs/runtime/ExecutionContext;Ljava/lang/Object;[Ljava/lang/Object;)Ljava/lang/Object;:29 - ReplaceConstant - 1 -> 0
+15,16,InsertUnaryOp,org.dynjs.runtime.builtins.types.date.prototype.SetUTCSeconds.call(Lorg/dynjs/runtime/ExecutionContext;Ljava/lang/Object;[Ljava/lang/Object;)Ljava/lang/Object;:31 - InsertUnaryOp Negation of t
+16,17,InsertUnaryOp,org.dynjs.runtime.builtins.types.date.prototype.SetUTCSeconds.call(Lorg/dynjs/runtime/ExecutionContext;Ljava/lang/Object;[Ljava/lang/Object;)Ljava/lang/Object;:34 - InsertUnaryOp Negation of t
+17,18,InsertUnaryOp,org.dynjs.runtime.builtins.types.date.prototype.SetUTCSeconds.call(Lorg/dynjs/runtime/ExecutionContext;Ljava/lang/Object;[Ljava/lang/Object;)Ljava/lang/Object;:34 - InsertUnaryOp Negation of t
+18,19,InsertUnaryOp,org.dynjs.runtime.builtins.types.date.prototype.SetUTCSeconds.call(Lorg/dynjs/runtime/ExecutionContext;Ljava/lang/Object;[Ljava/lang/Object;)Ljava/lang/Object;:34 - InsertUnaryOp Negation of t
+19,20,ReplaceConstant,org.dynjs.runtime.builtins.types.date.prototype.SetUTCSeconds.setFileName()V:45 - ReplaceConstant - org/dynjs/runtime/builtins/types/date/prototype/setUTCSeconds.java -> 
+20,21,ReplaceConstant,org.dynjs.runtime.builtins.types.date.prototype.SetUTCSeconds.setupDebugContext()V:50 - ReplaceConstant - <native function: setUTCSeconds> -> 

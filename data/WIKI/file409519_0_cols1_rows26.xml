@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<entity>
+    <logicalTable>
+        <content>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Alexander Campbell&lt;/td&gt;</html>
+                    <text>Alexander Campbell</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;July 1 1867&lt;/td&gt;</html>
+                    <text>July 1 1867</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;November 7 1873&lt;/td&gt;</html>
+                    <text>November 7 1873</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Luc Letellier de St - Just&lt;/td&gt;</html>
+                    <text>Luc Letellier de St - Just</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;November 7 1873&lt;/td&gt;</html>
+                    <text>November 7 1873</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;December 14 1876&lt;/td&gt;</html>
+                    <text>December 14 1876</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Sir Richard William Scott&lt;/td&gt;</html>
+                    <text>Sir Richard William Scott</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;December 14 1876&lt;/td&gt;</html>
+                    <text>December 14 1876</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;October 7 1878&lt;/td&gt;</html>
+                    <text>October 7 1878</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Alexander Campbell&lt;/td&gt;</html>
+                    <text>Alexander Campbell</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;October 18 1878&lt;/td&gt;</html>
+                    <text>October 18 1878</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;January 26 1887&lt;/td&gt;</html>
+                    <text>January 26 1887</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Sir John Joseph Caldwell Abbott&lt;/td&gt;</html>
+                    <text>Sir John Joseph Caldwell Abbott</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;May 12 1887&lt;/td&gt;</html>
+                    <text>May 12 1887</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;October 30 1893&lt;/td&gt;</html>
+                    <text>October 30 1893</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Sir Mackenzie Bowell&lt;/td&gt;</html>
+                    <text>Sir Mackenzie Bowell</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;October 31 1893&lt;/td&gt;</html>
+                    <text>October 31 1893</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;April 27 1896&lt;/td&gt;</html>
+                    <text>April 27 1896</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Sir Oliver Mowat&lt;/td&gt;</html>
+                    <text>Sir Oliver Mowat</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;August 19 1896&lt;/td&gt;</html>
+                    <text>August 19 1896</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;November 18 1897&lt;/td&gt;</html>
+                    <text>November 18 1897</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;David Mills&lt;/td&gt;</html>
+                    <text>David Mills</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;November 18 1897&lt;/td&gt;</html>
+                    <text>November 18 1897</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;February 7 1902&lt;/td&gt;</html>
+                    <text>February 7 1902</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Sir Richard William Scott&lt;/td&gt;</html>
+                    <text>Sir Richard William Scott</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;December 14 1902&lt;/td&gt;</html>
+                    <text>December 14 1902</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;1908&lt;/td&gt;</html>
+                    <text>1908</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Sir Richard John Cartwright&lt;/td&gt;</html>
+                    <text>Sir Richard John Cartwright</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;1909&lt;/td&gt;</html>
+                    <text>1909</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;October 6 1911&lt;/td&gt;</html>
+                    <text>October 6 1911</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Sir James Alexander Lougheed&lt;/td&gt;</html>
+                    <text>Sir James Alexander Lougheed</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;October 10 1911&lt;/td&gt;</html>
+                    <text>October 10 1911</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;December 28 1921&lt;/td&gt;</html>
+                    <text>December 28 1921</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Raoul Dandurand&lt;/td&gt;</html>
+                    <text>Raoul Dandurand</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;December 29 1921&lt;/td&gt;</html>
+                    <text>December 29 1921</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;June 28 1926&lt;/td&gt;</html>
+                    <text>June 28 1926</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;William Benjamin Ross***&lt;/td&gt;</html>
+                    <text>William Benjamin Ross***</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;June 28 1926&lt;/td&gt;</html>
+                    <text>June 28 1926</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;September 24 1926&lt;/td&gt;</html>
+                    <text>September 24 1926</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Raoul Dandurand&lt;/td&gt;</html>
+                    <text>Raoul Dandurand</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;September 25 1926&lt;/td&gt;</html>
+                    <text>September 25 1926</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;August 6 1930&lt;/td&gt;</html>
+                    <text>August 6 1930</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Wellington Bartley Willoughby&lt;/td&gt;</html>
+                    <text>Wellington Bartley Willoughby</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;August 7 1930&lt;/td&gt;</html>
+                    <text>August 7 1930</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;February 3 1932&lt;/td&gt;</html>
+                    <text>February 3 1932</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Arthur Meighen&lt;/td&gt;</html>
+                    <text>Arthur Meighen</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;February 3 1932&lt;/td&gt;</html>
+                    <text>February 3 1932</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;October 22 1935&lt;/td&gt;</html>
+                    <text>October 22 1935</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Raoul Dandurand&lt;/td&gt;</html>
+                    <text>Raoul Dandurand</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;October 23 1935&lt;/td&gt;</html>
+                    <text>October 23 1935</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;March 11 1942&lt;/td&gt;</html>
+                    <text>March 11 1942</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;James Horace King&lt;/td&gt;</html>
+                    <text>James Horace King</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;May 26 1942&lt;/td&gt;</html>
+                    <text>May 26 1942</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;August 24 1945&lt;/td&gt;</html>
+                    <text>August 24 1945</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Wishart McLea Robertson&lt;/td&gt;</html>
+                    <text>Wishart McLea Robertson</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;August 24 1945&lt;/td&gt;</html>
+                    <text>August 24 1945</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;October 14 1953&lt;/td&gt;</html>
+                    <text>October 14 1953</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;William Ross MacDonald&lt;/td&gt;</html>
+                    <text>William Ross MacDonald</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;October 14 1953&lt;/td&gt;</html>
+                    <text>October 14 1953</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;June 20 1957&lt;/td&gt;</html>
+                    <text>June 20 1957</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;John Thomas Haig&lt;/td&gt;</html>
+                    <text>John Thomas Haig</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;October 9 1957&lt;/td&gt;</html>
+                    <text>October 9 1957</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;May 11 1958&lt;/td&gt;</html>
+                    <text>May 11 1958</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;May 12 1958&lt;/td&gt;</html>
+                    <text>May 12 1958</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;August 31 1962&lt;/td&gt;</html>
+                    <text>August 31 1962</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Alfred Johnson Brooks&lt;/td&gt;</html>
+                    <text>Alfred Johnson Brooks</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;August 31 1962&lt;/td&gt;</html>
+                    <text>August 31 1962</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;April 21 1963&lt;/td&gt;</html>
+                    <text>April 21 1963</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;William Ross MacDonald&lt;/td&gt;</html>
+                    <text>William Ross MacDonald</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;April 22 1963&lt;/td&gt;</html>
+                    <text>April 22 1963</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;February 2 1964&lt;/td&gt;</html>
+                    <text>February 2 1964</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;John Joseph Connolly&lt;/td&gt;</html>
+                    <text>John Joseph Connolly</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;February 3 1964&lt;/td&gt;</html>
+                    <text>February 3 1964</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;April 19 1968&lt;/td&gt;</html>
+                    <text>April 19 1968</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Paul Joseph James Martin&lt;/td&gt;</html>
+                    <text>Paul Joseph James Martin</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;April 20 1968&lt;/td&gt;</html>
+                    <text>April 20 1968</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;April 1 1969&lt;/td&gt;</html>
+                    <text>April 1 1969</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+        </content>
+    </logicalTable>
+</entity>

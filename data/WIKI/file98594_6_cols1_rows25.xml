@@ -1,0 +1,657 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<entity>
+    <logicalTable>
+        <content>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Bart of Darkness&lt;/td&gt;</html>
+                    <text>Bart of Darkness</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;September 4 , 1994&lt;/td&gt;</html>
+                    <text>September 4 , 1994</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Lisa's Rival&lt;/td&gt;</html>
+                    <text>Lisa&amp;apos;s Rival</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;September 11 , 1994&lt;/td&gt;</html>
+                    <text>September 11 , 1994</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Another Simpson Clip Show&lt;/td&gt;</html>
+                    <text>Another Simpson Clip Show</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;September 25 , 1994&lt;/td&gt;</html>
+                    <text>September 25 , 1994</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Itchy &amp; Scratchy Land&lt;/td&gt;</html>
+                    <text>Itchy &amp;amp; Scratchy Land</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;October 2 , 1994&lt;/td&gt;</html>
+                    <text>October 2 , 1994</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Sideshow Bob Roberts&lt;/td&gt;</html>
+                    <text>Sideshow Bob Roberts</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;October 9 , 1994&lt;/td&gt;</html>
+                    <text>October 9 , 1994</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Treehouse of Horror V&lt;/td&gt;</html>
+                    <text>Treehouse of Horror V</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;October 30 , 1994&lt;/td&gt;</html>
+                    <text>October 30 , 1994</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Bart's Girlfriend&lt;/td&gt;</html>
+                    <text>Bart&amp;apos;s Girlfriend</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;November 6 , 1994&lt;/td&gt;</html>
+                    <text>November 6 , 1994</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Lisa on Ice&lt;/td&gt;</html>
+                    <text>Lisa on Ice</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;November 13 , 1994&lt;/td&gt;</html>
+                    <text>November 13 , 1994</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Homer Badman&lt;/td&gt;</html>
+                    <text>Homer Badman</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;November 27 , 1994&lt;/td&gt;</html>
+                    <text>November 27 , 1994</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Grampa Vs . Sexual Inadequacy&lt;/td&gt;</html>
+                    <text>Grampa Vs . Sexual Inadequacy</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;December 4 , 1994&lt;/td&gt;</html>
+                    <text>December 4 , 1994</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Fear of Flying&lt;/td&gt;</html>
+                    <text>Fear of Flying</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;December 18 , 1994&lt;/td&gt;</html>
+                    <text>December 18 , 1994</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Homer the Great&lt;/td&gt;</html>
+                    <text>Homer the Great</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;January 8 , 1995&lt;/td&gt;</html>
+                    <text>January 8 , 1995</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;And Maggie Makes Three&lt;/td&gt;</html>
+                    <text>And Maggie Makes Three</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Jannuary 22 , 1995&lt;/td&gt;</html>
+                    <text>Jannuary 22 , 1995</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Bart's Comet&lt;/td&gt;</html>
+                    <text>Bart&amp;apos;s Comet</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;February 5 , 1995&lt;/td&gt;</html>
+                    <text>February 5 , 1995</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Homie the Clown&lt;/td&gt;</html>
+                    <text>Homie the Clown</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;February 12 , 1995&lt;/td&gt;</html>
+                    <text>February 12 , 1995</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Bart Vs . Australia&lt;/td&gt;</html>
+                    <text>Bart Vs . Australia</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;February 19 , 1995&lt;/td&gt;</html>
+                    <text>February 19 , 1995</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Homer Vs . Patty and Selma&lt;/td&gt;</html>
+                    <text>Homer Vs . Patty and Selma</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;February 26 , 1995&lt;/td&gt;</html>
+                    <text>February 26 , 1995</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;A Star is Burns&lt;/td&gt;</html>
+                    <text>A Star is Burns</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;March 5 , 1995&lt;/td&gt;</html>
+                    <text>March 5 , 1995</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Lisa's Wedding&lt;/td&gt;</html>
+                    <text>Lisa&amp;apos;s Wedding</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;March 26 , 1995&lt;/td&gt;</html>
+                    <text>March 26 , 1995</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Two Dozen and One Greyhounds&lt;/td&gt;</html>
+                    <text>Two Dozen and One Greyhounds</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;April 9 , 1995&lt;/td&gt;</html>
+                    <text>April 9 , 1995</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;The PTA Disbands&lt;/td&gt;</html>
+                    <text>The PTA Disbands</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;April 16 , 1995&lt;/td&gt;</html>
+                    <text>April 16 , 1995</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;'Round Springfield&lt;/td&gt;</html>
+                    <text>&amp;apos;Round Springfield</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;April 30 , 1995&lt;/td&gt;</html>
+                    <text>April 30 , 1995</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;The Springfield Connection&lt;/td&gt;</html>
+                    <text>The Springfield Connection</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;May 7 , 1995&lt;/td&gt;</html>
+                    <text>May 7 , 1995</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Lemon of Troy&lt;/td&gt;</html>
+                    <text>Lemon of Troy</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;May 14 , 1995&lt;/td&gt;</html>
+                    <text>May 14 , 1995</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Who Shot Mr . Burns ( Part One )&lt;/td&gt;</html>
+                    <text>Who Shot Mr . Burns ( Part One )</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;May 21 , 1995&lt;/td&gt;</html>
+                    <text>May 21 , 1995</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+        </content>
+    </logicalTable>
+</entity>

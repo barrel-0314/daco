@@ -1,0 +1,553 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<entity>
+    <logicalTable>
+        <content>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Greater Yellowlegs&lt;/td&gt;</html>
+                    <text>Greater Yellowlegs</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Tringa melanoleuca&lt;/td&gt;</html>
+                    <text>Tringa melanoleuca</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Lesser Yellowlegs&lt;/td&gt;</html>
+                    <text>Lesser Yellowlegs</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Tringa flavipes&lt;/td&gt;</html>
+                    <text>Tringa flavipes</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Spotted Redshank&lt;/td&gt;</html>
+                    <text>Spotted Redshank</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Tringa erythropus&lt;/td&gt;</html>
+                    <text>Tringa erythropus</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Solitary Sandpiper&lt;/td&gt;</html>
+                    <text>Solitary Sandpiper</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Tringa solitaria&lt;/td&gt;</html>
+                    <text>Tringa solitaria</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Willet&lt;/td&gt;</html>
+                    <text>Willet</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Catoptrophorus semipalmatus&lt;/td&gt;</html>
+                    <text>Catoptrophorus semipalmatus</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Wandering Tattler&lt;/td&gt;</html>
+                    <text>Wandering Tattler</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Heteroscelus incanus&lt;/td&gt;</html>
+                    <text>Heteroscelus incanus</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Spotted Sandpiper&lt;/td&gt;</html>
+                    <text>Spotted Sandpiper</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Actitis macularia&lt;/td&gt;</html>
+                    <text>Actitis macularia</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Upland Sandpiper&lt;/td&gt;</html>
+                    <text>Upland Sandpiper</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Bartramia longicauda&lt;/td&gt;</html>
+                    <text>Bartramia longicauda</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Eskimo Curlew&lt;/td&gt;</html>
+                    <text>Eskimo Curlew</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Numenius borealis&lt;/td&gt;</html>
+                    <text>Numenius borealis</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Whimbrel&lt;/td&gt;</html>
+                    <text>Whimbrel</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Numenius phaeopus&lt;/td&gt;</html>
+                    <text>Numenius phaeopus</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Long - billed Curlew&lt;/td&gt;</html>
+                    <text>Long - billed Curlew</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Numenius americanus&lt;/td&gt;</html>
+                    <text>Numenius americanus</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Hudsonian Godwit&lt;/td&gt;</html>
+                    <text>Hudsonian Godwit</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Limosa haemastica&lt;/td&gt;</html>
+                    <text>Limosa haemastica</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Marbled Godwit&lt;/td&gt;</html>
+                    <text>Marbled Godwit</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Limosa fedoa&lt;/td&gt;</html>
+                    <text>Limosa fedoa</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Ruddy Turnstone&lt;/td&gt;</html>
+                    <text>Ruddy Turnstone</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Arenaria interpres&lt;/td&gt;</html>
+                    <text>Arenaria interpres</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Black Turnstone&lt;/td&gt;</html>
+                    <text>Black Turnstone</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Arenaria melanocephala&lt;/td&gt;</html>
+                    <text>Arenaria melanocephala</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Red Knot&lt;/td&gt;</html>
+                    <text>Red Knot</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Calidris canutus&lt;/td&gt;</html>
+                    <text>Calidris canutus</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Sanderling&lt;/td&gt;</html>
+                    <text>Sanderling</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Calidris alba&lt;/td&gt;</html>
+                    <text>Calidris alba</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Semipalmated Sandpiper&lt;/td&gt;</html>
+                    <text>Semipalmated Sandpiper</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Calidris pusilla&lt;/td&gt;</html>
+                    <text>Calidris pusilla</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Western Sandpiper&lt;/td&gt;</html>
+                    <text>Western Sandpiper</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Calidris mauri&lt;/td&gt;</html>
+                    <text>Calidris mauri</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Red - necked Stint&lt;/td&gt;</html>
+                    <text>Red - necked Stint</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Calidris ruficollis&lt;/td&gt;</html>
+                    <text>Calidris ruficollis</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Little Stint&lt;/td&gt;</html>
+                    <text>Little Stint</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Calidris minuta&lt;/td&gt;</html>
+                    <text>Calidris minuta</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Least Sandpiper&lt;/td&gt;</html>
+                    <text>Least Sandpiper</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Calidris minutilla&lt;/td&gt;</html>
+                    <text>Calidris minutilla</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;White - rumped Sandpiper&lt;/td&gt;</html>
+                    <text>White - rumped Sandpiper</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Calidris fuscicollis&lt;/td&gt;</html>
+                    <text>Calidris fuscicollis</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Baird's Sandpiper&lt;/td&gt;</html>
+                    <text>Baird&amp;apos;s Sandpiper</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Calidris bairdii&lt;/td&gt;</html>
+                    <text>Calidris bairdii</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Pectoral Sandpiper&lt;/td&gt;</html>
+                    <text>Pectoral Sandpiper</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Calidris melanotos&lt;/td&gt;</html>
+                    <text>Calidris melanotos</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Sharp - tailed Sandpiper&lt;/td&gt;</html>
+                    <text>Sharp - tailed Sandpiper</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Calidris acuminata&lt;/td&gt;</html>
+                    <text>Calidris acuminata</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Curlew Sandpiper&lt;/td&gt;</html>
+                    <text>Curlew Sandpiper</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Calidris ferruginea&lt;/td&gt;</html>
+                    <text>Calidris ferruginea</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Stilt Sandpiper&lt;/td&gt;</html>
+                    <text>Stilt Sandpiper</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Calidris himantopus&lt;/td&gt;</html>
+                    <text>Calidris himantopus</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Spoonbilleded Sandpiper&lt;/td&gt;</html>
+                    <text>Spoonbilleded Sandpiper</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Eurynorhynchus pygmaeus&lt;/td&gt;</html>
+                    <text>Eurynorhynchus pygmaeus</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Buff - breasted Sandpiper&lt;/td&gt;</html>
+                    <text>Buff - breasted Sandpiper</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Tryngites subruficollis&lt;/td&gt;</html>
+                    <text>Tryngites subruficollis</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Ruff&lt;/td&gt;</html>
+                    <text>Ruff</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Philomachus pugnax&lt;/td&gt;</html>
+                    <text>Philomachus pugnax</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Short - billed Dowitcher&lt;/td&gt;</html>
+                    <text>Short - billed Dowitcher</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Limnodromus griseus&lt;/td&gt;</html>
+                    <text>Limnodromus griseus</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Long - billed Dowitcher&lt;/td&gt;</html>
+                    <text>Long - billed Dowitcher</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Limnodromus scolopaceus&lt;/td&gt;</html>
+                    <text>Limnodromus scolopaceus</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Wilson's Snipe&lt;/td&gt;</html>
+                    <text>Wilson&amp;apos;s Snipe</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Gallinago delicata&lt;/td&gt;</html>
+                    <text>Gallinago delicata</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;American Woodcock&lt;/td&gt;</html>
+                    <text>American Woodcock</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Scolopax minor&lt;/td&gt;</html>
+                    <text>Scolopax minor</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Wilson's Phalarope&lt;/td&gt;</html>
+                    <text>Wilson&amp;apos;s Phalarope</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Phalaropus tricolor&lt;/td&gt;</html>
+                    <text>Phalaropus tricolor</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Red - necked Phalarope&lt;/td&gt;</html>
+                    <text>Red - necked Phalarope</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Phalaropus lobatus&lt;/td&gt;</html>
+                    <text>Phalaropus lobatus</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+        </content>
+    </logicalTable>
+</entity>

@@ -1,0 +1,19 @@
+,col0,col1,col2,col3,col4,col5,col6,col7,col8,col9
+0,perm.hr.Expense.r,com.axelor.apps.hr.db.Expense,x,,,,,self.company.id in (?),__user__.companySet.id.plus(0),Expense Read
+1,perm.hr.ExpenseLine.r,com.axelor.apps.hr.db.ExpenseLine,x,,,,,,,Expense Read
+2,perm.hr.Expense.rwc,com.axelor.apps.hr.db.Expense,x,x,x,,,self.company.id in (?),__user__.companySet.id.plus(0),Expense User
+3,perm.hr.ExpenseLine.rwc,com.axelor.apps.hr.db.ExpenseLine,x,x,x,,,,,Expense User
+4,perm.hr.Expense.rwcde,com.axelor.apps.hr.db.Expense,x,x,x,x,x,self.company.id in (?),__user__.companySet.id.plus(0),Expense Manager
+5,perm.hr.ExpenseLine.rwcde,com.axelor.apps.hr.db.ExpenseLine,x,x,x,x,x,,,Expense Manager
+6,perm.hr.KilometricAllowParam.r,com.axelor.apps.hr.db.KilometricAllowParam,x,,,,,,,Expense Read
+7,perm.hr.KilometricLog.r,com.axelor.apps.hr.db.KilometricLog,x,,,,,,,Expense Read
+8,perm.hr.KilometricAllowanceRate.r,com.axelor.apps.hr.db.KilometricAllowanceRate,x,,,,,,,Expense Read
+9,perm.hr.KilometricAllowanceRule.r,com.axelor.apps.hr.db.KilometricAllowanceRule,x,,,,,,,Expense Read
+10,perm.hr.KilometricAllowParam.rwc,com.axelor.apps.hr.db.KilometricAllowParam,x,x,x,,,,,Expense User
+11,perm.hr.KilometricLog.rwc,com.axelor.apps.hr.db.KilometricLog,x,x,x,,,,,Expense User
+12,perm.hr.KilometricAllowanceRate.rwc,com.axelor.apps.hr.db.KilometricAllowanceRate,x,x,x,,,,,Expense User
+13,perm.hr.KilometricAllowanceRule.rwc,com.axelor.apps.hr.db.KilometricAllowanceRule,x,x,x,,,,,Expense User
+14,perm.hr.KilometricAllowParam.rwcde,com.axelor.apps.hr.db.KilometricAllowParam,x,x,x,x,x,,,Expense Manager
+15,perm.hr.KilometricLog.rwcde,com.axelor.apps.hr.db.KilometricLog,x,x,x,x,x,,,Expense Manager
+16,perm.hr.KilometricAllowanceRate.rwcde,com.axelor.apps.hr.db.KilometricAllowanceRate,x,x,x,x,x,,,Expense Manager
+17,perm.hr.KilometricAllowanceRule.rwcde,com.axelor.apps.hr.db.KilometricAllowanceRule,x,x,x,x,x,,,Expense Manager

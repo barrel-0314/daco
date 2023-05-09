@@ -1,0 +1,12 @@
+,col0,col1,col2,col3,col4,col5
+0,"org.apache.commons.lang.time.DurationFormatUtils#int#reduceAndCorrect#?,Calendar,Calendar,int,int#437",1.0,1.0,1.0,startValue - endValue>field,GT
+1,"org.apache.commons.lang.time.DurationFormatUtils#String#formatPeriod#?,long,long,String,boolean,TimeZone#305",1.0,1.0,1.0,days < 0,GT
+2,"org.apache.commons.lang.time.DurationFormatUtils#String#format#?,Token[],int,int,int,int,int,int,int,boolean#386",0.9974635383639824,0.9987317691819912,0.9951807228915664,token.getCount()>=sz,_
+3,"org.apache.commons.lang.time.DurationFormatUtils$Token#boolean#containsTokenWithValue#?,Token[],Object#529",0.9955611921369688,0.9955611921369688,0.994546607482562,!(i < sz),_
+4,org.apache.commons.lang.time.DurationFormatUtils$Token#int#getCount#?#575,0.99429296131896,0.99429296131896,0.99429296131896,count!=0,_
+5,"org.apache.commons.lang.time.DurationFormatUtils#Token[]#lexx#?,String#502",0.9968294229549778,0.9949270767279644,0.9939124920735574,previous != null && previous.getValue() == value,_
+6,"org.apache.commons.lang.StringUtils#String#leftPad#?,String,int,char#3869",0.99429296131896,0.99429296131896,0.992263792010146,pads <= 0,_
+7,"org.apache.commons.lang.time.DurationFormatUtils#String#formatPeriod#?,long,long,String#247",0.9993658845909956,0.0,0.7994927076727965,,_
+8,org.apache.commons.lang.time.DurationFormatUtils$Token#void#increment#?#566,0.9949270767279644,0.0,0.7959416613823717,,_
+9,org.apache.commons.lang.time.DurationFormatUtils$Token#Object#getValue#?#584,0.9936588459099556,0.0,0.7949270767279645,,_
+10,"org.apache.commons.lang.time.DurationFormatUtils$Token#?#Token#?,Object#547",0.9936588459099556,0.0,0.7949270767279645,,_

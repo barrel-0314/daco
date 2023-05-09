@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<entity>
+    <logicalTable>
+        <content>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Academy of Learning&lt;/td&gt;</html>
+                    <text>Academy of Learning</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Airdrie&lt;/td&gt;</html>
+                    <text>Airdrie</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Alberta Career Computer Centre&lt;/td&gt;</html>
+                    <text>Alberta Career Computer Centre</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Edmonton&lt;/td&gt;</html>
+                    <text>Edmonton</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Athabasca University&lt;/td&gt;</html>
+                    <text>Athabasca University</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Bow Valley College&lt;/td&gt;</html>
+                    <text>Bow Valley College</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Calgary&lt;/td&gt;</html>
+                    <text>Calgary</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;CDI College of Business and Technology&lt;/td&gt;</html>
+                    <text>CDI College of Business and Technology</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Edmonton&lt;/td&gt;</html>
+                    <text>Edmonton</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Concordia University College of Alberta&lt;/td&gt;</html>
+                    <text>Concordia University College of Alberta</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Edmonton&lt;/td&gt;</html>
+                    <text>Edmonton</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;DeVry Institute of Technology&lt;/td&gt;</html>
+                    <text>DeVry Institute of Technology</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Calgary&lt;/td&gt;</html>
+                    <text>Calgary</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Grande Prairie Regional College&lt;/td&gt;</html>
+                    <text>Grande Prairie Regional College</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Grant MacEwan College&lt;/td&gt;</html>
+                    <text>Grant MacEwan College</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Edmonton&lt;/td&gt;</html>
+                    <text>Edmonton</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Keyano College&lt;/td&gt;</html>
+                    <text>Keyano College</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Fort McMurray&lt;/td&gt;</html>
+                    <text>Fort McMurray</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;The King's University College&lt;/td&gt;</html>
+                    <text>The King&amp;apos;s University College</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Edmonton&lt;/td&gt;</html>
+                    <text>Edmonton</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Lakeland College&lt;/td&gt;</html>
+                    <text>Lakeland College</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Lloydminster&lt;/td&gt;</html>
+                    <text>Lloydminster</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Lethbridge Community College&lt;/td&gt;</html>
+                    <text>Lethbridge Community College</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Medicine Hat College&lt;/td&gt;</html>
+                    <text>Medicine Hat College</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Mount Royal College&lt;/td&gt;</html>
+                    <text>Mount Royal College</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Calgary&lt;/td&gt;</html>
+                    <text>Calgary</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Network Learning Masters&lt;/td&gt;</html>
+                    <text>Network Learning Masters</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Edmonton&lt;/td&gt;</html>
+                    <text>Edmonton</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Northern Alberta Institute of Technology&lt;/td&gt;</html>
+                    <text>Northern Alberta Institute of Technology</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Edmonton&lt;/td&gt;</html>
+                    <text>Edmonton</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Prestwick College&lt;/td&gt;</html>
+                    <text>Prestwick College</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Calgary&lt;/td&gt;</html>
+                    <text>Calgary</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Red Deer College&lt;/td&gt;</html>
+                    <text>Red Deer College</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Southern Alberta Institute of Technology ( SAIT )&lt;/td&gt;</html>
+                    <text>Southern Alberta Institute of Technology ( SAIT )</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Calgary&lt;/td&gt;</html>
+                    <text>Calgary</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Sprott - Shaw Community College&lt;/td&gt;</html>
+                    <text>Sprott - Shaw Community College</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Calgary&lt;/td&gt;</html>
+                    <text>Calgary</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;the University of Alberta&lt;/td&gt;</html>
+                    <text>the University of Alberta</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Edmonton and Camrose&lt;/td&gt;</html>
+                    <text>Edmonton and Camrose</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;the University of Calgary&lt;/td&gt;</html>
+                    <text>the University of Calgary</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;the University of Lethbridge&lt;/td&gt;</html>
+                    <text>the University of Lethbridge</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+        </content>
+    </logicalTable>
+</entity>

@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<entity>
+    <logicalTable>
+        <content>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Stockard Channing&lt;/td&gt;</html>
+                    <text>Stockard Channing</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Abigail 'Abbey' Bartlet&lt;/td&gt;</html>
+                    <text>Abigail &amp;apos;Abbey&amp;apos; Bartlet</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;First Lady&lt;/td&gt;</html>
+                    <text>First Lady</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Allison Janney&lt;/td&gt;</html>
+                    <text>Allison Janney</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;,&lt;/td&gt;</html>
+                    <text>,</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;White House Press Secretary&lt;/td&gt;</html>
+                    <text>White House Press Secretary</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Joshua Malina&lt;/td&gt;</html>
+                    <text>Joshua Malina</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;4th&lt;/td&gt;</html>
+                    <text>4th</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Deputy Communications Director&lt;/td&gt;</html>
+                    <text>Deputy Communications Director</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Janel Moloney&lt;/td&gt;</html>
+                    <text>Janel Moloney</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Donnatella 'Donna' Moss&lt;/td&gt;</html>
+                    <text>Donnatella &amp;apos;Donna&amp;apos; Moss</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Senior Assistant to the Deputy Chief of Staff for Strategic Planning&lt;/td&gt;</html>
+                    <text>Senior Assistant to the Deputy Chief of Staff for Strategic Planning</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Richard Schiff&lt;/td&gt;</html>
+                    <text>Richard Schiff</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Tobias Zachary 'Toby' Ziegler&lt;/td&gt;</html>
+                    <text>Tobias Zachary &amp;apos;Toby&amp;apos; Ziegler</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;White House Director of Communications&lt;/td&gt;</html>
+                    <text>White House Director of Communications</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Martin Sheen&lt;/td&gt;</html>
+                    <text>Martin Sheen</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;New&lt;/td&gt;</html>
+                    <text>New</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;President of the United States&lt;/td&gt;</html>
+                    <text>President of the United States</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;John Spencer&lt;/td&gt;</html>
+                    <text>John Spencer</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Bartlet&lt;/td&gt;</html>
+                    <text>Bartlet</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;House Chief of&lt;/td&gt;</html>
+                    <text>House Chief of</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Bradley Whitford&lt;/td&gt;</html>
+                    <text>Bradley Whitford</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Joshua 'Josh' Lyman&lt;/td&gt;</html>
+                    <text>Joshua &amp;apos;Josh&amp;apos; Lyman</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Deputy White House Chief of Staff&lt;/td&gt;</html>
+                    <text>Deputy White House Chief of Staff</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+        </content>
+    </logicalTable>
+</entity>

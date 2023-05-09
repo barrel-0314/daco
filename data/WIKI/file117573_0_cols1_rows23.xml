@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<entity>
+    <logicalTable>
+        <content>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;1999&lt;/td&gt;</html>
+                    <text>1999</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Vector Prime&lt;/td&gt;</html>
+                    <text>Vector Prime</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;2000&lt;/td&gt;</html>
+                    <text>2000</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Dark Tide : Onslaught&lt;/td&gt;</html>
+                    <text>Dark Tide : Onslaught</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;2000&lt;/td&gt;</html>
+                    <text>2000</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Dark Tide : Ruin&lt;/td&gt;</html>
+                    <text>Dark Tide : Ruin</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;2000&lt;/td&gt;</html>
+                    <text>2000</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Agents of Chaos : Hero's Trial&lt;/td&gt;</html>
+                    <text>Agents of Chaos : Hero&amp;apos;s Trial</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;2000&lt;/td&gt;</html>
+                    <text>2000</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Agents of Chaos : Jedi Eclipse&lt;/td&gt;</html>
+                    <text>Agents of Chaos : Jedi Eclipse</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;2000&lt;/td&gt;</html>
+                    <text>2000</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Balance Point&lt;/td&gt;</html>
+                    <text>Balance Point</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;2001&lt;/td&gt;</html>
+                    <text>2001</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Recovery&lt;/td&gt;</html>
+                    <text>Recovery</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;e - book&lt;/td&gt;</html>
+                    <text>e - book</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;2001&lt;/td&gt;</html>
+                    <text>2001</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Edge of Victory : Conquest&lt;/td&gt;</html>
+                    <text>Edge of Victory : Conquest</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;2001&lt;/td&gt;</html>
+                    <text>2001</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Edge of Victory : Rebirth&lt;/td&gt;</html>
+                    <text>Edge of Victory : Rebirth</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Emissaries of the Void&lt;/td&gt;</html>
+                    <text>Emissaries of the Void</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;short story&lt;/td&gt;</html>
+                    <text>short story</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;2001&lt;/td&gt;</html>
+                    <text>2001</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Star by Star&lt;/td&gt;</html>
+                    <text>Star by Star</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;2002&lt;/td&gt;</html>
+                    <text>2002</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Dark Journey&lt;/td&gt;</html>
+                    <text>Dark Journey</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;2002&lt;/td&gt;</html>
+                    <text>2002</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;The Apprentice&lt;/td&gt;</html>
+                    <text>The Apprentice</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;short story&lt;/td&gt;</html>
+                    <text>short story</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;2002&lt;/td&gt;</html>
+                    <text>2002</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Enemy Lines : Rebel Dream&lt;/td&gt;</html>
+                    <text>Enemy Lines : Rebel Dream</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;2002&lt;/td&gt;</html>
+                    <text>2002</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Enemy Lines : Rebel Stand&lt;/td&gt;</html>
+                    <text>Enemy Lines : Rebel Stand</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;2002&lt;/td&gt;</html>
+                    <text>2002</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Traitor&lt;/td&gt;</html>
+                    <text>Traitor</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;2002&lt;/td&gt;</html>
+                    <text>2002</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Destiny's Way&lt;/td&gt;</html>
+                    <text>Destiny&amp;apos;s Way</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;2002&lt;/td&gt;</html>
+                    <text>2002</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Ylesia&lt;/td&gt;</html>
+                    <text>Ylesia</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;e - book&lt;/td&gt;</html>
+                    <text>e - book</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;2003&lt;/td&gt;</html>
+                    <text>2003</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Force Heretic : Remnant&lt;/td&gt;</html>
+                    <text>Force Heretic : Remnant</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;2003&lt;/td&gt;</html>
+                    <text>2003</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Force Heretic : Refugee&lt;/td&gt;</html>
+                    <text>Force Heretic : Refugee</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;2003&lt;/td&gt;</html>
+                    <text>2003</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Force Heretic : Reunion&lt;/td&gt;</html>
+                    <text>Force Heretic : Reunion</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;2003&lt;/td&gt;</html>
+                    <text>2003</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;The Final Prophecy&lt;/td&gt;</html>
+                    <text>The Final Prophecy</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;2003&lt;/td&gt;</html>
+                    <text>2003</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;The Unifying Force&lt;/td&gt;</html>
+                    <text>The Unifying Force</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+        </content>
+    </logicalTable>
+</entity>

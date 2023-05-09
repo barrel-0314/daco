@@ -1,0 +1,907 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<entity>
+    <logicalTable>
+        <content>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Inscrutabili Dei Consilio&lt;/td&gt;</html>
+                    <text>Inscrutabili Dei Consilio</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;On the Evils of Society&lt;/td&gt;</html>
+                    <text>On the Evils of Society</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;21 Apr 1878&lt;/td&gt;</html>
+                    <text>21 Apr 1878</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Apostolic Muneris&lt;/td&gt;</html>
+                    <text>Apostolic Muneris</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;On the Evils of Socialism&lt;/td&gt;</html>
+                    <text>On the Evils of Socialism</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;28 Dec 1878&lt;/td&gt;</html>
+                    <text>28 Dec 1878</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Aeterni Patris&lt;/td&gt;</html>
+                    <text>Aeterni Patris</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;On&lt;/td&gt;</html>
+                    <text>On</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Restoring Christian Philosophy&lt;/td&gt;</html>
+                    <text>Restoring Christian Philosophy</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;4 Aug 1879&lt;/td&gt;</html>
+                    <text>4 Aug 1879</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Grande Munus&lt;/td&gt;</html>
+                    <text>Grande Munus</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;On Saints Cyril and Methodius&lt;/td&gt;</html>
+                    <text>On Saints Cyril and Methodius</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;10 Feb 1880&lt;/td&gt;</html>
+                    <text>10 Feb 1880</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Sancta Dei Civitas&lt;/td&gt;</html>
+                    <text>Sancta Dei Civitas</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;On Mission Societies&lt;/td&gt;</html>
+                    <text>On Mission Societies</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;3 Dec 1880&lt;/td&gt;</html>
+                    <text>3 Dec 1880</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Diuturnum&lt;/td&gt;</html>
+                    <text>Diuturnum</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;On the Origin of Civil Power&lt;/td&gt;</html>
+                    <text>On the Origin of Civil Power</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;29 Jun 1881&lt;/td&gt;</html>
+                    <text>29 Jun 1881</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Licet Multa&lt;/td&gt;</html>
+                    <text>Licet Multa</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;On Catholics in Belgium&lt;/td&gt;</html>
+                    <text>On Catholics in Belgium</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;3 Aug 1881&lt;/td&gt;</html>
+                    <text>3 Aug 1881</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Etsi Nos&lt;/td&gt;</html>
+                    <text>Etsi Nos</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;On Conditions in Italy&lt;/td&gt;</html>
+                    <text>On Conditions in Italy</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;15 Feb 1882&lt;/td&gt;</html>
+                    <text>15 Feb 1882</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Auspicato Concessum&lt;/td&gt;</html>
+                    <text>Auspicato Concessum</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;On St . Francis of Assisi&lt;/td&gt;</html>
+                    <text>On St . Francis of Assisi</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;17 Sep 1882&lt;/td&gt;</html>
+                    <text>17 Sep 1882</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Cum Multa&lt;/td&gt;</html>
+                    <text>Cum Multa</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;On Conditions in Spain&lt;/td&gt;</html>
+                    <text>On Conditions in Spain</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;8 Dec 1882&lt;/td&gt;</html>
+                    <text>8 Dec 1882</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Supremi Apostolatus Officio&lt;/td&gt;</html>
+                    <text>Supremi Apostolatus Officio</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;On Devotion of the Rosary&lt;/td&gt;</html>
+                    <text>On Devotion of the Rosary</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;1 Sep 1883&lt;/td&gt;</html>
+                    <text>1 Sep 1883</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Nobilissima Gallorum Gens&lt;/td&gt;</html>
+                    <text>Nobilissima Gallorum Gens</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;On the Religious Question in France&lt;/td&gt;</html>
+                    <text>On the Religious Question in France</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;8 Feb 1884&lt;/td&gt;</html>
+                    <text>8 Feb 1884</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Humanum Genus&lt;/td&gt;</html>
+                    <text>Humanum Genus</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;On Freemasonry&lt;/td&gt;</html>
+                    <text>On Freemasonry</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;20 Mar 1884&lt;/td&gt;</html>
+                    <text>20 Mar 1884</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Superiore Anno&lt;/td&gt;</html>
+                    <text>Superiore Anno</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;On the Rosary&lt;/td&gt;</html>
+                    <text>On the Rosary</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;30 Aug 1884&lt;/td&gt;</html>
+                    <text>30 Aug 1884</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Immortale Dei&lt;/td&gt;</html>
+                    <text>Immortale Dei</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;On the Christian Constitution of States&lt;/td&gt;</html>
+                    <text>On the Christian Constitution of States</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;1 Nov 1885&lt;/td&gt;</html>
+                    <text>1 Nov 1885</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Spectata Fides&lt;/td&gt;</html>
+                    <text>Spectata Fides</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;On Christian Education&lt;/td&gt;</html>
+                    <text>On Christian Education</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;27 Nov 1885&lt;/td&gt;</html>
+                    <text>27 Nov 1885</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Quod Auctoritate&lt;/td&gt;</html>
+                    <text>Quod Auctoritate</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Proclaiming the Extraordinary Jubilee&lt;/td&gt;</html>
+                    <text>Proclaiming the Extraordinary Jubilee</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;22 Dec 1885&lt;/td&gt;</html>
+                    <text>22 Dec 1885</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Iampridem&lt;/td&gt;</html>
+                    <text>Iampridem</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;On Catholicism in Germany&lt;/td&gt;</html>
+                    <text>On Catholicism in Germany</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;6 Jan 1886&lt;/td&gt;</html>
+                    <text>6 Jan 1886</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Quod Multum&lt;/td&gt;</html>
+                    <text>Quod Multum</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;On the Liberty of the Church&lt;/td&gt;</html>
+                    <text>On the Liberty of the Church</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;22 Aug 1886&lt;/td&gt;</html>
+                    <text>22 Aug 1886</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Pergrata&lt;/td&gt;</html>
+                    <text>Pergrata</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;On the Church in Portugal&lt;/td&gt;</html>
+                    <text>On the Church in Portugal</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;14 Sep 1886&lt;/td&gt;</html>
+                    <text>14 Sep 1886</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Vi E Ben Noto&lt;/td&gt;</html>
+                    <text>Vi E Ben Noto</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;On the Rosary and Public Life&lt;/td&gt;</html>
+                    <text>On the Rosary and Public Life</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;20 Sep 1887&lt;/td&gt;</html>
+                    <text>20 Sep 1887</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Officio Sanctissimo&lt;/td&gt;</html>
+                    <text>Officio Sanctissimo</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;On the Church in Bavaria&lt;/td&gt;</html>
+                    <text>On the Church in Bavaria</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;22 Dec 1887&lt;/td&gt;</html>
+                    <text>22 Dec 1887</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Quod Anniversarius&lt;/td&gt;</html>
+                    <text>Quod Anniversarius</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;the Occasion of the Sacerdotal Jubilee of Leo&lt;/td&gt;</html>
+                    <text>the Occasion of the Sacerdotal Jubilee of Leo</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;11 Apr 1888&lt;/td&gt;</html>
+                    <text>11 Apr 1888</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;In Plurimism&lt;/td&gt;</html>
+                    <text>In Plurimism</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;On the Abolition of Slavery&lt;/td&gt;</html>
+                    <text>On the Abolition of Slavery</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;5 May 1888&lt;/td&gt;</html>
+                    <text>5 May 1888</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Libertas&lt;/td&gt;</html>
+                    <text>Libertas</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;On the Nature of Human Liberty&lt;/td&gt;</html>
+                    <text>On the Nature of Human Liberty</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;20 Jun 1888&lt;/td&gt;</html>
+                    <text>20 Jun 1888</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Saepe Nos&lt;/td&gt;</html>
+                    <text>Saepe Nos</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;On Boycotting in Ireland&lt;/td&gt;</html>
+                    <text>On Boycotting in Ireland</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;24 Jun 1888&lt;/td&gt;</html>
+                    <text>24 Jun 1888</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Quam Aerumnosa&lt;/td&gt;</html>
+                    <text>Quam Aerumnosa</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;On Italian Immigrants&lt;/td&gt;</html>
+                    <text>On Italian Immigrants</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;10 Dec 1888&lt;/td&gt;</html>
+                    <text>10 Dec 1888</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Etsi Cunctas&lt;/td&gt;</html>
+                    <text>Etsi Cunctas</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;On the Church in Ireland&lt;/td&gt;</html>
+                    <text>On the Church in Ireland</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;21 Dec 1888&lt;/td&gt;</html>
+                    <text>21 Dec 1888</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Exeunte Lam Anno&lt;/td&gt;</html>
+                    <text>Exeunte Lam Anno</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;On the Right Ordering of Christian Life&lt;/td&gt;</html>
+                    <text>On the Right Ordering of Christian Life</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;25 Dec 1888&lt;/td&gt;</html>
+                    <text>25 Dec 1888</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Magni Nobis&lt;/td&gt;</html>
+                    <text>Magni Nobis</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;On the Catholic University of America&lt;/td&gt;</html>
+                    <text>On the Catholic University of America</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;7 Mar 1889&lt;/td&gt;</html>
+                    <text>7 Mar 1889</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Quamquam Pluries&lt;/td&gt;</html>
+                    <text>Quamquam Pluries</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;On Devotion to St . Joseph&lt;/td&gt;</html>
+                    <text>On Devotion to St . Joseph</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;15 Aug 1889&lt;/td&gt;</html>
+                    <text>15 Aug 1889</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Sapientiae Christian&lt;/td&gt;</html>
+                    <text>Sapientiae Christian</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;On Christians as Citizens&lt;/td&gt;</html>
+                    <text>On Christians as Citizens</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;10 Jan 1890&lt;/td&gt;</html>
+                    <text>10 Jan 1890</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Dall'alto Dell'apostolico Seggio&lt;/td&gt;</html>
+                    <text>Dall&amp;apos;alto Dell&amp;apos;apostolico Seggio</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;On Freemasonry in Italy&lt;/td&gt;</html>
+                    <text>On Freemasonry in Italy</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;15 Oct 1890&lt;/td&gt;</html>
+                    <text>15 Oct 1890</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Catholicae Ecclesiae&lt;/td&gt;</html>
+                    <text>Catholicae Ecclesiae</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;On Slavery in the Missions&lt;/td&gt;</html>
+                    <text>On Slavery in the Missions</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;20 Nov 1890&lt;/td&gt;</html>
+                    <text>20 Nov 1890</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;In Ipso&lt;/td&gt;</html>
+                    <text>In Ipso</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;On Episcopal Reunions in Austria&lt;/td&gt;</html>
+                    <text>On Episcopal Reunions in Austria</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;3 Mar 1891&lt;/td&gt;</html>
+                    <text>3 Mar 1891</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Pastoralis Officii&lt;/td&gt;</html>
+                    <text>Pastoralis Officii</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;On the Morality of Dueling&lt;/td&gt;</html>
+                    <text>On the Morality of Dueling</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;12 Sep 1891&lt;/td&gt;</html>
+                    <text>12 Sep 1891</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Octobri Mense&lt;/td&gt;</html>
+                    <text>Octobri Mense</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;On the Rosary&lt;/td&gt;</html>
+                    <text>On the Rosary</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;22 Sep 1891&lt;/td&gt;</html>
+                    <text>22 Sep 1891</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Au Millieu Des Sollicitudes&lt;/td&gt;</html>
+                    <text>Au Millieu Des Sollicitudes</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;On the Church and State in France&lt;/td&gt;</html>
+                    <text>On the Church and State in France</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;16 Feb 1892&lt;/td&gt;</html>
+                    <text>16 Feb 1892</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Quarto Abeunte Saeculo&lt;/td&gt;</html>
+                    <text>Quarto Abeunte Saeculo</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;On the Columbus Quadricentennial&lt;/td&gt;</html>
+                    <text>On the Columbus Quadricentennial</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;16 Jul 1892&lt;/td&gt;</html>
+                    <text>16 Jul 1892</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Magnae Dei Matris&lt;/td&gt;</html>
+                    <text>Magnae Dei Matris</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;On the Rosary&lt;/td&gt;</html>
+                    <text>On the Rosary</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;8 Sep 1892&lt;/td&gt;</html>
+                    <text>8 Sep 1892</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Custodi Di Quella Fede&lt;/td&gt;</html>
+                    <text>Custodi Di Quella Fede</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;On Freemasonry&lt;/td&gt;</html>
+                    <text>On Freemasonry</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;8 Dec 1892&lt;/td&gt;</html>
+                    <text>8 Dec 1892</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Arcanum&lt;/td&gt;</html>
+                    <text>Arcanum</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;On Christian Marriage&lt;/td&gt;</html>
+                    <text>On Christian Marriage</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;10 Feb 1893&lt;/td&gt;</html>
+                    <text>10 Feb 1893</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Ad Extremas&lt;/td&gt;</html>
+                    <text>Ad Extremas</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Seminaries for Native Clergy&lt;/td&gt;</html>
+                    <text>Seminaries for Native Clergy</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;24 Jun 1893&lt;/td&gt;</html>
+                    <text>24 Jun 1893</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Constanti Hungarorum&lt;/td&gt;</html>
+                    <text>Constanti Hungarorum</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;On the Church in Hungary&lt;/td&gt;</html>
+                    <text>On the Church in Hungary</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;2 Sep 1893&lt;/td&gt;</html>
+                    <text>2 Sep 1893</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Laetitiae Sanctae&lt;/td&gt;</html>
+                    <text>Laetitiae Sanctae</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;On the Rosary&lt;/td&gt;</html>
+                    <text>On the Rosary</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;8 Sep 1893&lt;/td&gt;</html>
+                    <text>8 Sep 1893</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Providentissimus Deus&lt;/td&gt;</html>
+                    <text>Providentissimus Deus</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;On the Study of Sacred Scripture&lt;/td&gt;</html>
+                    <text>On the Study of Sacred Scripture</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;18 Nov 1893&lt;/td&gt;</html>
+                    <text>18 Nov 1893</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Jucunda Semper&lt;/td&gt;</html>
+                    <text>Jucunda Semper</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;On the Rosary&lt;/td&gt;</html>
+                    <text>On the Rosary</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;8 Sep 1894&lt;/td&gt;</html>
+                    <text>8 Sep 1894</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Litteras A Vobis&lt;/td&gt;</html>
+                    <text>Litteras A Vobis</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;On the Clergy in Brazil&lt;/td&gt;</html>
+                    <text>On the Clergy in Brazil</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;2 Jul 1894&lt;/td&gt;</html>
+                    <text>2 Jul 1894</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Christi Nomen&lt;/td&gt;</html>
+                    <text>Christi Nomen</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;On the Propagation of Faith and Eastern Churches&lt;/td&gt;</html>
+                    <text>On the Propagation of Faith and Eastern Churches</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;24 Dec 1894&lt;/td&gt;</html>
+                    <text>24 Dec 1894</text>
+                </cell>
+            </row>
+        </content>
+    </logicalTable>
+</entity>

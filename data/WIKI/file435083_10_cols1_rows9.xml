@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<entity>
+    <logicalTable>
+        <content>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Dule Hill&lt;/td&gt;</html>
+                    <text>Dule Hill</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Charlie&lt;/td&gt;</html>
+                    <text>Charlie</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Allison Janney&lt;/td&gt;</html>
+                    <text>Allison Janney</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;C . J . Cregg&lt;/td&gt;</html>
+                    <text>C . J . Cregg</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Moira Kelly&lt;/td&gt;</html>
+                    <text>Moira Kelly</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Madeline Hampton&lt;/td&gt;</html>
+                    <text>Madeline Hampton</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Rob Lowe&lt;/td&gt;</html>
+                    <text>Rob Lowe</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Sam Seaborn&lt;/td&gt;</html>
+                    <text>Sam Seaborn</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Janel Moloney&lt;/td&gt;</html>
+                    <text>Janel Moloney</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Donna Moss&lt;/td&gt;</html>
+                    <text>Donna Moss</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Richard Schiff&lt;/td&gt;</html>
+                    <text>Richard Schiff</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Toby Ziegler&lt;/td&gt;</html>
+                    <text>Toby Ziegler</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Martin Sheen&lt;/td&gt;</html>
+                    <text>Martin Sheen</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Pres . Josiah Bartlet&lt;/td&gt;</html>
+                    <text>Pres . Josiah Bartlet</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;John Spencer&lt;/td&gt;</html>
+                    <text>John Spencer</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Leo McGarry&lt;/td&gt;</html>
+                    <text>Leo McGarry</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Bradley Whitford&lt;/td&gt;</html>
+                    <text>Bradley Whitford</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Josh Lyman&lt;/td&gt;</html>
+                    <text>Josh Lyman</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+        </content>
+    </logicalTable>
+</entity>

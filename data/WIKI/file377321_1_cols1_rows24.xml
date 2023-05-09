@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<entity>
+    <logicalTable>
+        <content>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;George Back&lt;/td&gt;</html>
+                    <text>George Back</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;British&lt;/td&gt;</html>
+                    <text>British</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Canadian Arctic&lt;/td&gt;</html>
+                    <text>Canadian Arctic</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;William Baffin&lt;/td&gt;</html>
+                    <text>William Baffin</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Samuel Baker&lt;/td&gt;</html>
+                    <text>Samuel Baker</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Vasco NÃÂºÃÂ±ez de Balboa&lt;/td&gt;</html>
+                    <text>Vasco NÃÂºÃÂ±ez de Balboa</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Spanish&lt;/td&gt;</html>
+                    <text>Spanish</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;PÃÂªro de Barcelos&lt;/td&gt;</html>
+                    <text>PÃÂªro de Barcelos</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Portuguese&lt;/td&gt;</html>
+                    <text>Portuguese</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;15th century / 16th century&lt;/td&gt;</html>
+                    <text>15th century / 16th century</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;North America&lt;/td&gt;</html>
+                    <text>North America</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Willem Barents&lt;/td&gt;</html>
+                    <text>Willem Barents</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Dutch&lt;/td&gt;</html>
+                    <text>Dutch</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Novaya Zemlya Northeast Passage&lt;/td&gt;</html>
+                    <text>Novaya Zemlya Northeast Passage</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Heinrich Barth&lt;/td&gt;</html>
+                    <text>Heinrich Barth</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Northern and Central Africa&lt;/td&gt;</html>
+                    <text>Northern and Central Africa</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Robert Bartlett&lt;/td&gt;</html>
+                    <text>Robert Bartlett</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Arctic&lt;/td&gt;</html>
+                    <text>Arctic</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;George Bass&lt;/td&gt;</html>
+                    <text>George Bass</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Australian&lt;/td&gt;</html>
+                    <text>Australian</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Abu Abdullah Muhammad Ibn Battuta&lt;/td&gt;</html>
+                    <text>Abu Abdullah Muhammad Ibn Battuta</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;China&lt;/td&gt;</html>
+                    <text>China</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;places&lt;/td&gt;</html>
+                    <text>places</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Tombouctou and other&lt;/td&gt;</html>
+                    <text>Tombouctou and other</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Nicolas Baudin&lt;/td&gt;</html>
+                    <text>Nicolas Baudin</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;French&lt;/td&gt;</html>
+                    <text>French</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;18th&lt;/td&gt;</html>
+                    <text>18th</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Australian&lt;/td&gt;</html>
+                    <text>Australian</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Fabian Gottlieb von Bellingshausen&lt;/td&gt;</html>
+                    <text>Fabian Gottlieb von Bellingshausen</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Russian&lt;/td&gt;</html>
+                    <text>Russian</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Joseph RenÃÂ© Bellot&lt;/td&gt;</html>
+                    <text>Joseph RenÃÂ© Bellot</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;French&lt;/td&gt;</html>
+                    <text>French</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Arctic&lt;/td&gt;</html>
+                    <text>Arctic</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Moric Benovsky&lt;/td&gt;</html>
+                    <text>Moric Benovsky</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Slovak&lt;/td&gt;</html>
+                    <text>Slovak</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Vitus Bering&lt;/td&gt;</html>
+                    <text>Vitus Bering</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Vittorio Bottego&lt;/td&gt;</html>
+                    <text>Vittorio Bottego</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Italian&lt;/td&gt;</html>
+                    <text>Italian</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Pierre Savorgan de Brazza&lt;/td&gt;</html>
+                    <text>Pierre Savorgan de Brazza</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Italian&lt;/td&gt;</html>
+                    <text>Italian</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;French Congo 's founder&lt;/td&gt;</html>
+                    <text>French Congo &amp;apos;s founder</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Saint Brendan&lt;/td&gt;</html>
+                    <text>Saint Brendan</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Irish&lt;/td&gt;</html>
+                    <text>Irish</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Atlantic Ocean&lt;/td&gt;</html>
+                    <text>Atlantic Ocean</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;James Bruce&lt;/td&gt;</html>
+                    <text>James Bruce</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;William S . Bruce&lt;/td&gt;</html>
+                    <text>William S . Bruce</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Scottish&lt;/td&gt;</html>
+                    <text>Scottish</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Antarctica&lt;/td&gt;</html>
+                    <text>Antarctica</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Cornelis de Bruijn&lt;/td&gt;</html>
+                    <text>Cornelis de Bruijn</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Dutch traveler and artist&lt;/td&gt;</html>
+                    <text>Dutch traveler and artist</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Lafayette Bunnell&lt;/td&gt;</html>
+                    <text>Lafayette Bunnell</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Yosemite Valley&lt;/td&gt;</html>
+                    <text>Yosemite Valley</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Richard Francis Burton&lt;/td&gt;</html>
+                    <text>Richard Francis Burton</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Richard E . Byrd&lt;/td&gt;</html>
+                    <text>Richard E . Byrd</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+        </content>
+    </logicalTable>
+</entity>

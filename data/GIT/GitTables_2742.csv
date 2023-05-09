@@ -1,0 +1,9 @@
+,col0,col1,col2,col3,col4,col5,col6
+0,getNextPvId(),,,,Surgical Resection,2003996,
+1,getNextPvId(),,,,Lavage,2003996,
+2,getNextPvId(),,,,Needle Core Biopsy,2003996,
+3,getNextPvId(),,,,Needle Aspirate,2003996,
+4,getNextPvId(),,,,Indwelling Catheter,2003996,
+5,getNextPvId(),,,,Venipuncture,2003996,
+6,getNextPvId(),,,,Not Specified,2003996,
+7,getNextPvId(),,,,Cavitron Ultrasonic Surgical Aspirator,2003996,

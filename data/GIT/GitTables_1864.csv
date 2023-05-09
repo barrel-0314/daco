@@ -1,0 +1,13 @@
+,col0,col1,col2
+0,ObjectInspector,com::sun::star::lang::XComponent,addEventListener()
+1,ObjectInspector,com::sun::star::lang::XComponent,removeEventListener()
+2,ObjectInspector,com::sun::star::inspection::XObjectInspector,inspect()
+3,ObjectInspector,com::sun::star::inspection::XObjectInspector,InspectorModel()
+4,ObjectInspector,com::sun::star::inspection::XObjectInspector,InspectorUI()
+5,ObjectInspector,com::sun::star::frame::XController,attachFrame()
+6,ObjectInspector,com::sun::star::frame::XController,attachModel()
+7,ObjectInspector,com::sun::star::frame::XController,suspend()
+8,ObjectInspector,com::sun::star::frame::XController,getViewData()
+9,ObjectInspector,com::sun::star::frame::XController,restoreViewData()
+10,ObjectInspector,com::sun::star::frame::XController,getModel()
+11,ObjectInspector,com::sun::star::frame::XController,getFrame()

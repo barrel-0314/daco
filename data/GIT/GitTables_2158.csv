@@ -1,0 +1,60 @@
+,col0,col1,col2,col3
+0,state_au_1,au,Australian Capital Territory,ACT
+1,state_au_2,au,New South Wales,NSW
+2,state_au_3,au,Northern Territory,NT
+3,state_au_4,au,Queensland,QLD
+4,state_au_5,au,South Australia,SA
+5,state_au_6,au,Tasmania,TAS
+6,state_au_7,au,Victoria,VIC
+7,state_au_8,au,Western Australia,WA
+8,state_us_1,us,Alabama,AL
+9,state_us_2,us,Alaska,AK
+10,state_us_3,us,Arizona,AZ
+11,state_us_4,us,Arkansas,AR
+12,state_us_5,us,California,CA
+13,state_us_6,us,Colorado,CO
+14,state_us_7,us,Connecticut,CT
+15,state_us_8,us,Delaware,DE
+16,state_us_9,us,District of Columbia,DC
+17,state_us_10,us,Florida,FL
+18,state_us_11,us,Georgia,GA
+19,state_us_12,us,Hawaii,HI
+20,state_us_13,us,Idaho,ID
+21,state_us_14,us,Illinois,IL
+22,state_us_15,us,Indiana,IN
+23,state_us_16,us,Iowa,IA
+24,state_us_17,us,Kansas,KS
+25,state_us_18,us,Kentucky,KY
+26,state_us_19,us,Louisiana,LA
+27,state_us_20,us,Maine,ME
+28,state_us_21,us,Montana,MT
+29,state_us_22,us,Nebraska,NE
+30,state_us_23,us,Nevada,NV
+31,state_us_24,us,New Hampshire,NH
+32,state_us_25,us,New Jersey,NJ
+33,state_us_26,us,New Mexico,NM
+34,state_us_27,us,New York,NY
+35,state_us_28,us,North Carolina,NC
+36,state_us_29,us,North Dakota,ND
+37,state_us_30,us,Ohio,OH
+38,state_us_31,us,Oklahoma,OK
+39,state_us_32,us,Oregon,OR
+40,state_us_33,us,Maryland,MD
+41,state_us_34,us,Massachusetts,MA
+42,state_us_35,us,Michigan,MI
+43,state_us_36,us,Minnesota,MN
+44,state_us_37,us,Mississippi,MS
+45,state_us_38,us,Missouri,MO
+46,state_us_39,us,Pennsylvania,PA
+47,state_us_40,us,Rhode Island,RI
+48,state_us_41,us,South Carolina,SC
+49,state_us_42,us,South Dakota,SD
+50,state_us_43,us,Tennessee,TN
+51,state_us_44,us,Texas,TX
+52,state_us_45,us,Utah,UT
+53,state_us_46,us,Vermont,VT
+54,state_us_47,us,Virginia,VA
+55,state_us_48,us,Washington,WA
+56,state_us_49,us,West Virginia,WV
+57,state_us_50,us,Wisconsin,WI
+58,state_us_51,us,Wyoming,WY

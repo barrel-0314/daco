@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<entity>
+    <logicalTable>
+        <content>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Joseph - Louis Lagrange&lt;/td&gt;</html>
+                    <text>Joseph - Louis Lagrange</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Joseph JÃÂ©rÃÂ´me LefranÃÂ§ais de Lalande&lt;/td&gt;</html>
+                    <text>Joseph JÃÂ©rÃÂ´me LefranÃÂ§ais de Lalande</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Astronomers&lt;/td&gt;</html>
+                    <text>Astronomers</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Jean - Charles de Borda&lt;/td&gt;</html>
+                    <text>Jean - Charles de Borda</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Jean - Nicolas Buache&lt;/td&gt;</html>
+                    <text>Jean - Nicolas Buache</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;geographer&lt;/td&gt;</html>
+                    <text>geographer</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;NoÃÂ«l Simon CarochÃÂ©&lt;/td&gt;</html>
+                    <text>NoÃÂ«l Simon CarochÃÂ©</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;manufacturer of telescopes&lt;/td&gt;</html>
+                    <text>manufacturer of telescopes</text>
+                </cell>
+            </row>
+        </content>
+    </logicalTable>
+</entity>

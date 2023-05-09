@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<entity>
+    <logicalTable>
+        <content>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Dr . No&lt;/td&gt;</html>
+                    <text>Dr . No</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;'The James Bond Theme'&lt;/td&gt;</html>
+                    <text>&amp;apos;The James Bond Theme&amp;apos;</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Monty Norman Orchestra&lt;/td&gt;</html>
+                    <text>Monty Norman Orchestra</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;'From Russia With Love'&lt;/td&gt;</html>
+                    <text>&amp;apos;From Russia With Love&amp;apos;</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Lionel Bart&lt;/td&gt;</html>
+                    <text>Lionel Bart</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Matt Monroe&lt;/td&gt;</html>
+                    <text>Matt Monroe</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;'Goldfinger'&lt;/td&gt;</html>
+                    <text>&amp;apos;Goldfinger&amp;apos;</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Bricusse / Newley / Barry&lt;/td&gt;</html>
+                    <text>Bricusse / Newley / Barry</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Shirley Bassey&lt;/td&gt;</html>
+                    <text>Shirley Bassey</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;'Thunderball'&lt;/td&gt;</html>
+                    <text>&amp;apos;Thunderball&amp;apos;</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Barry / Black&lt;/td&gt;</html>
+                    <text>Barry / Black</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Tom Jones&lt;/td&gt;</html>
+                    <text>Tom Jones</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;'You Only Live Twice'&lt;/td&gt;</html>
+                    <text>&amp;apos;You Only Live Twice&amp;apos;</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Bricusse / Barry&lt;/td&gt;</html>
+                    <text>Bricusse / Barry</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Nancy Sinatra&lt;/td&gt;</html>
+                    <text>Nancy Sinatra</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;'On Her Majesty's Secret Service'&lt;/td&gt;</html>
+                    <text>&amp;apos;On Her Majesty&amp;apos;s Secret Service&amp;apos;</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;The John Barry Orchestra&lt;/td&gt;</html>
+                    <text>The John Barry Orchestra</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;'Diamonds Are Forever'&lt;/td&gt;</html>
+                    <text>&amp;apos;Diamonds Are Forever&amp;apos;</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Barry / Black&lt;/td&gt;</html>
+                    <text>Barry / Black</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Shirley Bassey&lt;/td&gt;</html>
+                    <text>Shirley Bassey</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;'Live and Let Die'&lt;/td&gt;</html>
+                    <text>&amp;apos;Live and Let Die&amp;apos;</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Paul and Linda McCartney&lt;/td&gt;</html>
+                    <text>Paul and Linda McCartney</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Paul McCartney / Wings&lt;/td&gt;</html>
+                    <text>Paul McCartney / Wings</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;'The Man With the Golden Gun'&lt;/td&gt;</html>
+                    <text>&amp;apos;The Man With the Golden Gun&amp;apos;</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Barry / Black&lt;/td&gt;</html>
+                    <text>Barry / Black</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Lulu&lt;/td&gt;</html>
+                    <text>Lulu</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;'The Spy Who Loved Me'&lt;/td&gt;</html>
+                    <text>&amp;apos;The Spy Who Loved Me&amp;apos;</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;'Nobody Does it Better'&lt;/td&gt;</html>
+                    <text>&amp;apos;Nobody Does it Better&amp;apos;</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Hamlisch / Bayer Sager&lt;/td&gt;</html>
+                    <text>Hamlisch / Bayer Sager</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Carly Simon&lt;/td&gt;</html>
+                    <text>Carly Simon</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;'Moonraker'&lt;/td&gt;</html>
+                    <text>&amp;apos;Moonraker&amp;apos;</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Barry / David&lt;/td&gt;</html>
+                    <text>Barry / David</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Shirley Bassey&lt;/td&gt;</html>
+                    <text>Shirley Bassey</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;'For Your Eyes Only'&lt;/td&gt;</html>
+                    <text>&amp;apos;For Your Eyes Only&amp;apos;</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Conti / Leeson&lt;/td&gt;</html>
+                    <text>Conti / Leeson</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Sheena Easton&lt;/td&gt;</html>
+                    <text>Sheena Easton</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;'Octopussy'&lt;/td&gt;</html>
+                    <text>&amp;apos;Octopussy&amp;apos;</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;'All Time High'&lt;/td&gt;</html>
+                    <text>&amp;apos;All Time High&amp;apos;</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Barry / Rice&lt;/td&gt;</html>
+                    <text>Barry / Rice</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Rita Coolidge&lt;/td&gt;</html>
+                    <text>Rita Coolidge</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;'A View To a Kill'&lt;/td&gt;</html>
+                    <text>&amp;apos;A View To a Kill&amp;apos;</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Duran Duran / Barry&lt;/td&gt;</html>
+                    <text>Duran Duran / Barry</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Duran Duran&lt;/td&gt;</html>
+                    <text>Duran Duran</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;'The Living Daylights&lt;/td&gt;</html>
+                    <text>&amp;apos;The Living Daylights</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Waaktaar / Barry&lt;/td&gt;</html>
+                    <text>Waaktaar / Barry</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;A - Ha&lt;/td&gt;</html>
+                    <text>A - Ha</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;'Licence to Kill'&lt;/td&gt;</html>
+                    <text>&amp;apos;Licence to Kill&amp;apos;</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Walden / Cohen / Afanasieff / Barry / Bricusse / Newley&lt;/td&gt;</html>
+                    <text>Walden / Cohen / Afanasieff / Barry / Bricusse / Newley</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Gladys Knight&lt;/td&gt;</html>
+                    <text>Gladys Knight</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;'Goldeneye'&lt;/td&gt;</html>
+                    <text>&amp;apos;Goldeneye&amp;apos;</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Bono / The Edge&lt;/td&gt;</html>
+                    <text>Bono / The Edge</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Tina Turner&lt;/td&gt;</html>
+                    <text>Tina Turner</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;'Tomorrow Never Dies'&lt;/td&gt;</html>
+                    <text>&amp;apos;Tomorrow Never Dies&amp;apos;</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Sheryl Crow / David Arnold&lt;/td&gt;</html>
+                    <text>Sheryl Crow / David Arnold</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Sheryl Crow&lt;/td&gt;</html>
+                    <text>Sheryl Crow</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;'The World is Not Enough'&lt;/td&gt;</html>
+                    <text>&amp;apos;The World is Not Enough&amp;apos;</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Arnold / Black&lt;/td&gt;</html>
+                    <text>Arnold / Black</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Garbage&lt;/td&gt;</html>
+                    <text>Garbage</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;'Die Another Day'&lt;/td&gt;</html>
+                    <text>&amp;apos;Die Another Day&amp;apos;</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Madonna / Mirwais&lt;/td&gt;</html>
+                    <text>Madonna / Mirwais</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Madonna&lt;/td&gt;</html>
+                    <text>Madonna</text>
+                </cell>
+            </row>
+        </content>
+    </logicalTable>
+</entity>

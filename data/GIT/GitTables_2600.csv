@@ -1,0 +1,20 @@
+,col0,col1,col2,col3,col4,col5,col6
+0,83,2691,apply online,89,2886,apply online,match
+1,83,2690,send documents by post,89,2885,send documents by post,match
+2,83,2706,documents received,89,2884,documents received (1),match
+3,83,2688,sufficient cp in mathematics,89,2895,bridging courses > 30 cp,part_of-->
+4,83,2704,less than 16 cp in mathematics,89,2896,bridging courses < 30 cp,part_of-->
+5,83,2705,take oral exam,89,2892,go to interview,<--part_of
+6,83,2705,take oral exam,89,2891,conduct interview,<--part_of
+7,83,2707,check documents,89,2897,check documents,<--part_of
+8,83,2706,documents received,89,2899,documents received (2),<--part_of
+9,83,2708,evaluate,89,2887,evaluate,<--part_of
+10,83,2694,send letter of acceptance,89,2888,send letter of acceptance,match
+11,83,2696,accepted,89,2883,rejected (accepted?),match
+12,83,2709,send letter of rejection,89,2889,send letter of rejection,match
+13,83,2697,rejected,89,2893,rejected,match
+14,83,2699,wait for bachelor's certificate,89,2894,check bachelor's degree,part_of-->
+15,83,2700,certificate received (1),89,2894,check bachelor's degree,part_of-->
+16,83,2702,certificate received (2),89,2894,check bachelor's degree,part_of-->
+17,83,2701,send bachelor's certificate,89,2894,check bachelor's degree,part_of-->
+18,83,2703,check certificate,89,2894,check bachelor's degree,part_of-->

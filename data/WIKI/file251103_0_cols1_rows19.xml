@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<entity>
+    <logicalTable>
+        <content>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Brock University&lt;/td&gt;</html>
+                    <text>Brock University</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;St . Catharines&lt;/td&gt;</html>
+                    <text>St . Catharines</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Carleton University&lt;/td&gt;</html>
+                    <text>Carleton University</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Ottawa&lt;/td&gt;</html>
+                    <text>Ottawa</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Lakehead University&lt;/td&gt;</html>
+                    <text>Lakehead University</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Thunder Bay&lt;/td&gt;</html>
+                    <text>Thunder Bay</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Laurentian University&lt;/td&gt;</html>
+                    <text>Laurentian University</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Sudbury&lt;/td&gt;</html>
+                    <text>Sudbury</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;McMaster University&lt;/td&gt;</html>
+                    <text>McMaster University</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Hamilton&lt;/td&gt;</html>
+                    <text>Hamilton</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Nipissing University&lt;/td&gt;</html>
+                    <text>Nipissing University</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;North Bay&lt;/td&gt;</html>
+                    <text>North Bay</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Queen's University&lt;/td&gt;</html>
+                    <text>Queen&amp;apos;s University</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Kingston&lt;/td&gt;</html>
+                    <text>Kingston</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Royal Military College of Canada&lt;/td&gt;</html>
+                    <text>Royal Military College of Canada</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Kingston&lt;/td&gt;</html>
+                    <text>Kingston</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Ryerson University&lt;/td&gt;</html>
+                    <text>Ryerson University</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Toronto&lt;/td&gt;</html>
+                    <text>Toronto</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Trent University&lt;/td&gt;</html>
+                    <text>Trent University</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Peterborough&lt;/td&gt;</html>
+                    <text>Peterborough</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;University of Guelph&lt;/td&gt;</html>
+                    <text>University of Guelph</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Guelph&lt;/td&gt;</html>
+                    <text>Guelph</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;University of Ontario Institute of Technology&lt;/td&gt;</html>
+                    <text>University of Ontario Institute of Technology</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Oshawa&lt;/td&gt;</html>
+                    <text>Oshawa</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;University of Ottawa&lt;/td&gt;</html>
+                    <text>University of Ottawa</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Ottawa&lt;/td&gt;</html>
+                    <text>Ottawa</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;University of Toronto&lt;/td&gt;</html>
+                    <text>University of Toronto</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Toronto&lt;/td&gt;</html>
+                    <text>Toronto</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;University of Waterloo&lt;/td&gt;</html>
+                    <text>University of Waterloo</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Waterloo&lt;/td&gt;</html>
+                    <text>Waterloo</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;University of Western Ontario&lt;/td&gt;</html>
+                    <text>University of Western Ontario</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;London&lt;/td&gt;</html>
+                    <text>London</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;University of Windsor&lt;/td&gt;</html>
+                    <text>University of Windsor</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Windsor&lt;/td&gt;</html>
+                    <text>Windsor</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Wilfrid Laurier University&lt;/td&gt;</html>
+                    <text>Wilfrid Laurier University</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Waterloo&lt;/td&gt;</html>
+                    <text>Waterloo</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;York University&lt;/td&gt;</html>
+                    <text>York University</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Toronto&lt;/td&gt;</html>
+                    <text>Toronto</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+        </content>
+    </logicalTable>
+</entity>

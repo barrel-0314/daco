@@ -1,0 +1,9 @@
+,col0,col1,col2,col3,col4,col5
+0,"org.apache.commons.lang3.math.Fraction#int#greatestCommonDivisor#?,int,int#581",1.9956140350877196,0.0,1.9956140350877196,,GT
+1,org.apache.commons.lang3.math.Fraction#int#getDenominator#?#381,1.9890350877192984,0.0,1.9890350877192984,,_
+2,org.apache.commons.lang3.math.Fraction#int#getNumerator#?#372,1.9890350877192984,0.0,1.9890350877192984,,_
+3,"org.apache.commons.lang3.math.Fraction#?#Fraction#?,int,int#128",1.9884868421052633,0.0,1.9884868421052633,,_
+4,org.apache.commons.lang3.math.Fraction#Fraction#reduce#?#474,1.0,0.0,1.0,,_
+5,"org.apache.commons.lang3.math.Fraction#boolean#equals#?,Object#843",0.9989035087719298,0.0,0.9989035087719298,,_
+6,"org.apache.commons.lang3.math.Fraction#Fraction#getReducedFraction#?,int,int#214",0.9967105263157896,0.0,0.9967105263157896,,_
+7,"org.apache.commons.lang3.math.Fraction#Fraction#getFraction#?,int,int#146",0.9917763157894736,0.0,0.9917763157894736,,_

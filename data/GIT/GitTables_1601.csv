@@ -1,0 +1,208 @@
+,col0,col1,col2,col3
+0,WEAP,Catchment,Node,ObjectInstances
+1,WEAP,Catchment,Node,Area
+2,WEAP,Catchment,Node,Kc
+3,WEAP,Catchment,Node,Effective Precipitation
+4,WEAP,Catchment,Node,Precipitation
+5,WEAP,Catchment,Node,ETref
+6,WEAP,Catchment,Node,Loss Rate
+7,WEAP,Catchment,Node,Reuse Rate
+8,WEAP,Catchment,Node,Potential Yield
+9,WEAP,Catchment,Node,Yield Response Factor
+10,WEAP,Catchment,Node,Market Price
+11,WEAP,Catchment,Node,DO Intensity
+12,WEAP,Catchment,Node,BOD Intensity
+13,WEAP,Catchment,Node,BOD Concentration
+14,WEAP,Catchment,Node,DO Concentration
+15,WEAP,Catchment,Node,DO Inflow
+16,WEAP,Catchment,Node,BOD Inflow
+17,WEAP,Catchment,Node,Capital Costs
+18,WEAP,Catchment,Node,Variable Operating Costs
+19,WEAP,Catchment,Node,Fixed Operating Costs
+20,WEAP,Catchment,Node,Variable Benefits
+21,WEAP,Catchment,Node,Fixed Benefits
+22,WEAP,Catchment,Node,Demand Priority
+23,WEAP,Catchment,Node,Plant Factor
+24,WEAP,Catchment,Node,Hydropower Priority
+25,WEAP,Catchment,Node,Energy Demand
+26,WEAP,Catchment,Node,Electricity Revenue
+27,WEAP,Catchment,Node,Max Turbine Flow
+28,WEAP,Catchment,Node,Generating Efficiency
+29,WEAP,Catchment,Node,Fixed Head
+30,WEAP,Demand Site,Node,ObjectInstances
+31,WEAP,Demand Site,Node,Monthly Demand
+32,WEAP,Demand Site,Node,Monthly Variation
+33,WEAP,Demand Site,Node,Loss Rate
+34,WEAP,Demand Site,Node,Reuse Rate
+35,WEAP,Demand Site,Node,DO Intensity
+36,WEAP,Demand Site,Node,BOD Intensity
+37,WEAP,Demand Site,Node,BOD Concentration
+38,WEAP,Demand Site,Node,DO Concentration
+39,WEAP,Demand Site,Node,DO Inflow
+40,WEAP,Demand Site,Node,BOD Inflow
+41,WEAP,Demand Site,Node,Capital Costs
+42,WEAP,Demand Site,Node,Variable Operating Costs
+43,WEAP,Demand Site,Node,Fixed Operating Costs
+44,WEAP,Demand Site,Node,Variable Benefits
+45,WEAP,Demand Site,Node,Fixed Benefits
+46,WEAP,Demand Site,Node,Demand Priority
+47,WEAP,Demand Site,Node,Consumption
+48,WEAP,Diversion,Link,ObjectInstances
+49,WEAP,Diversion,Link,Capital Costs
+50,WEAP,Diversion,Link,Variable Operating Costs
+51,WEAP,Diversion,Link,Fixed Operating Costs
+52,WEAP,Diversion,Link,Variable Benefits
+53,WEAP,Diversion,Link,Fixed Benefits
+54,WEAP,Diversion,Link,Maximum Diversion
+55,WEAP,Diversion,Link,BOD Concentration
+56,WEAP,Diversion,Link,DO Concentration
+57,WEAP,Diversion Outflow,Node,ObjectInstances
+58,WEAP,Groundwater,Node,ObjectInstances
+59,WEAP,Groundwater,Node,Capital Costs
+60,WEAP,Groundwater,Node,Variable Operating Costs
+61,WEAP,Groundwater,Node,Fixed Operating Costs
+62,WEAP,Groundwater,Node,Variable Benefits
+63,WEAP,Groundwater,Node,Fixed Benefits
+64,WEAP,Groundwater,Node,Storage Capacity
+65,WEAP,Groundwater,Node,Initial Storage
+66,WEAP,Groundwater,Node,Maximum Withdrawal
+67,WEAP,Groundwater,Node,Natural Recharge
+68,WEAP,Groundwater,Node,DO Concentration
+69,WEAP,Groundwater,Node,BOD Concentration
+70,WEAP,Other,Node,
+71,WEAP,Reservoir,Node,ObjectInstances
+72,WEAP,Reservoir,Node,Precipitation
+73,WEAP,Reservoir,Node,Capital Costs
+74,WEAP,Reservoir,Node,Variable Operating Costs
+75,WEAP,Reservoir,Node,Fixed Operating Costs
+76,WEAP,Reservoir,Node,Variable Benefits
+77,WEAP,Reservoir,Node,Fixed Benefits
+78,WEAP,Reservoir,Node,BOD Concentration
+79,WEAP,Reservoir,Node,DO Concentration
+80,WEAP,Reservoir,Node,Initial Storage
+81,WEAP,Reservoir,Node,Maximum Hydraulic Outflow
+82,WEAP,Reservoir,Node,Net Evaporation
+83,WEAP,Reservoir,Node,Volume Elevation Curve
+84,WEAP,Reservoir,Node,Observed Volume
+85,WEAP,Reservoir,Node,Top of Conservation
+86,WEAP,Reservoir,Node,Top of Buffer
+87,WEAP,Reservoir,Node,Top of Inactive
+88,WEAP,Reservoir,Node,Max. Turbine Flow
+89,WEAP,Reservoir,Node,Tailwater Elevation
+90,WEAP,Reservoir,Node,Plant Factor
+91,WEAP,Reservoir,Node,Hydropower Priority
+92,WEAP,Reservoir,Node,Energy Demand
+93,WEAP,Reservoir,Node,Electricity Revenue
+94,WEAP,Reservoir,Node,Generating Efficiency
+95,WEAP,Reservoir,Node,Storage Capacity
+96,WEAP,Reservoir,Node,Buffer Coefficient
+97,WEAP,Reservoir,Node,Loss to Groundwater
+98,WEAP,Reservoir,Node,Volume
+99,WEAP,Reservoir,Node,Elevation
+100,WEAP,Reservoir,Node,Area
+101,WEAP,Return Flow,Link,ObjectInstances
+102,WEAP,Return Flow,Link,Capital Costs
+103,WEAP,Return Flow,Link,Variable Operating Costs
+104,WEAP,Return Flow,Link,Fixed Operating Costs
+105,WEAP,Return Flow,Link,Variable Benefits
+106,WEAP,Return Flow,Link,Fixed Benefits
+107,WEAP,Return Flow,Link,Loss from System
+108,WEAP,Return Flow,Link,Return Flow Routing
+109,WEAP,Return Flow,Link,Loss to Groundwater
+110,WEAP,Return Flow,Link,Gain from Groundwater
+111,WEAP,Return Flow,Node,ObjectInstances
+112,WEAP,River,Link,ObjectInstances
+113,WEAP,River,Link,Capital Costs
+114,WEAP,River,Link,Variable Operating Costs
+115,WEAP,River,Link,Fixed Operating Costs
+116,WEAP,River,Link,Variable Benefits
+117,WEAP,River,Link,Fixed Benefits
+118,WEAP,River,Link,Headflow
+119,WEAP,River,Link,Maximum Diversion
+120,WEAP,River,Link,BOD Concentration
+121,WEAP,River,Link,DO Concentration
+122,WEAP,River Reach,Link,ObjectInstances
+123,WEAP,River Reach,Link,Capital Costs
+124,WEAP,River Reach,Link,Variable Operating Costs
+125,WEAP,River Reach,Link,Fixed Operating Costs
+126,WEAP,River Reach,Link,Variable Benefits
+127,WEAP,River Reach,Link,Fixed Benefits
+128,WEAP,River Reach,Link,BOD Concentration
+129,WEAP,River Reach,Link,DO Concentration
+130,WEAP,River Reach,Link,Surface Water Inflow
+131,WEAP,River Reach,Link,Groundwater Inflow
+132,WEAP,River Reach,Link,Groundwater Outflow
+133,WEAP,River Reach,Link,Evaporation
+134,WEAP,River Reach,Link,Reach Length
+135,WEAP,River Reach,Link,Distance Marker
+136,WEAP,River Reach,Link,Flow Stage Width
+137,WEAP,River Reach,Link,Water Temperature
+138,WEAP,River Withdrawal,Node,ObjectInstances
+139,WEAP,Runoff/Infiltration,Link,
+140,WEAP,Streamflow gauge,Node,ObjectInstances
+141,WEAP,Streamflow gauge,Node,Streamflow Data
+142,WEAP,Streamflow gauge,Node,DO Concentration Data
+143,WEAP,Streamflow gauge,Node,BOD Concentration Data
+144,WEAP,Transmission Link,Link,ObjectInstances
+145,WEAP,Transmission Link,Link,Capital Costs
+146,WEAP,Transmission Link,Link,Variable Operating Costs
+147,WEAP,Transmission Link,Link,Fixed Operating Costs
+148,WEAP,Transmission Link,Link,Variable Benefits
+149,WEAP,Transmission Link,Link,Fixed Benefits
+150,WEAP,Transmission Link,Link,Maximum Flow   Volume
+151,WEAP,Transmission Link,Link,Maximum Flow   Percent of Demand
+152,WEAP,Transmission Link,Link,Supply Preference
+153,WEAP,Transmission Link,Link,Loss from System
+154,WEAP,Transmission Link,Link,Loss to Groundwater
+155,WEAP,Tributary Inflow,Node,ObjectInstances
+156,WEAP,Wastewater Treatment Plant,Node,ObjectInstances
+157,WEAP,Wastewater Treatment Plant,Node,Capital Costs
+158,WEAP,Wastewater Treatment Plant,Node,Variable Operating Costs
+159,WEAP,Wastewater Treatment Plant,Node,Fixed Operating Costs
+160,WEAP,Wastewater Treatment Plant,Node,Variable Benefits
+161,WEAP,Wastewater Treatment Plant,Node,Fixed Benefits
+162,WEAP,Wastewater Treatment Plant,Node,Daily Capacity
+163,WEAP,Wastewater Treatment Plant,Node,Consumption
+164,WEAP,Wastewater Treatment Plant,Node,BOD Removal
+165,WEAP,Wastewater Treatment Plant,Node,DO Removal
+166,WEAP,Wastewater Treatment Plant,Node,BOD Concentration
+167,WEAP,Wastewater Treatment Plant,Node,DO Concentration
+168,WEAP,flow requirement,Node,ObjectInstances
+169,WEAP,flow requirement,Node,Precipitation
+170,WEAP,flow requirement,Node,Capital Costs
+171,WEAP,flow requirement,Node,Variable Operating Costs
+172,WEAP,flow requirement,Node,Fixed Operating Costs
+173,WEAP,flow requirement,Node,Variable Benefits
+174,WEAP,flow requirement,Node,Fixed Benefits
+175,WEAP,flow requirement,Node,Minimum Flow Requirement
+176,WEAP,local reservoir,Node,ObjectInstances
+177,WEAP,local reservoir,Node,Precipitation
+178,WEAP,local reservoir,Node,Capital Costs
+179,WEAP,local reservoir,Node,Variable Operating Costs
+180,WEAP,local reservoir,Node,Fixed Operating Costs
+181,WEAP,local reservoir,Node,Variable Benefits
+182,WEAP,local reservoir,Node,Fixed Benefits
+183,WEAP,local reservoir,Node,BOD Concentration
+184,WEAP,local reservoir,Node,DO Concentration
+185,WEAP,local reservoir,Node,Initial Storage
+186,WEAP,local reservoir,Node,Maximum Hydraulic Outflow
+187,WEAP,local reservoir,Node,Net Evaporation
+188,WEAP,local reservoir,Node,Volume Elevation Curve
+189,WEAP,local reservoir,Node,Observed Volume
+190,WEAP,local reservoir,Node,Top of Conservation
+191,WEAP,local reservoir,Node,Top of Buffer
+192,WEAP,local reservoir,Node,Top of Inactive
+193,WEAP,local reservoir,Node,Max. Turbine Flow
+194,WEAP,local reservoir,Node,Tailwater Elevation
+195,WEAP,local reservoir,Node,Plant Factor
+196,WEAP,local reservoir,Node,Hydropower Priority
+197,WEAP,local reservoir,Node,Energy Demand
+198,WEAP,local reservoir,Node,Electricity Revenue
+199,WEAP,local reservoir,Node,Generating Efficiency
+200,WEAP,local reservoir,Node,Storage Capacity
+201,WEAP,local reservoir,Node,Inflow
+202,WEAP,local reservoir,Node,Buffer Coefficient
+203,WEAP,local reservoir,Node,Loss to Groundwater
+204,WEAP,local reservoir,Node,Volume
+205,WEAP,local reservoir,Node,Elevation
+206,WEAP,local reservoir,Node,Area

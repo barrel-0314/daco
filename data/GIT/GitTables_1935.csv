@@ -1,0 +1,6 @@
+,col0,col1,col2,col3,col4,col5
+0,"org.apache.commons.lang3.StringUtils#String#join#?,Object[],char#3257",1.0,1.0,0.8,,_
+1,"org.apache.commons.lang3.StringUtils#String#join#?,Object[],char,int,int#3304",0.5,1.0,0.6000000000000001,!(array[i] != null),GT
+2,"org.apache.commons.lang3.StringUtils#String#join#?,Object[],String,int,int#3378",0.33333333333333337,0.33333333333333337,0.2666666666666667,(endIndex - startIndex)==startIndex,GT
+3,"org.apache.commons.lang3.StringUtils#String#join#?,T#3230",0.33333333333333337,0.0,0.2666666666666667,,_
+4,"org.apache.commons.lang3.StringUtils#String#join#?,Object[],String#3335",0.33333333333333337,0.33333333333333337,0.2666666666666667,array == null,_

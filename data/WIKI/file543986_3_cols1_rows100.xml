@@ -1,0 +1,1407 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<entity>
+    <logicalTable>
+        <content>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;The Village Voice&lt;/td&gt;</html>
+                    <text>The Village Voice</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;New York City&lt;/td&gt;</html>
+                    <text>New York City</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Wall Street Journal / Money &amp; Investing Update&lt;/td&gt;</html>
+                    <text>Wall Street Journal / Money &amp;amp; Investing Update</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;New York City&lt;/td&gt;</html>
+                    <text>New York City</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Wall Street Journal / Personal Technology&lt;/td&gt;</html>
+                    <text>Wall Street Journal / Personal Technology</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;New York City&lt;/td&gt;</html>
+                    <text>New York City</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Wall Street Journal / AdNet&lt;/td&gt;</html>
+                    <text>Wall Street Journal / AdNet</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;New York City&lt;/td&gt;</html>
+                    <text>New York City</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Computer News Daily / New York Times Syndicate&lt;/td&gt;</html>
+                    <text>Computer News Daily / New York Times Syndicate</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;New York City&lt;/td&gt;</html>
+                    <text>New York City</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;New York Post&lt;/td&gt;</html>
+                    <text>New York Post</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;New York City&lt;/td&gt;</html>
+                    <text>New York City</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;New York Daily News&lt;/td&gt;</html>
+                    <text>New York Daily News</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;New York&lt;/td&gt;</html>
+                    <text>New York</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;New York Press&lt;/td&gt;</html>
+                    <text>New York Press</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;New York&lt;/td&gt;</html>
+                    <text>New York</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;New York Times , Full Edition&lt;/td&gt;</html>
+                    <text>New York Times , Full Edition</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;New York City&lt;/td&gt;</html>
+                    <text>New York City</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;New York Times , Internet Edition&lt;/td&gt;</html>
+                    <text>New York Times , Internet Edition</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;New York City&lt;/td&gt;</html>
+                    <text>New York City</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Newsday&lt;/td&gt;</html>
+                    <text>Newsday</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Staten Island Advance&lt;/td&gt;</html>
+                    <text>Staten Island Advance</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Staten Island&lt;/td&gt;</html>
+                    <text>Staten Island</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Adirondack Daily Enterprise&lt;/td&gt;</html>
+                    <text>Adirondack Daily Enterprise</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Saranac Lake&lt;/td&gt;</html>
+                    <text>Saranac Lake</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Albany Electric Times Union&lt;/td&gt;</html>
+                    <text>Albany Electric Times Union</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Albany&lt;/td&gt;</html>
+                    <text>Albany</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Anton Community Newspapers&lt;/td&gt;</html>
+                    <text>Anton Community Newspapers</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Mineola&lt;/td&gt;</html>
+                    <text>Mineola</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Artvioce&lt;/td&gt;</html>
+                    <text>Artvioce</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Buffalo&lt;/td&gt;</html>
+                    <text>Buffalo</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Bee Newspapers , The&lt;/td&gt;</html>
+                    <text>Bee Newspapers , The</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Williamsville&lt;/td&gt;</html>
+                    <text>Williamsville</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Buffalo Beat&lt;/td&gt;</html>
+                    <text>Buffalo Beat</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Buffalo&lt;/td&gt;</html>
+                    <text>Buffalo</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Buffalo News , The&lt;/td&gt;</html>
+                    <text>Buffalo News , The</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Buffalo&lt;/td&gt;</html>
+                    <text>Buffalo</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Business First&lt;/td&gt;</html>
+                    <text>Business First</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Buffalo&lt;/td&gt;</html>
+                    <text>Buffalo</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Business Strategies Newspaper&lt;/td&gt;</html>
+                    <text>Business Strategies Newspaper</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Rochester&lt;/td&gt;</html>
+                    <text>Rochester</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Capital District Business Review&lt;/td&gt;</html>
+                    <text>Capital District Business Review</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Albany&lt;/td&gt;</html>
+                    <text>Albany</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Citizen , The&lt;/td&gt;</html>
+                    <text>Citizen , The</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Auburn&lt;/td&gt;</html>
+                    <text>Auburn</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Community News&lt;/td&gt;</html>
+                    <text>Community News</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Clifton Park&lt;/td&gt;</html>
+                    <text>Clifton Park</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Cooperstown Crier&lt;/td&gt;</html>
+                    <text>Cooperstown Crier</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Cooperstown&lt;/td&gt;</html>
+                    <text>Cooperstown</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Dan's Papers&lt;/td&gt;</html>
+                    <text>Dan&amp;apos;s Papers</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Bridgehampton&lt;/td&gt;</html>
+                    <text>Bridgehampton</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Daily Freeman , The&lt;/td&gt;</html>
+                    <text>Daily Freeman , The</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Freeman&lt;/td&gt;</html>
+                    <text>Freeman</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Daily Gazette , The&lt;/td&gt;</html>
+                    <text>Daily Gazette , The</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Schenectady&lt;/td&gt;</html>
+                    <text>Schenectady</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Daily Star , The&lt;/td&gt;</html>
+                    <text>Daily Star , The</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Oneonta&lt;/td&gt;</html>
+                    <text>Oneonta</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Democrat and Chronicle&lt;/td&gt;</html>
+                    <text>Democrat and Chronicle</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Rochester&lt;/td&gt;</html>
+                    <text>Rochester</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Dunkirk Observer , The&lt;/td&gt;</html>
+                    <text>Dunkirk Observer , The</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Dunkirk - Fredonia&lt;/td&gt;</html>
+                    <text>Dunkirk - Fredonia</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;East Hampton Independent , The&lt;/td&gt;</html>
+                    <text>East Hampton Independent , The</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;East Hampton&lt;/td&gt;</html>
+                    <text>East Hampton</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;East Hampton Star&lt;/td&gt;</html>
+                    <text>East Hampton Star</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;East Hampton&lt;/td&gt;</html>
+                    <text>East Hampton</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Evening Sun , The&lt;/td&gt;</html>
+                    <text>Evening Sun , The</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Norwich&lt;/td&gt;</html>
+                    <text>Norwich</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Finger Lake Times , The&lt;/td&gt;</html>
+                    <text>Finger Lake Times , The</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Geneva&lt;/td&gt;</html>
+                    <text>Geneva</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Garden City News&lt;/td&gt;</html>
+                    <text>Garden City News</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Garden City&lt;/td&gt;</html>
+                    <text>Garden City</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Genesse County Express&lt;/td&gt;</html>
+                    <text>Genesse County Express</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Dansville&lt;/td&gt;</html>
+                    <text>Dansville</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Gloversville Leader - Herald , The&lt;/td&gt;</html>
+                    <text>Gloversville Leader - Herald , The</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Gloversville&lt;/td&gt;</html>
+                    <text>Gloversville</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Gold Coast Gazette&lt;/td&gt;</html>
+                    <text>Gold Coast Gazette</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Glen Cove&lt;/td&gt;</html>
+                    <text>Glen Cove</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Greenwood Lake and West Milford News&lt;/td&gt;</html>
+                    <text>Greenwood Lake and West Milford News</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Greenwood Lake&lt;/td&gt;</html>
+                    <text>Greenwood Lake</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Hamilton County News&lt;/td&gt;</html>
+                    <text>Hamilton County News</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Speculator&lt;/td&gt;</html>
+                    <text>Speculator</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Herald Community Newspapers&lt;/td&gt;</html>
+                    <text>Herald Community Newspapers</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Lawrence&lt;/td&gt;</html>
+                    <text>Lawrence</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Independent , The&lt;/td&gt;</html>
+                    <text>Independent , The</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;East Hampton&lt;/td&gt;</html>
+                    <text>East Hampton</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Independent , The&lt;/td&gt;</html>
+                    <text>Independent , The</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Hillsdale&lt;/td&gt;</html>
+                    <text>Hillsdale</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Ithaca Times&lt;/td&gt;</html>
+                    <text>Ithaca Times</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Ithaca&lt;/td&gt;</html>
+                    <text>Ithaca</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Journal , The&lt;/td&gt;</html>
+                    <text>Journal , The</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Scotia&lt;/td&gt;</html>
+                    <text>Scotia</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Journal News , The&lt;/td&gt;</html>
+                    <text>Journal News , The</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;White Plains&lt;/td&gt;</html>
+                    <text>White Plains</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Journal - Register , The&lt;/td&gt;</html>
+                    <text>Journal - Register , The</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Medina&lt;/td&gt;</html>
+                    <text>Medina</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Lake and Valley Clarion , The&lt;/td&gt;</html>
+                    <text>Lake and Valley Clarion , The</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Livingston County&lt;/td&gt;</html>
+                    <text>Livingston County</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Leader , The&lt;/td&gt;</html>
+                    <text>Leader , The</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Corning&lt;/td&gt;</html>
+                    <text>Corning</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Leader - Herald , The&lt;/td&gt;</html>
+                    <text>Leader - Herald , The</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Gloversville&lt;/td&gt;</html>
+                    <text>Gloversville</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Lewisboro Ledger&lt;/td&gt;</html>
+                    <text>Lewisboro Ledger</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Lewisboro&lt;/td&gt;</html>
+                    <text>Lewisboro</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Long Island Voice , The&lt;/td&gt;</html>
+                    <text>Long Island Voice , The</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Mineola&lt;/td&gt;</html>
+                    <text>Mineola</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;News - Review , The&lt;/td&gt;</html>
+                    <text>News - Review , The</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Mattituck&lt;/td&gt;</html>
+                    <text>Mattituck</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Niagara Gazette , The&lt;/td&gt;</html>
+                    <text>Niagara Gazette , The</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Niagara Falls&lt;/td&gt;</html>
+                    <text>Niagara Falls</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;North County News&lt;/td&gt;</html>
+                    <text>North County News</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Yorktown Heights&lt;/td&gt;</html>
+                    <text>Yorktown Heights</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Nyack Villager&lt;/td&gt;</html>
+                    <text>Nyack Villager</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Nyack&lt;/td&gt;</html>
+                    <text>Nyack</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Olean Times Herald , The&lt;/td&gt;</html>
+                    <text>Olean Times Herald , The</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Olean&lt;/td&gt;</html>
+                    <text>Olean</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Oneida Daily Dispatch&lt;/td&gt;</html>
+                    <text>Oneida Daily Dispatch</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Oneida&lt;/td&gt;</html>
+                    <text>Oneida</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Oneida - Madison Pennysaver&lt;/td&gt;</html>
+                    <text>Oneida - Madison Pennysaver</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Clinton&lt;/td&gt;</html>
+                    <text>Clinton</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Palladium - Times Online&lt;/td&gt;</html>
+                    <text>Palladium - Times Online</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Oswego&lt;/td&gt;</html>
+                    <text>Oswego</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Pelham Weekly&lt;/td&gt;</html>
+                    <text>Pelham Weekly</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Pelham&lt;/td&gt;</html>
+                    <text>Pelham</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Post - Journal , The&lt;/td&gt;</html>
+                    <text>Post - Journal , The</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Jamestown&lt;/td&gt;</html>
+                    <text>Jamestown</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Post - Star&lt;/td&gt;</html>
+                    <text>Post - Star</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Glens Falls&lt;/td&gt;</html>
+                    <text>Glens Falls</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Poughkeepsie Journal&lt;/td&gt;</html>
+                    <text>Poughkeepsie Journal</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Poughkeepsie&lt;/td&gt;</html>
+                    <text>Poughkeepsie</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Press and Sun - Bulletin&lt;/td&gt;</html>
+                    <text>Press and Sun - Bulletin</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Binghamton&lt;/td&gt;</html>
+                    <text>Binghamton</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Press - Republican&lt;/td&gt;</html>
+                    <text>Press - Republican</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Plattsburgh&lt;/td&gt;</html>
+                    <text>Plattsburgh</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Putnam County News and Recorder&lt;/td&gt;</html>
+                    <text>Putnam County News and Recorder</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Cold Spring&lt;/td&gt;</html>
+                    <text>Cold Spring</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;River Reporter&lt;/td&gt;</html>
+                    <text>River Reporter</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Narrowsburg&lt;/td&gt;</html>
+                    <text>Narrowsburg</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Queens Tribune&lt;/td&gt;</html>
+                    <text>Queens Tribune</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Fresh Meadows&lt;/td&gt;</html>
+                    <text>Fresh Meadows</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Recorder , The&lt;/td&gt;</html>
+                    <text>Recorder , The</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Amsterdam&lt;/td&gt;</html>
+                    <text>Amsterdam</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Riverdale Review&lt;/td&gt;</html>
+                    <text>Riverdale Review</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Bronx&lt;/td&gt;</html>
+                    <text>Bronx</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Rochester Business Journal&lt;/td&gt;</html>
+                    <text>Rochester Business Journal</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Rochester&lt;/td&gt;</html>
+                    <text>Rochester</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Democrat and Chronicle&lt;/td&gt;</html>
+                    <text>Democrat and Chronicle</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Rochester&lt;/td&gt;</html>
+                    <text>Rochester</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Sag Harbor Express&lt;/td&gt;</html>
+                    <text>Sag Harbor Express</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Sag Harbor&lt;/td&gt;</html>
+                    <text>Sag Harbor</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Saratogian , The&lt;/td&gt;</html>
+                    <text>Saratogian , The</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Saratoga Springs&lt;/td&gt;</html>
+                    <text>Saratoga Springs</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Sentinel&lt;/td&gt;</html>
+                    <text>Sentinel</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Rome&lt;/td&gt;</html>
+                    <text>Rome</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Sentinel , The&lt;/td&gt;</html>
+                    <text>Sentinel , The</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Honeoye Falls&lt;/td&gt;</html>
+                    <text>Honeoye Falls</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Sentinel , The&lt;/td&gt;</html>
+                    <text>Sentinel , The</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;New Windsor&lt;/td&gt;</html>
+                    <text>New Windsor</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Smithtown News , The&lt;/td&gt;</html>
+                    <text>Smithtown News , The</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Smithtown&lt;/td&gt;</html>
+                    <text>Smithtown</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;South Hampton Press , The&lt;/td&gt;</html>
+                    <text>South Hampton Press , The</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;South Hampton&lt;/td&gt;</html>
+                    <text>South Hampton</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Star - Gazette&lt;/td&gt;</html>
+                    <text>Star - Gazette</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Elmira&lt;/td&gt;</html>
+                    <text>Elmira</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;The Suffolk Times&lt;/td&gt;</html>
+                    <text>The Suffolk Times</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Mattituck&lt;/td&gt;</html>
+                    <text>Mattituck</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Sullivan County Democrat&lt;/td&gt;</html>
+                    <text>Sullivan County Democrat</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Callicoon&lt;/td&gt;</html>
+                    <text>Callicoon</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Syracuse Newspapers&lt;/td&gt;</html>
+                    <text>Syracuse Newspapers</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Syracuse&lt;/td&gt;</html>
+                    <text>Syracuse</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Syracuse New Times&lt;/td&gt;</html>
+                    <text>Syracuse New Times</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Syracuse&lt;/td&gt;</html>
+                    <text>Syracuse</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Times - Beacon - Record Newspapers&lt;/td&gt;</html>
+                    <text>Times - Beacon - Record Newspapers</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Setauke&lt;/td&gt;</html>
+                    <text>Setauke</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Times Herald , The&lt;/td&gt;</html>
+                    <text>Times Herald , The</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Olean&lt;/td&gt;</html>
+                    <text>Olean</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Times Herald - Record , The&lt;/td&gt;</html>
+                    <text>Times Herald - Record , The</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Middletown&lt;/td&gt;</html>
+                    <text>Middletown</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Times Union , The&lt;/td&gt;</html>
+                    <text>Times Union , The</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Albany&lt;/td&gt;</html>
+                    <text>Albany</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Union - Sun &amp; Journal , The&lt;/td&gt;</html>
+                    <text>Union - Sun &amp;amp; Journal , The</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Lockport&lt;/td&gt;</html>
+                    <text>Lockport</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Wallkill Valley Times&lt;/td&gt;</html>
+                    <text>Wallkill Valley Times</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Walden&lt;/td&gt;</html>
+                    <text>Walden</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Watertown Daily Times , The&lt;/td&gt;</html>
+                    <text>Watertown Daily Times , The</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Watertown&lt;/td&gt;</html>
+                    <text>Watertown</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Westchester Today&lt;/td&gt;</html>
+                    <text>Westchester Today</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Westchester&lt;/td&gt;</html>
+                    <text>Westchester</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Woodstock Times&lt;/td&gt;</html>
+                    <text>Woodstock Times</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Woodstock&lt;/td&gt;</html>
+                    <text>Woodstock</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Yankee Trader&lt;/td&gt;</html>
+                    <text>Yankee Trader</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Long Island&lt;/td&gt;</html>
+                    <text>Long Island</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+        </content>
+    </logicalTable>
+</entity>

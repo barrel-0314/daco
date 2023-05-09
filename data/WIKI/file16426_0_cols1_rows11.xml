@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<entity>
+    <logicalTable>
+        <content>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Con Mine&lt;/td&gt;</html>
+                    <text>Con Mine</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;1938 - 2003&lt;/td&gt;</html>
+                    <text>1938 - 2003</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;gold&lt;/td&gt;</html>
+                    <text>gold</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Giant Mine&lt;/td&gt;</html>
+                    <text>Giant Mine</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;1948 - 2004&lt;/td&gt;</html>
+                    <text>1948 - 2004</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;gold&lt;/td&gt;</html>
+                    <text>gold</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Ptarmigan and Tom Mine&lt;/td&gt;</html>
+                    <text>Ptarmigan and Tom Mine</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;1941 - 1942 , 1985 - 1997&lt;/td&gt;</html>
+                    <text>1941 - 1942 , 1985 - 1997</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;gold&lt;/td&gt;</html>
+                    <text>gold</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Negus Mine&lt;/td&gt;</html>
+                    <text>Negus Mine</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;1939 - 1952&lt;/td&gt;</html>
+                    <text>1939 - 1952</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;gold&lt;/td&gt;</html>
+                    <text>gold</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Burwash Mine&lt;/td&gt;</html>
+                    <text>Burwash Mine</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;1935&lt;/td&gt;</html>
+                    <text>1935</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;gold&lt;/td&gt;</html>
+                    <text>gold</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Thompson - Lundmark Mine&lt;/td&gt;</html>
+                    <text>Thompson - Lundmark Mine</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;1941 - 1943 , 1947 - 1949&lt;/td&gt;</html>
+                    <text>1941 - 1943 , 1947 - 1949</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;gold&lt;/td&gt;</html>
+                    <text>gold</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Discovery Mine&lt;/td&gt;</html>
+                    <text>Discovery Mine</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;1950 - 1969&lt;/td&gt;</html>
+                    <text>1950 - 1969</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;gold&lt;/td&gt;</html>
+                    <text>gold</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Camlaren Mine&lt;/td&gt;</html>
+                    <text>Camlaren Mine</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;1962 - 1963 , 1980 - 1981&lt;/td&gt;</html>
+                    <text>1962 - 1963 , 1980 - 1981</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;gold&lt;/td&gt;</html>
+                    <text>gold</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Beaulieu Mine&lt;/td&gt;</html>
+                    <text>Beaulieu Mine</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;1947 - 1948&lt;/td&gt;</html>
+                    <text>1947 - 1948</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;gold&lt;/td&gt;</html>
+                    <text>gold</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Outpost Island Mine&lt;/td&gt;</html>
+                    <text>Outpost Island Mine</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;1941 - 1942 , 1951 - 1952&lt;/td&gt;</html>
+                    <text>1941 - 1942 , 1951 - 1952</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;gold , copper , tungsten&lt;/td&gt;</html>
+                    <text>gold , copper , tungsten</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Ruth Mine&lt;/td&gt;</html>
+                    <text>Ruth Mine</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;1942 , 1959&lt;/td&gt;</html>
+                    <text>1942 , 1959</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;gold&lt;/td&gt;</html>
+                    <text>gold</text>
+                </cell>
+            </row>
+        </content>
+    </logicalTable>
+</entity>

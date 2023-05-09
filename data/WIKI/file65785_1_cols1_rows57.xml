@@ -1,0 +1,805 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<entity>
+    <logicalTable>
+        <content>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Jean Lorrah&lt;/td&gt;</html>
+                    <text>Jean Lorrah</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;February 1990&lt;/td&gt;</html>
+                    <text>February 1990</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Encounter at Farpoint&lt;/td&gt;</html>
+                    <text>Encounter at Farpoint</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;David Gerrold&lt;/td&gt;</html>
+                    <text>David Gerrold</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;April 1991&lt;/td&gt;</html>
+                    <text>April 1991</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Peter David&lt;/td&gt;</html>
+                    <text>Peter David</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;1991&lt;/td&gt;</html>
+                    <text>1991</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Michael Jan Friedman&lt;/td&gt;</html>
+                    <text>Michael Jan Friedman</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;November 1992&lt;/td&gt;</html>
+                    <text>November 1992</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Reunion&lt;/td&gt;</html>
+                    <text>Reunion</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Michael Jan Friedman&lt;/td&gt;</html>
+                    <text>Michael Jan Friedman</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;June 1993&lt;/td&gt;</html>
+                    <text>June 1993</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Diane Carey&lt;/td&gt;</html>
+                    <text>Diane Carey</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;October 1993&lt;/td&gt;</html>
+                    <text>October 1993</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Carmen Carter&lt;/td&gt;</html>
+                    <text>Carmen Carter</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;February 1994&lt;/td&gt;</html>
+                    <text>February 1994</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;All Good Things&lt;/td&gt;</html>
+                    <text>All Good Things</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Michael Jan Friedman&lt;/td&gt;</html>
+                    <text>Michael Jan Friedman</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;June 1994&lt;/td&gt;</html>
+                    <text>June 1994</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Diane Duane&lt;/td&gt;</html>
+                    <text>Diane Duane</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;November 1994&lt;/td&gt;</html>
+                    <text>November 1994</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Peter David&lt;/td&gt;</html>
+                    <text>Peter David</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;August 1995&lt;/td&gt;</html>
+                    <text>August 1995</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Michael Jan Friedman&lt;/td&gt;</html>
+                    <text>Michael Jan Friedman</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;October 1996&lt;/td&gt;</html>
+                    <text>October 1996</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Michael Jan Friedman&lt;/td&gt;</html>
+                    <text>Michael Jan Friedman</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;July 1997&lt;/td&gt;</html>
+                    <text>July 1997</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Diane Carey&lt;/td&gt;</html>
+                    <text>Diane Carey</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;September 1997&lt;/td&gt;</html>
+                    <text>September 1997</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Susan Wright&lt;/td&gt;</html>
+                    <text>Susan Wright</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;1998&lt;/td&gt;</html>
+                    <text>1998</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Dujonian's Hoard ( The Captain's Table , Book 2&lt;/td&gt;</html>
+                    <text>Dujonian&amp;apos;s Hoard ( The Captain&amp;apos;s Table , Book 2</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Michael Jan Friedman&lt;/td&gt;</html>
+                    <text>Michael Jan Friedman</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;February 1998&lt;/td&gt;</html>
+                    <text>February 1998</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Imzadi&lt;/td&gt;</html>
+                    <text>Imzadi</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Peter David&lt;/td&gt;</html>
+                    <text>Peter David</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;September 1998&lt;/td&gt;</html>
+                    <text>September 1998</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Behind Enemy Lines : The Dominion War , Book 1&lt;/td&gt;</html>
+                    <text>Behind Enemy Lines : The Dominion War , Book 1</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;John Vornholt&lt;/td&gt;</html>
+                    <text>John Vornholt</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;November 1998&lt;/td&gt;</html>
+                    <text>November 1998</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;1998&lt;/td&gt;</html>
+                    <text>1998</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Tunnel Through the Stars : The Dominion War , Book 3&lt;/td&gt;</html>
+                    <text>Tunnel Through the Stars : The Dominion War , Book 3</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;John Vornholt&lt;/td&gt;</html>
+                    <text>John Vornholt</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;December 1998&lt;/td&gt;</html>
+                    <text>December 1998</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;I , Q&lt;/td&gt;</html>
+                    <text>I , Q</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;John De Lancie , Peter David&lt;/td&gt;</html>
+                    <text>John De Lancie , Peter David</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;1999&lt;/td&gt;</html>
+                    <text>1999</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Peter David&lt;/td&gt;</html>
+                    <text>Peter David</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;October 1999&lt;/td&gt;</html>
+                    <text>October 1999</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;The Badlands , Vol 1&lt;/td&gt;</html>
+                    <text>The Badlands , Vol 1</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Susan Wright&lt;/td&gt;</html>
+                    <text>Susan Wright</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;December 1999&lt;/td&gt;</html>
+                    <text>December 1999</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;The Badlands , Vol 2&lt;/td&gt;</html>
+                    <text>The Badlands , Vol 2</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Susan Wright&lt;/td&gt;</html>
+                    <text>Susan Wright</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;December 1999&lt;/td&gt;</html>
+                    <text>December 1999</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;John Vornholt&lt;/td&gt;</html>
+                    <text>John Vornholt</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;August 2000&lt;/td&gt;</html>
+                    <text>August 2000</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;The Next Generation : IQ&lt;/td&gt;</html>
+                    <text>The Next Generation : IQ</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;John De Lancie , Peter David&lt;/td&gt;</html>
+                    <text>John De Lancie , Peter David</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;November 2000&lt;/td&gt;</html>
+                    <text>November 2000</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;The Gorn Crisis&lt;/td&gt;</html>
+                    <text>The Gorn Crisis</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Kevin J . Anderson , Rebecca Moesta , Jeff Mariotte&lt;/td&gt;</html>
+                    <text>Kevin J . Anderson , Rebecca Moesta , Jeff Mariotte</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;December 2000&lt;/td&gt;</html>
+                    <text>December 2000</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;John Vornholt&lt;/td&gt;</html>
+                    <text>John Vornholt</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;April 2001&lt;/td&gt;</html>
+                    <text>April 2001</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Section 31 : Rogue&lt;/td&gt;</html>
+                    <text>Section 31 : Rogue</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Andy Mangels , Michael A . Martin&lt;/td&gt;</html>
+                    <text>Andy Mangels , Michael A . Martin</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;May 2001&lt;/td&gt;</html>
+                    <text>May 2001</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Robert Greenberger&lt;/td&gt;</html>
+                    <text>Robert Greenberger</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;August 2001&lt;/td&gt;</html>
+                    <text>August 2001</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;The Valiant&lt;/td&gt;</html>
+                    <text>The Valiant</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Michael Jan Friedman&lt;/td&gt;</html>
+                    <text>Michael Jan Friedman</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;2001&lt;/td&gt;</html>
+                    <text>2001</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Gauntlet ( Star Trek : Stargazer , Book 1 )&lt;/td&gt;</html>
+                    <text>Gauntlet ( Star Trek : Stargazer , Book 1 )</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Michael Jan Friedman&lt;/td&gt;</html>
+                    <text>Michael Jan Friedman</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;May 2002&lt;/td&gt;</html>
+                    <text>May 2002</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Progenitor ( Star Trek : Stargazer , Book 2 )&lt;/td&gt;</html>
+                    <text>Progenitor ( Star Trek : Stargazer , Book 2 )</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Michael Jan Friedman&lt;/td&gt;</html>
+                    <text>Michael Jan Friedman</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;May 2002&lt;/td&gt;</html>
+                    <text>May 2002</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;2003&lt;/td&gt;</html>
+                    <text>2003</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;John Vornholt&lt;/td&gt;</html>
+                    <text>John Vornholt</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;2003&lt;/td&gt;</html>
+                    <text>2003</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Three ( Star Trek : Stargazer , Book 3 )&lt;/td&gt;</html>
+                    <text>Three ( Star Trek : Stargazer , Book 3 )</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Michael Jan Friedman&lt;/td&gt;</html>
+                    <text>Michael Jan Friedman</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;August 2003&lt;/td&gt;</html>
+                    <text>August 2003</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Oblivion ( Star Trek : Stargazer , Book 4 )&lt;/td&gt;</html>
+                    <text>Oblivion ( Star Trek : Stargazer , Book 4 )</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Michael Jan Friedman&lt;/td&gt;</html>
+                    <text>Michael Jan Friedman</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;September 2003&lt;/td&gt;</html>
+                    <text>September 2003</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Greg Cox&lt;/td&gt;</html>
+                    <text>Greg Cox</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;2003&lt;/td&gt;</html>
+                    <text>2003</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;2003&lt;/td&gt;</html>
+                    <text>2003</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Jeff Mariotte&lt;/td&gt;</html>
+                    <text>Jeff Mariotte</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;2003&lt;/td&gt;</html>
+                    <text>2003</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Peter David&lt;/td&gt;</html>
+                    <text>Peter David</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;2003&lt;/td&gt;</html>
+                    <text>2003</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;A Time to Be Born&lt;/td&gt;</html>
+                    <text>A Time to Be Born</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;John Vornholt&lt;/td&gt;</html>
+                    <text>John Vornholt</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;February 2004&lt;/td&gt;</html>
+                    <text>February 2004</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;A Time to Destroy&lt;/td&gt;</html>
+                    <text>A Time to Destroy</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Dafydd ab Hugh&lt;/td&gt;</html>
+                    <text>Dafydd ab Hugh</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;February 2004&lt;/td&gt;</html>
+                    <text>February 2004</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;John Vornholt&lt;/td&gt;</html>
+                    <text>John Vornholt</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;2004&lt;/td&gt;</html>
+                    <text>2004</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Kevin Dilmore&lt;/td&gt;</html>
+                    <text>Kevin Dilmore</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;2004&lt;/td&gt;</html>
+                    <text>2004</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Kevin Dilmore&lt;/td&gt;</html>
+                    <text>Kevin Dilmore</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;2004&lt;/td&gt;</html>
+                    <text>2004</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Robert Greenberger&lt;/td&gt;</html>
+                    <text>Robert Greenberger</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;2004&lt;/td&gt;</html>
+                    <text>2004</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Robert Greenberger&lt;/td&gt;</html>
+                    <text>Robert Greenberger</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;2004&lt;/td&gt;</html>
+                    <text>2004</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;David Mack&lt;/td&gt;</html>
+                    <text>David Mack</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;2004&lt;/td&gt;</html>
+                    <text>2004</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;David Mack&lt;/td&gt;</html>
+                    <text>David Mack</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;2004&lt;/td&gt;</html>
+                    <text>2004</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+        </content>
+    </logicalTable>
+</entity>

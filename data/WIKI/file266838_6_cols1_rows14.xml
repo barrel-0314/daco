@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<entity>
+    <logicalTable>
+        <content>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Louis Pasteur&lt;/td&gt;</html>
+                    <text>Louis Pasteur</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;scientist&lt;/td&gt;</html>
+                    <text>scientist</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Blaise Pascal&lt;/td&gt;</html>
+                    <text>Blaise Pascal</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;mathematician and philosopher&lt;/td&gt;</html>
+                    <text>mathematician and philosopher</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Henri PoincarÃÂ©&lt;/td&gt;</html>
+                    <text>Henri PoincarÃÂ©</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;mathematician and physicist&lt;/td&gt;</html>
+                    <text>mathematician and physicist</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Simeon Poisson&lt;/td&gt;</html>
+                    <text>Simeon Poisson</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;mathematician and physicist&lt;/td&gt;</html>
+                    <text>mathematician and physicist</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Michel Rolle&lt;/td&gt;</html>
+                    <text>Michel Rolle</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;mathematician&lt;/td&gt;</html>
+                    <text>mathematician</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Albert Soboul&lt;/td&gt;</html>
+                    <text>Albert Soboul</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;historian&lt;/td&gt;</html>
+                    <text>historian</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Jean - Pierre Vernant&lt;/td&gt;</html>
+                    <text>Jean - Pierre Vernant</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;historian&lt;/td&gt;</html>
+                    <text>historian</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Pierre Vidal - Naquet&lt;/td&gt;</html>
+                    <text>Pierre Vidal - Naquet</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;historian and Civil Rights activist&lt;/td&gt;</html>
+                    <text>historian and Civil Rights activist</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Pierre Vilar&lt;/td&gt;</html>
+                    <text>Pierre Vilar</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;historian&lt;/td&gt;</html>
+                    <text>historian</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Christophe Victor&lt;/td&gt;</html>
+                    <text>Christophe Victor</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;geographer&lt;/td&gt;</html>
+                    <text>geographer</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Paul - Emile Victor&lt;/td&gt;</html>
+                    <text>Paul - Emile Victor</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;ethnologist&lt;/td&gt;</html>
+                    <text>ethnologist</text>
+                </cell>
+            </row>
+        </content>
+    </logicalTable>
+</entity>

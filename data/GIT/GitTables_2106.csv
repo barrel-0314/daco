@@ -1,0 +1,7 @@
+,col0,col1,col2,col3,col4,col5,col6,col7
+0,acl_book,library.book_default,model_library_book,,1,0,0,0
+1,acl_book_librarian,library.book_librarian,model_library_book,group_librarian,1,1,1,1
+2,acl_book_category,library.book_category_default,model_library_book_category,,1,0,0,0
+3,acl_book_category_librarian,library.book_category_librarian,model_library_book_category,group_librarian,1,1,1,1
+4,acl_book_rent,library.book_rent_default,model_library_book_rent,,1,0,0,0
+5,acl_book_rent_librarian,library.book_rent_librarian,model_library_book_rent,group_librarian,1,1,1,1

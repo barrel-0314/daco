@@ -1,0 +1,45 @@
+,col0,col1,col2,col3,col4,col5
+0,OCCI,Platform,http://occi.provider.com/application/,POST,Platform.occie,Creates a new application instance.
+1,OCCI,Platform,http://occi.provider.com/application/,DELETE,Platform.occie,Removes all application instances.
+2,OCCI,Platform,http://occi.provider.com/application/?action=start,POST,Platform.occie,Performs the start action on all instances of this application collection.
+3,OCCI,Platform,http://occi.provider.com/application/?action=stop,POST,Platform.occie,Performs the stop action on all instances of this application collection.
+4,OCCI,Platform,http://occi.provider.com/application/{application_id},GET,Platform.occie,Retrieves this application instance.
+5,OCCI,Platform,http://occi.provider.com/application/{application_id},POST,Platform.occie,Updates partially this application instance.
+6,OCCI,Platform,http://occi.provider.com/application/{application_id},PUT,Platform.occie,Creates/Updates a application instance.
+7,OCCI,Platform,http://occi.provider.com/application/{application_id},DELETE,Platform.occie,Deletes this application instance.
+8,OCCI,Platform,http://occi.provider.com/application/{application_id}?action=start,POST,Platform.occie,Start the application.
+9,OCCI,Platform,http://occi.provider.com/application/{application_id}?action=stop,POST,Platform.occie,Stop the application.
+10,OCCI,Platform,http://occi.provider.com/component/,GET,Platform.occie,Retrieves all component instances.
+11,OCCI,Platform,http://occi.provider.com/component/,POST,Platform.occie,Creates a new component instance.
+12,OCCI,Platform,http://occi.provider.com/component/,DELETE,Platform.occie,Removes all component instances.
+13,OCCI,Platform,http://occi.provider.com/component/?action=start,POST,Platform.occie,Performs the start action on all instances of this component collection.
+14,OCCI,Platform,http://occi.provider.com/component/?action=stop,POST,Platform.occie,Performs the stop action on all instances of this component collection.
+15,OCCI,Platform,http://occi.provider.com/component/{component_id},GET,Platform.occie,Retrieves this component instance.
+16,OCCI,Platform,http://occi.provider.com/component/{component_id},POST,Platform.occie,Updates partially this component instance.
+17,OCCI,Platform,http://occi.provider.com/component/{component_id},PUT,Platform.occie,Creates/Updates a component instance.
+18,OCCI,Platform,http://occi.provider.com/component/{component_id},DELETE,Platform.occie,Deletes this component instance.
+19,OCCI,Platform,http://occi.provider.com/component/{component_id}?action=start,POST,Platform.occie,Start the application.
+20,OCCI,Platform,http://occi.provider.com/component/{component_id}?action=stop,POST,Platform.occie,Stop the application.
+21,OCCI,Platform,http://occi.provider.com/componentlink/,GET,Platform.occie,Retrieves all componentlink instances.
+22,OCCI,Platform,http://occi.provider.com/componentlink/,POST,Platform.occie,Creates a new componentlink instance.
+23,OCCI,Platform,http://occi.provider.com/componentlink/,DELETE,Platform.occie,Removes all componentlink instances.
+24,OCCI,Platform,http://occi.provider.com/componentlink/{componentlink_id},GET,Platform.occie,Retrieves this componentlink instance.
+25,OCCI,Platform,http://occi.provider.com/componentlink/{componentlink_id},POST,Platform.occie,Updates partially this componentlink instance.
+26,OCCI,Platform,http://occi.provider.com/componentlink/{componentlink_id},PUT,Platform.occie,Creates/Updates a componentlink instance.
+27,OCCI,Platform,http://occi.provider.com/componentlink/{componentlink_id},DELETE,Platform.occie,Deletes this componentlink instance.
+28,OCCI,Platform,http://occi.provider.com/app_tpl/,GET,Platform.occie,Retrieves all instances having this app_tpl mixin.
+29,OCCI,Platform,http://occi.provider.com/app_tpl/,POST,Platform.occie,Adds an instance to this app_tpl mixin collection.
+30,OCCI,Platform,http://occi.provider.com/app_tpl/,PUT,Platform.occie,Updates this app_tpl mixin collection.
+31,OCCI,Platform,http://occi.provider.com/app_tpl/,DELETE,Platform.occie,Removes all instances of this app_tpl mixin collection.
+32,OCCI,Platform,http://occi.provider.com/res_tpl/,GET,Platform.occie,Retrieves all instances having this res_tpl mixin.
+33,OCCI,Platform,http://occi.provider.com/res_tpl/,POST,Platform.occie,Adds an instance to this res_tpl mixin collection.
+34,OCCI,Platform,http://occi.provider.com/res_tpl/,PUT,Platform.occie,Updates this res_tpl mixin collection.
+35,OCCI,Platform,http://occi.provider.com/res_tpl/,DELETE,Platform.occie,Removes all instances of this res_tpl mixin collection.
+36,OCCI,Platform,http://occi.provider.com/database/,GET,Platform.occie,Retrieves all instances having this database mixin.
+37,OCCI,Platform,http://occi.provider.com/database/,POST,Platform.occie,Adds an instance to this database mixin collection.
+38,OCCI,Platform,http://occi.provider.com/database/,PUT,Platform.occie,Updates this database mixin collection.
+39,OCCI,Platform,http://occi.provider.com/database/,DELETE,Platform.occie,Removes all instances of this database mixin collection.
+40,OCCI,Platform,http://occi.provider.com/databaselink/,GET,Platform.occie,Retrieves all instances having this databaselink mixin.
+41,OCCI,Platform,http://occi.provider.com/databaselink/,POST,Platform.occie,Adds an instance to this databaselink mixin collection.
+42,OCCI,Platform,http://occi.provider.com/databaselink/,PUT,Platform.occie,Updates this databaselink mixin collection.
+43,OCCI,Platform,http://occi.provider.com/databaselink/,DELETE,Platform.occie,Removes all instances of this databaselink mixin collection.

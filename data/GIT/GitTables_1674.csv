@@ -1,0 +1,20 @@
+,col0,col1,col2,col3,col4
+0,Called as function,Called as function,Called as function,Called as function,Called as function
+1,Number([value]),?,Yes,Yes,?
+2,Called as constructor,Called as constructor,Called as constructor,Called as constructor,Called as constructor
+3,new Number([value]),3.0,1.0,Yes,1.0
+4,Properties,Properties,Properties,Properties,Properties
+5,prototype,4.0,1.0,Yes,1.0
+6,MAX_VALUE,4.0,1.0,Yes,1.0
+7,MIN_VALUE,4.0,1.0,Yes,1.0
+8,,4.0,1.0,Yes,1.0
+9,NEGATIVE_INFINITY,4.0,1.0,Yes,1.0
+10,POSITIVE_INFINITY,4.0,1.0,Yes,1.0
+11,Properties of prototype,Properties of prototype,Properties of prototype,Properties of prototype,Properties of prototype
+12,constructor,4.0,1.0,Yes,1.0
+13,toString([radix]),4.0,1.0,Yes,1.0
+14,toLocaleString(),5.5,1.0,Yes,1.0
+15,valueOf(),4.0,1.0,Yes,1.0
+16,toFixed(fractionDigits),5.5,1.0,Yes,1.0
+17,toExponential(fractionDigits),5.5,1.0,Yes,1.0
+18,toPrecision(precision),5.5,1.0,Yes,1.0

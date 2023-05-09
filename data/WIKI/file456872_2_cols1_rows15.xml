@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<entity>
+    <logicalTable>
+        <content>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Mordicai Gerstein&lt;/td&gt;</html>
+                    <text>Mordicai Gerstein</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;The Man Who Walked Between the Towers&lt;/td&gt;</html>
+                    <text>The Man Who Walked Between the Towers</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Eric Rothman&lt;/td&gt;</html>
+                    <text>Eric Rothman</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;My Friend Rabbit&lt;/td&gt;</html>
+                    <text>My Friend Rabbit</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;David Wiesner&lt;/td&gt;</html>
+                    <text>David Wiesner</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;The Three Pigs&lt;/td&gt;</html>
+                    <text>The Three Pigs</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;So You Want to Be President ?&lt;/td&gt;</html>
+                    <text>So You Want to Be President ?</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Simms Tabcak&lt;/td&gt;</html>
+                    <text>Simms Tabcak</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Joseph Had a Little Overcoat&lt;/td&gt;</html>
+                    <text>Joseph Had a Little Overcoat</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Snowflake Bentley&lt;/td&gt;</html>
+                    <text>Snowflake Bentley</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Paul O . Zelinsky&lt;/td&gt;</html>
+                    <text>Paul O . Zelinsky</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Rapunzel&lt;/td&gt;</html>
+                    <text>Rapunzel</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;David Wisniewski&lt;/td&gt;</html>
+                    <text>David Wisniewski</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Golem&lt;/td&gt;</html>
+                    <text>Golem</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Peggy Rathmann&lt;/td&gt;</html>
+                    <text>Peggy Rathmann</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Officer Buckle and Gloria&lt;/td&gt;</html>
+                    <text>Officer Buckle and Gloria</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Smoky Night&lt;/td&gt;</html>
+                    <text>Smoky Night</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Allen Say&lt;/td&gt;</html>
+                    <text>Allen Say</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;GrandfatherÃÂs Journey&lt;/td&gt;</html>
+                    <text>GrandfatherÃÂs Journey</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Emily Arnold McCully&lt;/td&gt;</html>
+                    <text>Emily Arnold McCully</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Mirette on the High Wire&lt;/td&gt;</html>
+                    <text>Mirette on the High Wire</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;David Wiesner&lt;/td&gt;</html>
+                    <text>David Wiesner</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Tuesday&lt;/td&gt;</html>
+                    <text>Tuesday</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;David Macaulay&lt;/td&gt;</html>
+                    <text>David Macaulay</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Black and White&lt;/td&gt;</html>
+                    <text>Black and White</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Ed Young&lt;/td&gt;</html>
+                    <text>Ed Young</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Lon Po Po : A Red - Riding Hood Story from China&lt;/td&gt;</html>
+                    <text>Lon Po Po : A Red - Riding Hood Story from China</text>
+                </cell>
+            </row>
+        </content>
+    </logicalTable>
+</entity>

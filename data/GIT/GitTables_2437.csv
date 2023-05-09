@@ -1,0 +1,28 @@
+,col0,col1,col2
+0,,,
+1,Feature Name,Type,Description
+2,encounter_id,numeric ID,Unique identifier of an encounter
+3,patient_nbr,numeric ID,Unique identifier of a patient
+4,race,categorical,"Values: Caucasian, Asian, African American, Hisponic, and other"
+5,gender,categorical,"Values: male, female, and unknown/invalid"
+6,age,bucketed numerical feature (converted to categorical),"Grouped in 10-year intervals: [0, 10), [10, 20), . . ., [90, 100)"
+7,weight,numerical,Weight in pounds.
+8,admission_type_id,categorical,"Integer identifier corresponding to 9 distinct values, for example, emergency, urgent, elective, newborn, and not available"
+9,discharge_disposition_id,categorical,"Integer identifier corresponding to 29 distinct values, for example, discharged to home, expired, and not available"
+10,admission_source_id,categorical,"nteger identifier corresponding to 21 distinct values, for example, physician referral, emergency room, and transfer from a hospital"
+11,time_in_hospital,numerical,Integer number of days between admission and discharge
+12,payer_code,categorical,"Integer identifier corresponding to 23 distinct values, for example, Blue Cross\Blue Shield, Medicare, and self-pay"
+13,medical_specialty,categorical,"Integer identifier of a specialty of the admitting physician, corresponding to 84 distinct values, for example, cardiology, internal medicine, family\general practice, and surgeon"
+14,primary_diagnosis_code,categorical,Primary diagnosis code using ICD9 - CM code set
+15,other_diagnosis_codes,categorical array,Two secondary diagnosis codes using the ICD9 - CM code set that are pipe delimited.
+16,number_outpatient,numerical,Number of outpatient visits of the patient in the year preceding the encounter
+17,number_inpatient,numerical,Number of inpatient visits of the patient in the year preceding the encounter
+18,number_emergency,numerical,Number of emergency visits of the patient in the year preceding the encounter
+19,num_lab_procedures,numerical,Number of lab tests performed during the encounter
+20,number_diagnoses,numerical,Number of diagnoses entered to the system
+21,num_medications,numerical,Number of distinct generic names administered during the encounter
+22,num_procedures,numerical,Number of procedures (other than lab tests) performed during the encounter
+23,ndc_code,categorical,NDC code(s) for drug prescribed during encounter. Note that this field is denornalized.
+24,max_glu_serum,categorical,"Indicates the range of the result or if the test was not taken. Values: �>200,� �>300,� �normal,� and �none� if not measured"
+25,A1Cresult,categorical,"Indicates the range of the result or if the test was not taken. Values: �>8� if the result was greater than 8%, �>7� if the result was greater than 7% but less than 8%, �normal� if the result was less than 7%, and �none� if not measured."
+26,change,categorical,Indicates if there was a change in diabetic medications (either dosage or generic name). Values: �change� and �no change�

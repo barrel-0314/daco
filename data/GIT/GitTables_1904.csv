@@ -1,0 +1,9 @@
+,col0,col1,col2,col3,col4,col5,col6,col7,col8,col9,col10
+0,0,boundary,Static,Black,128.0,-2.5,0.0,256.0,5.0,,
+1,1,boundary,Static,Black,-2.5,128.0,0.0,5.0,256.0,,
+2,2,boundary,Static,Black,128.0,258.5,0.0,256.0,5.0,,
+3,3,boundary,Static,Black,258.5,128.0,0.0,5.0,256.0,,
+4,4,bar,Static,Purple,128.0,2.559999942779541,0.0,256.0,5.12,,
+5,5,jar,Dynamic,Gray,134.39999389648438,58.863670349121094,0.0,77.06620530427071,117.7273406982422,51.20000000000002,
+6,6,circle,Dynamic,Green,134.39999389648438,217.28366088867188,,,,,12.5
+7,7,User Circle,Dynamic,Red,165.0,45.0,,,,,12.0

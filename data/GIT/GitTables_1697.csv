@@ -1,0 +1,403 @@
+,col0,col1,col2,col3
+0,c-api/list,,:high,list[low:high]
+1,c-api/list,,:high,list[low:high] = itemlist
+2,c-api/sequence,,:i2,o[i1:i2]
+3,c-api/sequence,,:i2,o[i1:i2] = v
+4,c-api/sequence,,:i2,del o[i1:i2]
+5,c-api/unicode,,:end,str[start:end]
+6,distutils/setupscript,,::,
+7,extending/embedding,,:numargs,"if(!PyArg_ParseTuple(args, "":numargs""))"
+8,extending/extending,,:set,"if (PyArg_ParseTuple(args, ""O:set_callback"", &temp)) {"
+9,extending/extending,,:myfunction,"PyArg_ParseTuple(args, ""D:myfunction"", &c);"
+10,extending/newtypes,,:call,"if (!PyArg_ParseTuple(args, ""sss:call"", &arg1, &arg2, &arg3)) {"
+11,extending/windows,,:initspam,/export:initspam
+12,howto/cporting,,:add,"if (!PyArg_ParseTuple(args, ""ii:add_ints"", &one, &two))"
+13,howto/cporting,,:encode,"if (!PyArg_ParseTuple(args, ""O:encode_object"", &myobj))"
+14,howto/cporting,,:say,"if (!PyArg_ParseTuple(args, ""U:say_hello"", &name))"
+15,howto/curses,,:black,"They are: 0:black, 1:red, 2:green, 3:yellow, 4:blue, 5:magenta, 6:cyan, and"
+16,howto/curses,,:blue,"They are: 0:black, 1:red, 2:green, 3:yellow, 4:blue, 5:magenta, 6:cyan, and"
+17,howto/curses,,:cyan,"They are: 0:black, 1:red, 2:green, 3:yellow, 4:blue, 5:magenta, 6:cyan, and"
+18,howto/curses,,:green,"They are: 0:black, 1:red, 2:green, 3:yellow, 4:blue, 5:magenta, 6:cyan, and"
+19,howto/curses,,:magenta,"They are: 0:black, 1:red, 2:green, 3:yellow, 4:blue, 5:magenta, 6:cyan, and"
+20,howto/curses,,:red,"They are: 0:black, 1:red, 2:green, 3:yellow, 4:blue, 5:magenta, 6:cyan, and"
+21,howto/curses,,:white,7:white.
+22,howto/curses,,:yellow,"They are: 0:black, 1:red, 2:green, 3:yellow, 4:blue, 5:magenta, 6:cyan, and"
+23,howto/regex,,::,
+24,howto/regex,,:foo,(?:foo)
+25,howto/urllib2,,:example,"for example ""joe@password:example.com"""
+26,howto/webservers,,.. image:,.. image:: http.png
+27,library/audioop,,:ipos,"# factor = audioop.findfactor(in_test[ipos*2:ipos*2+len(out_test)],"
+28,library/datetime,,:MM,
+29,library/datetime,,:SS,
+30,library/decimal,,:optional,trailneg:optional trailing minus indicator
+31,library/difflib,,:ahi,a[alo:ahi]
+32,library/difflib,,:bhi,b[blo:bhi]
+33,library/difflib,,:i2,
+34,library/difflib,,:j2,
+35,library/difflib,,:i1,
+36,library/dis,,:TOS,
+37,library/dis,,`,TOS = `TOS`
+38,library/doctest,,`,``factorial`` from the ``example`` module:
+39,library/doctest,,`,The ``example`` module
+40,library/doctest,,`,Using ``factorial``
+41,library/functions,,:step,a[start:stop:step]
+42,library/functions,,:stop,"a[start:stop, i]"
+43,library/functions,,:stop,a[start:stop:step]
+44,library/hotshot,,:lineno,ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+45,library/httplib,,:port,host:port
+46,library/imaplib,,:MM,"""DD-Mmm-YYYY HH:MM:SS +HHMM"""
+47,library/imaplib,,:SS,"""DD-Mmm-YYYY HH:MM:SS +HHMM"""
+48,library/itertools,,:stop,elements from seq[start:stop:step]
+49,library/itertools,,:step,elements from seq[start:stop:step]
+50,library/linecache,,:sys,sys:x:3:3:sys:/dev:/bin/sh
+51,library/logging,,:And,
+52,library/logging,,:package1,
+53,library/logging,,:package2,
+54,library/logging,,:root,
+55,library/logging,,:This,
+56,library/logging,,:port,host:port
+57,library/mmap,,:i2,obj[i1:i2]
+58,library/multiprocessing,,:queue,">>> QueueManager.register('get_queue', callable=lambda:queue)"
+59,library/multiprocessing,,`,">>> l._callmethod('__getitem__', (20,))     # equiv to `l[20]`"
+60,library/multiprocessing,,`,">>> l._callmethod('__getslice__', (2, 7))   # equiv to `l[2:7]`"
+61,library/multiprocessing,,`,# `BaseManager`.
+62,library/multiprocessing,,`,# `Pool.imap()` (which will save on the amount of code needed anyway).
+63,library/multiprocessing,,`,# A test file for the `multiprocessing` package
+64,library/multiprocessing,,`,# A test of `multiprocessing.Pool` class
+65,library/multiprocessing,,`,# Add more tasks using `put()`
+66,library/multiprocessing,,`,# create server for a `HostManager` object
+67,library/multiprocessing,,`,# Depends on `multiprocessing` package -- tested with `processing-0.60`
+68,library/multiprocessing,,`,# in the original order then consider using `Pool.map()` or
+69,library/multiprocessing,,`,# Not sure if we should synchronize access to `socket.accept()` method by
+70,library/multiprocessing,,`,# object.  (We import `multiprocessing.reduction` to enable this pickling.)
+71,library/multiprocessing,,`,# register the Foo class; make `f()` and `g()` accessible via proxy
+72,library/multiprocessing,,`,# register the Foo class; make `g()` and `_h()` accessible via proxy
+73,library/multiprocessing,,`,# register the generator function baz; use `GeneratorProxy` to make proxies
+74,library/multiprocessing,,`,`Cluster` is a subclass of `SyncManager` so it allows creation of
+75,library/multiprocessing,,`,`hostname` gives the name of the host.  If hostname is not
+76,library/multiprocessing,,`,`slots` is used to specify the number of slots for processes on
+77,library/optparse,,:len,del parser.rargs[:len(value)]
+78,library/os.path,,:foo,c:foo
+79,library/parser,,`,"""Make a function that raises an argument to the exponent `exp`."""
+80,library/posix,,`,"CFLAGS=""`getconf LFS_CFLAGS`"" OPT=""-g -O2 $CFLAGS"""
+81,library/profile,,:lineno,ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+82,library/profile,,:lineno,filename:lineno(function)
+83,library/pyexpat,,:elem1,<py:elem1 />
+84,library/pyexpat,,:py,"xmlns:py = ""http://www.python.org/ns/"">"
+85,library/repr,,`,return `obj`
+86,library/smtplib,,:port,as well as a regular host:port server.
+87,library/socket,,::,'5aef:2b::8'
+88,library/sqlite3,,:memory,
+89,library/sqlite3,,:age,"select name_last, age from people where name_last=:who and age=:age"
+90,library/sqlite3,,:who,"select name_last, age from people where name_last=:who and age=:age"
+91,library/ssl,,:My,"Organization Name (eg, company) [Internet Widgits Pty Ltd]:My Organization, Inc."
+92,library/ssl,,:My,"Organizational Unit Name (eg, section) []:My Group"
+93,library/ssl,,:myserver,"Common Name (eg, YOUR name) []:myserver.mygroup.myorganization.com"
+94,library/ssl,,:MyState,State or Province Name (full name) [Some-State]:MyState
+95,library/ssl,,:ops,Email Address []:ops@myserver.mygroup.myorganization.com
+96,library/ssl,,:Some,"Locality Name (eg, city) []:Some City"
+97,library/ssl,,:US,Country Name (2 letter code) [AU]:US
+98,library/stdtypes,,:len,s[len(s):len(s)]
+99,library/stdtypes,,:len,s[len(s):len(s)]
+100,library/string,,:end,s[start:end]
+101,library/string,,:end,s[start:end]
+102,library/subprocess,,`,output=`mycmd myarg`
+103,library/subprocess,,`,output=`dmesg | grep hda`
+104,library/tarfile,,:compression,filemode[:compression]
+105,library/tarfile,,:gz,
+106,library/tarfile,,:bz2,
+107,library/time,,:mm,
+108,library/time,,:ss,
+109,library/turtle,,::,Example::
+110,library/urllib,,:port,:port
+111,library/urllib2,,:password,"""joe:password@python.org"""
+112,library/uuid,,:uuid,urn:uuid:12345678-1234-5678-1234-567812345678
+113,library/xmlrpclib,,:pass,http://user:pass@host:port/path
+114,library/xmlrpclib,,:pass,user:pass
+115,library/xmlrpclib,,:port,http://user:pass@host:port/path
+116,license,,`,THIS SOFTWARE IS PROVIDED BY THE PROJECT AND CONTRIBUTORS ``AS IS'' AND
+117,license,,:zooko,mailto:zooko@zooko.com
+118,license,,`,THIS SOFTWARE IS PROVIDED BY THE AUTHOR AND CONTRIBUTORS ``AS IS'' AND
+119,reference/datamodel,,:step,a[i:j:step]
+120,reference/datamodel,,:max,
+121,reference/expressions,,:index,x[index:index]
+122,reference/expressions,,:datum,{key:datum...}
+123,reference/expressions,,`,`expressions...`
+124,reference/grammar,,:output,#diagram:output
+125,reference/grammar,,:rules,#diagram:rules
+126,reference/grammar,,:token,#diagram:token
+127,reference/grammar,,`,'`' testlist1 '`'
+128,reference/lexical_analysis,,:fileencoding,# vim:fileencoding=<encoding-name>
+129,reference/lexical_analysis,,`,",       :       .       `       =       ;"
+130,tutorial/datastructures,,:value,key:value pairs within the braces adds initial key:value pairs
+131,tutorial/datastructures,,:value,It is also possible to delete a key:value
+132,tutorial/stdlib2,,:start,"fields = struct.unpack('<IIIHH', data[start:start+16])"
+133,tutorial/stdlib2,,:start,extra = data[start:start+extra_size]
+134,tutorial/stdlib2,,:start,filename = data[start:start+filenamesize]
+135,tutorial/stdlib2,,:config,"logging.warning('Warning:config file %s not found', 'server.conf')"
+136,tutorial/stdlib2,,:config,WARNING:root:Warning:config file server.conf not found
+137,tutorial/stdlib2,,:Critical,CRITICAL:root:Critical error -- shutting down
+138,tutorial/stdlib2,,:Error,ERROR:root:Error occurred
+139,tutorial/stdlib2,,:root,CRITICAL:root:Critical error -- shutting down
+140,tutorial/stdlib2,,:root,ERROR:root:Error occurred
+141,tutorial/stdlib2,,:root,WARNING:root:Warning:config file server.conf not found
+142,tutorial/stdlib2,,:Warning,WARNING:root:Warning:config file server.conf not found
+143,using/cmdline,,:line,file:line: category: message
+144,using/cmdline,,:category,action:message:category:module:line
+145,using/cmdline,,:line,action:message:category:module:line
+146,using/cmdline,,:message,action:message:category:module:line
+147,using/cmdline,,:module,action:message:category:module:line
+148,using/cmdline,,:errorhandler,:errorhandler
+149,using/windows,162.0,`,`` this fixes syntax highlighting errors in some editors due to the \\\\ hackery
+150,using/windows,170.0,`,``
+151,whatsnew/2.0,418.0,:len,
+152,whatsnew/2.3,,::,
+153,whatsnew/2.3,,:config,
+154,whatsnew/2.3,,:Critical,
+155,whatsnew/2.3,,:Error,
+156,whatsnew/2.3,,:Problem,
+157,whatsnew/2.3,,:root,
+158,whatsnew/2.3,,:Warning,
+159,whatsnew/2.4,,::,
+160,whatsnew/2.4,,:System,
+161,whatsnew/2.5,,:memory,:memory:
+162,whatsnew/2.5,,:step,[start:stop:step]
+163,whatsnew/2.5,,:stop,[start:stop:step]
+164,distutils/examples,267.0,`,This is the description of the ``foobar`` package.
+165,documenting/fromlatex,39.0,:func,:func:`str(object)`
+166,documenting/fromlatex,39.0,`,:func:`str(object)`
+167,documenting/fromlatex,39.0,`,``str(object)``
+168,documenting/fromlatex,55.0,.. deprecated:,.. deprecated:: 2.5
+169,documenting/fromlatex,66.0,.. note:,.. note::
+170,documenting/fromlatex,76.0,:samp,":samp:`open({filename}, {mode})`"
+171,documenting/fromlatex,76.0,`,":samp:`open({filename}, {mode})`"
+172,documenting/fromlatex,80.0,`,``'c'``
+173,documenting/fromlatex,80.0,`,`Title <URL>`_
+174,documenting/fromlatex,80.0,`,``code``
+175,documenting/fromlatex,80.0,`,`Title <URL>`_
+176,documenting/fromlatex,99.0,:file,:file:`C:\\Temp\\my.tmp`
+177,documenting/fromlatex,99.0,`,:file:`C:\\Temp\\my.tmp`
+178,documenting/fromlatex,99.0,`,"``open(""C:\Temp\my.tmp"")``"
+179,documenting/fromlatex,129.0,.. function:,.. function:: do_foo(bar)
+180,documenting/fromlatex,141.0,.. function:,".. function:: open(filename[, mode[, buffering]])"
+181,documenting/fromlatex,152.0,.. function:,.. function:: foo_*
+182,documenting/fromlatex,152.0,:noindex,:noindex:
+183,documenting/fromlatex,162.0,.. describe:,.. describe:: a == b
+184,documenting/fromlatex,168.0,.. cmdoption:,.. cmdoption:: -O
+185,documenting/fromlatex,168.0,.. envvar:,.. envvar:: PYTHONINSPECT
+186,documenting/rest,33.0,`,``text``
+187,documenting/rest,47.0,:rolename,:rolename:`content`
+188,documenting/rest,47.0,`,:rolename:`content`
+189,documenting/rest,103.0,::,This is a normal text paragraph. The next paragraph is a code sample::
+190,documenting/rest,130.0,`,`Link text <http://target>`_
+191,documenting/rest,187.0,.. function:,.. function:: foo(x)
+192,documenting/rest,187.0,:bar,:bar: no
+193,documenting/rest,208.0,.. rubric:,.. rubric:: Footnotes
+194,faq/programming,,:reduce,"print((lambda Ru,Ro,Iu,Io,IM,Sx,Sy:reduce(lambda x,y:x+y,map(lambda y,"
+195,faq/programming,,:reduce,"Sx=Sx,Sy=Sy:reduce(lambda x,y:x+y,map(lambda x,xc=Ru,yc=yc,Ru=Ru,Ro=Ro,"
+196,faq/programming,,:chr,">=4.0) or 1+f(xc,yc,x*x-y*y+xc,2.0*x*y+yc,k-1,f):f(xc,yc,x,y,k,f):chr("
+197,faq/programming,,::,for x in sequence[::-1]:
+198,faq/windows,229.0,:EOF,@setlocal enableextensions & python -x %~f0 %* & goto :EOF
+199,faq/windows,393.0,:REG,.py :REG_SZ: c:\<path to python>\python.exe -u %s %s
+200,library/bisect,32.0,:hi,all(val >= x for val in a[i:hi])
+201,library/bisect,42.0,:hi,all(val > x for val in a[i:hi])
+202,library/http.client,52.0,:port,host:port
+203,library/nntplib,,:bytes,:bytes
+204,library/nntplib,,:lines,:lines
+205,library/nntplib,,:lines,"['xref', 'from', ':lines', ':bytes', 'references', 'date', 'message-id', 'subject']"
+206,library/nntplib,,:bytes,"['xref', 'from', ':lines', ':bytes', 'references', 'date', 'message-id', 'subject']"
+207,library/pickle,,:memory,"conn = sqlite3.connect("":memory:"")"
+208,library/profile,,:lineno,"(sort by filename:lineno),"
+209,library/socket,,::,"(10, 1, 6, '', ('2001:888:2000:d::a2', 80, 0, 0))]"
+210,library/stdtypes,,:end,s[start:end]
+211,library/stdtypes,,:end,s[start:end]
+212,library/urllib.request,,:close,Connection:close
+213,library/urllib.request,,:password,"""joe:password@python.org"""
+214,library/urllib.request,,:lang,"xmlns=""http://www.w3.org/1999/xhtml"" xml:lang=""en"" lang=""en"">\n\n<head>\n"
+215,library/xmlrpc.client,103.0,:pass,http://user:pass@host:port/path
+216,library/xmlrpc.client,103.0,:port,http://user:pass@host:port/path
+217,library/xmlrpc.client,103.0,:pass,user:pass
+218,license,,`,* THIS SOFTWARE IS PROVIDED BY THE OpenSSL PROJECT ``AS IS'' AND ANY
+219,license,,`,* THIS SOFTWARE IS PROVIDED BY ERIC YOUNG ``AS IS'' AND
+220,license,,`,"``Software''), to deal in the Software without restriction, including"
+221,license,,`,"THE SOFTWARE IS PROVIDED ``AS IS'', WITHOUT WARRANTY OF ANY KIND,"
+222,reference/lexical_analysis,704.0,`,$       ?       `
+223,whatsnew/2.7,735.0,:Sunday,'2009:4:Sunday'
+224,whatsnew/2.7,862.0,::,"export PYTHONWARNINGS=all,error:::Cookie:0"
+225,whatsnew/2.7,862.0,:Cookie,"export PYTHONWARNINGS=all,error:::Cookie:0"
+226,whatsnew/2.7,1619.0,::,>>> urlparse.urlparse('http://[1080::8:800:200C:417A]/foo')
+227,whatsnew/2.7,1619.0,::,"ParseResult(scheme='http', netloc='[1080::8:800:200C:417A]',"
+228,library/configparser,,`,# Set the optional `raw` argument of get() to True if you wish to disable
+229,library/configparser,,`,# The optional `vars` argument is a dict with members that will take
+230,library/configparser,,`,# The optional `fallback` argument can be used to provide a fallback value
+231,library/configparser,,:option,${section:option}
+232,library/configparser,,:system,path: ${Common:system_dir}/Library/Frameworks/
+233,library/configparser,,:home,my_dir: ${Common:home_dir}/twosheds
+234,library/configparser,,:path,python_dir: ${Frameworks:path}/Python/Versions/${Frameworks:Python}
+235,library/configparser,,:Python,python_dir: ${Frameworks:path}/Python/Versions/${Frameworks:Python}
+236,library/pdb,,:lineno,[filename:lineno | bpnumber [bpnumber ...]]
+237,library/pdb,,:lineno,filename:lineno
+238,library/logging,,:Watch,WARNING:root:Watch out!
+239,library/logging,,:So,INFO:root:So should this
+240,library/logging,,:Started,INFO:root:Started
+241,library/logging,,:Doing,INFO:root:Doing something
+242,library/logging,,:Finished,INFO:root:Finished
+243,library/logging,,:Look,WARNING:root:Look before you leap!
+244,library/logging,,:So,INFO:So should this
+245,library/logging,,:logger,severity:logger name:message
+246,library/logging,,:message,severity:logger name:message
+247,whatsnew/3.2,,:directory,...   ${buildout:directory}/downloads/dist
+248,whatsnew/3.2,,:location,... zope9-location = ${zope9:location}
+249,whatsnew/3.2,,:prefix,... zope-conf = ${custom:prefix}/etc/zope.conf
+250,howto/logging,,:root,WARNING:root:Watch out!
+251,howto/logging,,:Watch,WARNING:root:Watch out!
+252,howto/logging,,:root,DEBUG:root:This message should go to the log file
+253,howto/logging,,:This,DEBUG:root:This message should go to the log file
+254,howto/logging,,:root,INFO:root:So should this
+255,howto/logging,,:So,INFO:root:So should this
+256,howto/logging,,:root,"WARNING:root:And this, too"
+257,howto/logging,,:And,"WARNING:root:And this, too"
+258,howto/logging,,:root,INFO:root:Started
+259,howto/logging,,:Started,INFO:root:Started
+260,howto/logging,,:root,INFO:root:Doing something
+261,howto/logging,,:Doing,INFO:root:Doing something
+262,howto/logging,,:root,INFO:root:Finished
+263,howto/logging,,:Finished,INFO:root:Finished
+264,howto/logging,,:root,WARNING:root:Look before you leap!
+265,howto/logging,,:Look,WARNING:root:Look before you leap!
+266,howto/logging,,:This,DEBUG:This message should appear on the console
+267,howto/logging,,:So,INFO:So should this
+268,howto/logging,,:And,"WARNING:And this, too"
+269,howto/logging,,:logger,severity:logger name:message
+270,howto/logging,,:message,severity:logger name:message
+271,library/logging.handlers,,:port,host:port
+272,documenting/markup,613.0,`,:ref:`link text <reference-label>`
+273,library/imaplib,116.0,:MM,"""DD-Mmm-YYYY HH:MM:SS"
+274,library/imaplib,116.0,:SS,"""DD-Mmm-YYYY HH:MM:SS"
+275,whatsnew/3.2,,::,"$ export PYTHONWARNINGS='ignore::RuntimeWarning::,once::UnicodeWarning::'"
+276,howto/pyporting,75.0,::,# make sure to use :: Python *and* :: Python :: 3 so
+277,howto/pyporting,75.0,::,"'Programming Language :: Python',"
+278,howto/pyporting,75.0,::,'Programming Language :: Python :: 3'
+279,whatsnew/3.2,,:gz,">>> with tarfile.open(name='myarchive.tar.gz', mode='w:gz') as tf:"
+280,whatsnew/3.2,,:directory,${buildout:directory}/downloads/dist
+281,whatsnew/3.2,,:location,zope9-location = ${zope9:location}
+282,whatsnew/3.2,,:prefix,zope-conf = ${custom:prefix}/etc/zope.conf
+283,whatsnew/3.2,,:beef,>>> urllib.parse.urlparse('http://[dead:beef:cafe:5417:affe:8FA3:deaf:feed]/foo/')
+284,whatsnew/3.2,,:cafe,>>> urllib.parse.urlparse('http://[dead:beef:cafe:5417:affe:8FA3:deaf:feed]/foo/')
+285,whatsnew/3.2,,:affe,>>> urllib.parse.urlparse('http://[dead:beef:cafe:5417:affe:8FA3:deaf:feed]/foo/')
+286,whatsnew/3.2,,:deaf,>>> urllib.parse.urlparse('http://[dead:beef:cafe:5417:affe:8FA3:deaf:feed]/foo/')
+287,whatsnew/3.2,,:feed,>>> urllib.parse.urlparse('http://[dead:beef:cafe:5417:affe:8FA3:deaf:feed]/foo/')
+288,whatsnew/3.2,,:beef,"netloc='[dead:beef:cafe:5417:affe:8FA3:deaf:feed]',"
+289,whatsnew/3.2,,:cafe,"netloc='[dead:beef:cafe:5417:affe:8FA3:deaf:feed]',"
+290,whatsnew/3.2,,:affe,"netloc='[dead:beef:cafe:5417:affe:8FA3:deaf:feed]',"
+291,whatsnew/3.2,,:deaf,"netloc='[dead:beef:cafe:5417:affe:8FA3:deaf:feed]',"
+292,whatsnew/3.2,,:feed,"netloc='[dead:beef:cafe:5417:affe:8FA3:deaf:feed]',"
+293,documenting/markup,33.0,.. sectionauthor:,.. sectionauthor:: Guido van Rossum <guido@python.org>
+294,documenting/markup,42.0,:mod,:mod:`parrot` -- Dead parrot access
+295,documenting/markup,42.0,`,:mod:`parrot` -- Dead parrot access
+296,documenting/markup,42.0,.. module:,.. module:: parrot
+297,documenting/markup,42.0,:platform,":platform: Unix, Windows"
+298,documenting/markup,42.0,:synopsis,:synopsis: Analyze and reanimate dead parrots.
+299,documenting/markup,42.0,.. moduleauthor:,.. moduleauthor:: Eric Cleese <eric@python.invalid>
+300,documenting/markup,42.0,.. moduleauthor:,.. moduleauthor:: John Idle <john@python.invalid>
+301,documenting/markup,88.0,:noindex,:noindex:
+302,documenting/markup,95.0,.. function:,.. function:: spam(eggs)
+303,documenting/markup,95.0,:noindex,:noindex:
+304,documenting/markup,101.0,.. method:,.. method:: FileInput.input(...)
+305,documenting/markup,121.0,:function,c:function
+306,documenting/markup,121.0,.. c:,".. c:function:: PyObject* PyType_GenericAlloc(PyTypeObject *type, Py_ssize_t nitems)"
+307,documenting/markup,121.0,::,".. c:function:: PyObject* PyType_GenericAlloc(PyTypeObject *type, Py_ssize_t nitems)"
+308,documenting/markup,131.0,:member,c:member
+309,documenting/markup,131.0,.. c:,.. c:member:: PyObject* PyTypeObject.tp_bases
+310,documenting/markup,131.0,::,.. c:member:: PyObject* PyTypeObject.tp_bases
+311,documenting/markup,139.0,:macro,c:macro
+312,documenting/markup,143.0,:type,c:type
+313,documenting/markup,150.0,:var,c:var
+314,documenting/markup,150.0,.. cvar:,.. cvar:: PyObject* PyClass_Type
+315,documenting/markup,179.0,.. function:,".. function:: repeat([repeat=3[, number=1000000]])"
+316,documenting/markup,210.0,.. decorator:,.. decorator:: removename
+317,documenting/markup,210.0,.. decorator:,.. decorator:: setnewname(name)
+318,documenting/markup,210.0,:func,:func:
+319,documenting/markup,237.0,.. class:,.. class:: Spam
+320,documenting/markup,237.0,.. data:,.. data:: ham
+321,documenting/markup,237.0,.. data:,.. data:: Spam.eggs
+322,documenting/markup,250.0,:meth,:meth:
+323,documenting/markup,263.0,.. cmdoption:,.. cmdoption:: -m <module>
+324,documenting/markup,281.0,.. describe:,.. describe:: opcode
+325,documenting/markup,310.0,.. highlightlang:,.. highlightlang:: c
+326,documenting/markup,330.0,.. literalinclude:,.. literalinclude:: example.py
+327,documenting/markup,345.0,:rolename,:rolename:`content`
+328,documenting/markup,345.0,`,:rolename:`content`
+329,documenting/markup,350.0,:role,:role:`title <target>`
+330,documenting/markup,350.0,`,:role:`title <target>`
+331,documenting/markup,356.0,:meth,:meth:`~Queue.Queue.get`
+332,documenting/markup,356.0,`,:meth:`~Queue.Queue.get`
+333,documenting/markup,404.0,:func,:func:`filter`
+334,documenting/markup,404.0,`,:func:`filter`
+335,documenting/markup,404.0,:func,:func:`foo.filter`
+336,documenting/markup,404.0,`,:func:`foo.filter`
+337,documenting/markup,410.0,:func,:func:`open`
+338,documenting/markup,410.0,`,:func:`open`
+339,documenting/markup,410.0,:func,:func:`.open`
+340,documenting/markup,410.0,`,:func:`.open`
+341,documenting/markup,426.0,:data,c:data
+342,documenting/markup,430.0,:func,c:func
+343,documenting/markup,434.0,:macro,c:macro
+344,documenting/markup,438.0,:type,c:type
+345,documenting/markup,443.0,:member,c:member
+346,documenting/markup,493.0,:file,... is installed in :file:`/usr/lib/python2.{x}/site-packages` ...
+347,documenting/markup,493.0,`,... is installed in :file:`/usr/lib/python2.{x}/site-packages` ...
+348,documenting/markup,512.0,:kbd,:kbd:`C-x C-f`
+349,documenting/markup,512.0,`,:kbd:`C-x C-f`
+350,documenting/markup,512.0,:kbd,:kbd:`Control-x Control-f`
+351,documenting/markup,512.0,`,:kbd:`Control-x Control-f`
+352,documenting/markup,526.0,:mailheader,:mailheader:`Content-Type`
+353,documenting/markup,526.0,`,:mailheader:`Content-Type`
+354,documenting/markup,535.0,:manpage,:manpage:`ls(1)`
+355,documenting/markup,535.0,`,:manpage:`ls(1)`
+356,documenting/markup,551.0,:menuselection,:menuselection:`Start --> Programs`
+357,documenting/markup,551.0,`,:menuselection:`Start --> Programs`
+358,documenting/markup,566.0,`,``code``
+359,documenting/markup,585.0,:file,:file:
+360,documenting/markup,585.0,`,``code``
+361,documenting/markup,615.0,:ref,:ref:`label-name`
+362,documenting/markup,615.0,`,:ref:`label-name`
+363,documenting/markup,619.0,:ref,"It refers to the section itself, see :ref:`my-reference-label`."
+364,documenting/markup,619.0,`,"It refers to the section itself, see :ref:`my-reference-label`."
+365,documenting/markup,628.0,:ref,:ref:
+366,documenting/markup,630.0,:ref,:ref:`link text <reference-label>`
+367,documenting/markup,630.0,`,:ref:`link text <reference-label>`
+368,documenting/markup,651.0,.. note:,.. note::
+369,documenting/markup,678.0,.. versionadded:,.. versionadded:: 3.1
+370,documenting/markup,703.0,::,.. impl-detail::
+371,documenting/markup,703.0,::,.. impl-detail:: This shortly mentions an implementation detail.
+372,documenting/markup,723.0,.. seealso:,.. seealso::
+373,documenting/markup,723.0,:mod,Module :mod:`zipfile`
+374,documenting/markup,723.0,`,Module :mod:`zipfile`
+375,documenting/markup,723.0,:mod,Documentation of the :mod:`zipfile` standard module.
+376,documenting/markup,723.0,`,Documentation of the :mod:`zipfile` standard module.
+377,documenting/markup,723.0,`,"`GNU tar manual, Basic Tar Format <http://link>`_"
+378,documenting/markup,737.0,.. centered:,.. centered::
+379,documenting/markup,782.0,.. toctree:,.. toctree::
+380,documenting/markup,782.0,:maxdepth,:maxdepth: 2
+381,documenting/markup,798.0,.. index:,.. index::
+382,documenting/markup,828.0,.. index:,".. index:: BNF, grammar, syntax, notation"
+383,documenting/markup,859.0,`,"unaryneg ::= ""-"" `integer`"
+384,documenting/markup,864.0,.. productionlist:,.. productionlist::
+385,documenting/markup,864.0,`,"try1_stmt: ""try"" "":"" `suite`"
+386,documenting/markup,864.0,`,": (""except"" [`expression` ["","" `target`]] "":"" `suite`)+"
+387,documenting/markup,864.0,`,": [""else"" "":"" `suite`]"
+388,documenting/markup,864.0,`,": [""finally"" "":"" `suite`]"
+389,documenting/markup,864.0,`,"try2_stmt: ""try"" "":"" `suite`"
+390,documenting/markup,864.0,`,": ""finally"" "":"" `suite`"
+391,library/pprint,209.0,::,"'classifiers': ['Development Status :: 4 - Beta',"
+392,library/pprint,209.0,::,"'Intended Audience :: Developers',"
+393,library/pprint,209.0,::,"'License :: OSI Approved :: MIT License',"
+394,library/pprint,209.0,::,"'Natural Language :: English',"
+395,library/pprint,209.0,::,"'Operating System :: OS Independent',"
+396,library/pprint,209.0,::,"'Programming Language :: Python',"
+397,library/pprint,209.0,::,"'Programming Language :: Python :: 2',"
+398,library/pprint,209.0,::,"'Programming Language :: Python :: 2.6',"
+399,library/pprint,209.0,::,"'Programming Language :: Python :: 2.7',"
+400,library/pprint,209.0,::,"'Topic :: Software Development :: Libraries',"
+401,library/pprint,209.0,::,"'Topic :: Software Development :: Libraries :: Python Modules'],"

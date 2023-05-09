@@ -1,0 +1,19 @@
+,col0,col1,col2,col3,col4,col5
+0,state,object,categorical,"['independent', 'groupby']",False,
+1,year,int64,ordinal,independent,False,
+2,driver_gender,object,categorical,"['independent', 'groupby']",False,
+3,driver_race,object,categorical,"['independent', 'groupby']",False,
+4,decriminalization,int64,categorical,['groupby'],False,
+5,medical,int64,categorical,['groupby'],False,
+6,recreational,int64,categorical,['groupby'],False,
+7,no_reforms,int64,False,['groupby'],False,
+8,search_conducted_false,float64,continuous,ignore,True,
+9,search_conducted_true,float64,continuous,ignore,True,
+10,search_conducted_rate,float64,continuous,dependent,False,num_stops
+11,contraband_found_false,float64,continuous,ignore,True,
+12,contraband_found_true,float64,continuous,ignore,True,
+13,contraband_found_rate,float64,continuous,dependent,False,num_stops
+14,hit_false,float64,continuous,ignore,True,
+15,hit_true,float64,continuous,ignore,True,
+16,hit_rate,float64,continuous,dependent,False,search_conducted_true
+17,num_stops,float64,continuous,dependent,True,

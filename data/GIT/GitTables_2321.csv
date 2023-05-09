@@ -1,0 +1,10 @@
+,col0,col1,col2,col3
+0,Changes:,,,
+1,root/battlegroundsPremiumDbfId,:,IntNode	Added,
+2,root/collectible,:,BooleanNode	Added,
+3,root/flavor,:,TextNode	Added,
+4,root/rarity,:,TextNode	Added,
+5,root/referencedTags,:,ArrayNode	Added,
+6,root/techLevel,:,IntNode	Added,
+7,{,,,
+8,};,,,

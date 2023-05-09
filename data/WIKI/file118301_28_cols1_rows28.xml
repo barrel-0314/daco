@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<entity>
+    <logicalTable>
+        <content>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Albany Times - Union&lt;/td&gt;</html>
+                    <text>Albany Times - Union</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Albany , New York&lt;/td&gt;</html>
+                    <text>Albany , New York</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Der Yid&lt;/td&gt;</html>
+                    <text>Der Yid</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Brooklyn , New York&lt;/td&gt;</html>
+                    <text>Brooklyn , New York</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Jewish Press&lt;/td&gt;</html>
+                    <text>Jewish Press</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Brooklyn , New York&lt;/td&gt;</html>
+                    <text>Brooklyn , New York</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Laiks&lt;/td&gt;</html>
+                    <text>Laiks</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Brooklyn , New York&lt;/td&gt;</html>
+                    <text>Brooklyn , New York</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;New Yorkin Uutiset&lt;/td&gt;</html>
+                    <text>New Yorkin Uutiset</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Brooklyn , New York&lt;/td&gt;</html>
+                    <text>Brooklyn , New York</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Norway Times - Nordisk Tidende&lt;/td&gt;</html>
+                    <text>Norway Times - Nordisk Tidende</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Brooklyn , New York&lt;/td&gt;</html>
+                    <text>Brooklyn , New York</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Tsaytung&lt;/td&gt;</html>
+                    <text>Tsaytung</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Brooklyn , New York&lt;/td&gt;</html>
+                    <text>Brooklyn , New York</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Buffalo News&lt;/td&gt;</html>
+                    <text>Buffalo News</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Buffalo , New York&lt;/td&gt;</html>
+                    <text>Buffalo , New York</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Newsday&lt;/td&gt;</html>
+                    <text>Newsday</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Melville , New York&lt;/td&gt;</html>
+                    <text>Melville , New York</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Tiesa&lt;/td&gt;</html>
+                    <text>Tiesa</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Middletown , New York&lt;/td&gt;</html>
+                    <text>Middletown , New York</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Yated Ne'eman ( English edition )&lt;/td&gt;</html>
+                    <text>Yated Ne&amp;apos;eman ( English edition )</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Monsey , New York&lt;/td&gt;</html>
+                    <text>Monsey , New York</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Yated Ne'eman ( Hebrew edition )&lt;/td&gt;</html>
+                    <text>Yated Ne&amp;apos;eman ( Hebrew edition )</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Monsey , New York&lt;/td&gt;</html>
+                    <text>Monsey , New York</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Al - Hoda&lt;/td&gt;</html>
+                    <text>Al - Hoda</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;New York , New York&lt;/td&gt;</html>
+                    <text>New York , New York</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Algemeiner Journal&lt;/td&gt;</html>
+                    <text>Algemeiner Journal</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;New York , New York&lt;/td&gt;</html>
+                    <text>New York , New York</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Amerikai Magyar Szo&lt;/td&gt;</html>
+                    <text>Amerikai Magyar Szo</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;New York , New York&lt;/td&gt;</html>
+                    <text>New York , New York</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Armenian Reporter International&lt;/td&gt;</html>
+                    <text>Armenian Reporter International</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;New York , New York&lt;/td&gt;</html>
+                    <text>New York , New York</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Chungang Ilbo&lt;/td&gt;</html>
+                    <text>Chungang Ilbo</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;New York , New York&lt;/td&gt;</html>
+                    <text>New York , New York</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Daily News&lt;/td&gt;</html>
+                    <text>Daily News</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;New York , New York&lt;/td&gt;</html>
+                    <text>New York , New York</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;El Diario - La Prensa&lt;/td&gt;</html>
+                    <text>El Diario - La Prensa</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;New York , New York&lt;/td&gt;</html>
+                    <text>New York , New York</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Filipino Reporter&lt;/td&gt;</html>
+                    <text>Filipino Reporter</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;New York , New York&lt;/td&gt;</html>
+                    <text>New York , New York</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Forward&lt;/td&gt;</html>
+                    <text>Forward</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;New York , New York&lt;/td&gt;</html>
+                    <text>New York , New York</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Hellenic Times&lt;/td&gt;</html>
+                    <text>Hellenic Times</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;New York , New York&lt;/td&gt;</html>
+                    <text>New York , New York</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Hua Mei Jih Pao ( China Tribune&lt;/td&gt;</html>
+                    <text>Hua Mei Jih Pao ( China Tribune</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;New York , New York&lt;/td&gt;</html>
+                    <text>New York , New York</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Irish Voice&lt;/td&gt;</html>
+                    <text>Irish Voice</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;New York , New York&lt;/td&gt;</html>
+                    <text>New York , New York</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Journal of Commerce&lt;/td&gt;</html>
+                    <text>Journal of Commerce</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;New York , New York&lt;/td&gt;</html>
+                    <text>New York , New York</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Lien Ho Jih Pao ( United Journal&lt;/td&gt;</html>
+                    <text>Lien Ho Jih Pao ( United Journal</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;New York , New York&lt;/td&gt;</html>
+                    <text>New York , New York</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;National Herald ( ETHNIKOS KERYX&lt;/td&gt;</html>
+                    <text>National Herald ( ETHNIKOS KERYX</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;New York , New York&lt;/td&gt;</html>
+                    <text>New York , New York</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Natsional'na Trybuna / Shliakh Peremohy&lt;/td&gt;</html>
+                    <text>Natsional&amp;apos;na Trybuna / Shliakh Peremohy</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;New York , New York&lt;/td&gt;</html>
+                    <text>New York , New York</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+        </content>
+    </logicalTable>
+</entity>

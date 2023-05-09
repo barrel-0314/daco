@@ -1,0 +1,355 @@
+,col0,col1,col2,col3
+0,c-api/list,,:high,list[low:high]
+1,c-api/sequence,,:i2,del o[i1:i2]
+2,c-api/sequence,,:i2,o[i1:i2]
+3,c-api/unicode,,:end,str[start:end]
+4,c-api/unicode,,:start,unicode[start:start+length]
+5,distutils/examples,274.0,`,This is the description of the ``foobar`` package.
+6,distutils/setupscript,,::,
+7,extending/embedding,,:numargs,"if(!PyArg_ParseTuple(args, "":numargs""))"
+8,extending/extending,,:myfunction,"PyArg_ParseTuple(args, ""D:myfunction"", &c);"
+9,extending/extending,,:set,"if (PyArg_ParseTuple(args, ""O:set_callback"", &temp)) {"
+10,extending/newtypes,,:call,"if (!PyArg_ParseTuple(args, ""sss:call"", &arg1, &arg2, &arg3)) {"
+11,faq/programming,,:chr,">=4.0) or 1+f(xc,yc,x*x-y*y+xc,2.0*x*y+yc,k-1,f):f(xc,yc,x,y,k,f):chr("
+12,faq/programming,,::,for x in sequence[::-1]:
+13,faq/programming,,:reduce,"print((lambda Ru,Ro,Iu,Io,IM,Sx,Sy:reduce(lambda x,y:x+y,map(lambda y,"
+14,faq/programming,,:reduce,"Sx=Sx,Sy=Sy:reduce(lambda x,y:x+y,map(lambda x,xc=Ru,yc=yc,Ru=Ru,Ro=Ro,"
+15,faq/windows,,:d48eceb,"Python 3.6.4 (v3.6.4:d48eceb, Dec 19 2017, 06:04:45) [MSC v.1900 32 bit (Intel)] on win32"
+16,howto/curses,,:black,"colors when it activates color mode.  They are: 0:black, 1:red,"
+17,howto/curses,,:red,"colors when it activates color mode.  They are: 0:black, 1:red,"
+18,howto/curses,,:green,"2:green, 3:yellow, 4:blue, 5:magenta, 6:cyan, and 7:white.  The"
+19,howto/curses,,:yellow,"2:green, 3:yellow, 4:blue, 5:magenta, 6:cyan, and 7:white.  The"
+20,howto/curses,,:blue,"2:green, 3:yellow, 4:blue, 5:magenta, 6:cyan, and 7:white.  The"
+21,howto/curses,,:magenta,"2:green, 3:yellow, 4:blue, 5:magenta, 6:cyan, and 7:white.  The"
+22,howto/curses,,:cyan,"2:green, 3:yellow, 4:blue, 5:magenta, 6:cyan, and 7:white.  The"
+23,howto/curses,,:white,"2:green, 3:yellow, 4:blue, 5:magenta, 6:cyan, and 7:white.  The"
+24,howto/instrumentation,,::,python$target:::function-entry
+25,howto/instrumentation,,:function,python$target:::function-entry
+26,howto/instrumentation,,::,python$target:::function-return
+27,howto/instrumentation,,:function,python$target:::function-return
+28,howto/instrumentation,,:call,156641360502280  function-entry:call_stack.py:start:23
+29,howto/instrumentation,,:start,156641360502280  function-entry:call_stack.py:start:23
+30,howto/instrumentation,,:function,156641360518804  function-entry: call_stack.py:function_1:1
+31,howto/instrumentation,,:function,156641360532797  function-entry:  call_stack.py:function_3:9
+32,howto/instrumentation,,:function,156641360546807 function-return:  call_stack.py:function_3:10
+33,howto/instrumentation,,:function,156641360563367 function-return: call_stack.py:function_1:2
+34,howto/instrumentation,,:function,156641360578365  function-entry: call_stack.py:function_2:5
+35,howto/instrumentation,,:function,156641360591757  function-entry:  call_stack.py:function_1:1
+36,howto/instrumentation,,:function,156641360605556  function-entry:   call_stack.py:function_3:9
+37,howto/instrumentation,,:function,156641360617482 function-return:   call_stack.py:function_3:10
+38,howto/instrumentation,,:function,156641360629814 function-return:  call_stack.py:function_1:2
+39,howto/instrumentation,,:function,156641360642285 function-return: call_stack.py:function_2:6
+40,howto/instrumentation,,:function,156641360656770  function-entry: call_stack.py:function_3:9
+41,howto/instrumentation,,:function,156641360669707 function-return: call_stack.py:function_3:10
+42,howto/instrumentation,,:function,156641360687853  function-entry: call_stack.py:function_4:13
+43,howto/instrumentation,,:function,156641360700719 function-return: call_stack.py:function_4:14
+44,howto/instrumentation,,:function,156641360719640  function-entry: call_stack.py:function_5:18
+45,howto/instrumentation,,:function,156641360732567 function-return: call_stack.py:function_5:21
+46,howto/instrumentation,,:call,156641360747370 function-return:call_stack.py:start:28
+47,howto/instrumentation,,:start,156641360747370 function-return:call_stack.py:start:28
+48,howto/ipaddress,,:DB8,>>> ipaddress.ip_address('2001:DB8::1')
+49,howto/ipaddress,,::,>>> ipaddress.ip_address('2001:DB8::1')
+50,howto/ipaddress,,:db8,IPv6Address('2001:db8::1')
+51,howto/ipaddress,,::,IPv6Address('2001:db8::1')
+52,howto/ipaddress,,::,IPv6Address('::1')
+53,howto/ipaddress,,:db8,>>> ipaddress.ip_network('2001:db8::0/96')
+54,howto/ipaddress,,::,>>> ipaddress.ip_network('2001:db8::0/96')
+55,howto/ipaddress,,:db8,IPv6Network('2001:db8::/96')
+56,howto/ipaddress,,::,IPv6Network('2001:db8::/96')
+57,howto/ipaddress,,:db8,IPv6Network('2001:db8::/128')
+58,howto/ipaddress,,::,IPv6Network('2001:db8::/128')
+59,howto/ipaddress,,:db8,IPv6Interface('2001:db8::1/96')
+60,howto/ipaddress,,::,IPv6Interface('2001:db8::1/96')
+61,howto/ipaddress,,:db8,>>> addr6 = ipaddress.ip_address('2001:db8::1')
+62,howto/ipaddress,,::,>>> addr6 = ipaddress.ip_address('2001:db8::1')
+63,howto/ipaddress,,:db8,>>> host6 = ipaddress.ip_interface('2001:db8::1/96')
+64,howto/ipaddress,,::,>>> host6 = ipaddress.ip_interface('2001:db8::1/96')
+65,howto/ipaddress,,:db8,>>> net6 = ipaddress.ip_network('2001:db8::0/96')
+66,howto/ipaddress,,::,>>> net6 = ipaddress.ip_network('2001:db8::0/96')
+67,howto/ipaddress,,:ffff,IPv6Address('ffff:ffff:ffff:ffff:ffff:ffff::')
+68,howto/ipaddress,,::,IPv6Address('ffff:ffff:ffff:ffff:ffff:ffff::')
+69,howto/ipaddress,,::,IPv6Address('::ffff:ffff')
+70,howto/ipaddress,,:ffff,IPv6Address('::ffff:ffff')
+71,howto/ipaddress,,:db8,'2001:db8::/96'
+72,howto/ipaddress,,::,'2001:db8::/96'
+73,howto/ipaddress,,:db8,>>> ipaddress.ip_interface('2001:db8::1/96')
+74,howto/ipaddress,,::,>>> ipaddress.ip_interface('2001:db8::1/96')
+75,howto/ipaddress,,:db8,'2001:db8::1'
+76,howto/ipaddress,,::,'2001:db8::1'
+77,howto/ipaddress,,:db8,IPv6Address('2001:db8::ffff:ffff')
+78,howto/ipaddress,,::,IPv6Address('2001:db8::ffff:ffff')
+79,howto/ipaddress,,:ffff,IPv6Address('2001:db8::ffff:ffff')
+80,howto/logging,,:And,"WARNING:And this, too"
+81,howto/logging,,:And,"WARNING:root:And this, too"
+82,howto/logging,,:Doing,INFO:root:Doing something
+83,howto/logging,,:Finished,INFO:root:Finished
+84,howto/logging,,:logger,severity:logger name:message
+85,howto/logging,,:Look,WARNING:root:Look before you leap!
+86,howto/logging,,:message,severity:logger name:message
+87,howto/logging,,:root,DEBUG:root:This message should go to the log file
+88,howto/logging,,:root,INFO:root:Doing something
+89,howto/logging,,:root,INFO:root:Finished
+90,howto/logging,,:root,INFO:root:So should this
+91,howto/logging,,:root,INFO:root:Started
+92,howto/logging,,:root,"WARNING:root:And this, too"
+93,howto/logging,,:root,WARNING:root:Look before you leap!
+94,howto/logging,,:root,WARNING:root:Watch out!
+95,howto/logging,,:So,INFO:root:So should this
+96,howto/logging,,:So,INFO:So should this
+97,howto/logging,,:Started,INFO:root:Started
+98,howto/logging,,:This,DEBUG:root:This message should go to the log file
+99,howto/logging,,:This,DEBUG:This message should appear on the console
+100,howto/logging,,:Watch,WARNING:root:Watch out!
+101,howto/pyporting,,::,Programming Language :: Python :: 2
+102,howto/pyporting,,::,Programming Language :: Python :: 3
+103,howto/regex,,::,
+104,howto/regex,,:foo,(?:foo)
+105,howto/urllib2,,:password,"""joe:password@example.com"""
+106,library/audioop,,:ipos,"# factor = audioop.findfactor(in_test[ipos*2:ipos*2+len(out_test)],"
+107,library/bisect,32.0,:hi,all(val >= x for val in a[i:hi])
+108,library/bisect,42.0,:hi,all(val > x for val in a[i:hi])
+109,library/configparser,,:home,my_dir: ${Common:home_dir}/twosheds
+110,library/configparser,,:option,${section:option}
+111,library/configparser,,:path,python_dir: ${Frameworks:path}/Python/Versions/${Frameworks:Python}
+112,library/configparser,,:Python,python_dir: ${Frameworks:path}/Python/Versions/${Frameworks:Python}
+113,library/configparser,,:system,path: ${Common:system_dir}/Library/Frameworks/
+114,library/datetime,,:MM,
+115,library/datetime,,:SS,
+116,library/decimal,,:optional,trailneg:optional trailing minus indicator
+117,library/difflib,,:ahi,a[alo:ahi]
+118,library/difflib,,:bhi,b[blo:bhi]
+119,library/difflib,,:i1,
+120,library/difflib,,:i2,
+121,library/difflib,,:j2,
+122,library/doctest,,`,``factorial`` from the ``example`` module:
+123,library/doctest,,`,The ``example`` module
+124,library/doctest,,`,Using ``factorial``
+125,library/exceptions,,:err,err.object[err.start:err.end]
+126,library/functions,,:step,a[start:stop:step]
+127,library/functions,,:stop,"a[start:stop, i]"
+128,library/functions,,:stop,a[start:stop:step]
+129,library/hashlib,,:LEAF,"h00 = blake2b(buf[0:LEAF_SIZE], fanout=FANOUT, depth=DEPTH,"
+130,library/http.client,,:port,host:port
+131,library/http.cookies,,`,!#$%&'*+-.^_`|~:
+132,library/imaplib,,:MM,"""DD-Mmm-YYYY HH:MM:SS"
+133,library/imaplib,,:SS,"""DD-Mmm-YYYY HH:MM:SS"
+134,library/inspect,,:int,">>> def foo(a, *, b:int, **kwargs):"
+135,library/inspect,,:int,"'(a, *, b:int, **kwargs)'"
+136,library/inspect,,:int,'b:int'
+137,library/ipaddress,,:db8,>>> ipaddress.ip_address('2001:db8::')
+138,library/ipaddress,,::,>>> ipaddress.ip_address('2001:db8::')
+139,library/ipaddress,,:db8,IPv6Address('2001:db8::')
+140,library/ipaddress,,::,IPv6Address('2001:db8::')
+141,library/ipaddress,,:db8,>>> ipaddress.IPv6Address('2001:db8::1000')
+142,library/ipaddress,,::,>>> ipaddress.IPv6Address('2001:db8::1000')
+143,library/ipaddress,,:db8,IPv6Address('2001:db8::1000')
+144,library/ipaddress,,::,IPv6Address('2001:db8::1000')
+145,library/ipaddress,,:db8,">>> ipaddress.ip_address(""2001:db8::1"").reverse_pointer"
+146,library/ipaddress,,::,">>> ipaddress.ip_address(""2001:db8::1"").reverse_pointer"
+147,library/ipaddress,,::,"""::abc:7:def"""
+148,library/ipaddress,,:def,"""::abc:7:def"""
+149,library/ipaddress,,::,::FFFF/96
+150,library/ipaddress,,::,2002::/16
+151,library/ipaddress,,::,2001::/32
+152,library/ipaddress,,::,>>> str(ipaddress.IPv6Address('::1'))
+153,library/ipaddress,,::,'::1'
+154,library/ipaddress,,:ff00,ffff:ff00::
+155,library/ipaddress,,:db00,2001:db00::0/24
+156,library/ipaddress,,::,2001:db00::0/24
+157,library/ipaddress,,:db00,2001:db00::0/ffff:ff00::
+158,library/ipaddress,,::,2001:db00::0/ffff:ff00::
+159,library/itertools,,:step,elements from seq[start:stop:step]
+160,library/itertools,,:stop,elements from seq[start:stop:step]
+161,library/logging.handlers,,:port,host:port
+162,library/mmap,,:i2,obj[i1:i2]
+163,library/multiprocessing,,`,# Add more tasks using `put()`
+164,library/multiprocessing,,:queue,">>> QueueManager.register('get_queue', callable=lambda:queue)"
+165,library/multiprocessing,,`,# register the Foo class; make `f()` and `g()` accessible via proxy
+166,library/multiprocessing,,`,# register the Foo class; make `g()` and `_h()` accessible via proxy
+167,library/multiprocessing,,`,# register the generator function baz; use `GeneratorProxy` to make proxies
+168,library/nntplib,,:bytes,:bytes
+169,library/nntplib,,:lines,:lines
+170,library/optparse,,:len,del parser.rargs[:len(value)]
+171,library/os.path,,:foo,c:foo
+172,library/pathlib,,:bar,">>> PureWindowsPath('c:/Windows', 'd:bar')"
+173,library/pathlib,,:bar,PureWindowsPath('d:bar')
+174,library/pathlib,,:Program,>>> PureWindowsPath('c:Program Files/').root
+175,library/pathlib,,:Program,>>> PureWindowsPath('c:Program Files/').anchor
+176,library/pdb,,:lineno,filename:lineno
+177,library/pickle,,:memory,"conn = sqlite3.connect("":memory:"")"
+178,library/posix,,`,"CFLAGS=""`getconf LFS_CFLAGS`"" OPT=""-g -O2 $CFLAGS"""
+179,library/pprint,,::,"'Programming Language :: Python :: 2.6',"
+180,library/pprint,,::,"'Programming Language :: Python :: 2.7',"
+181,library/pprint,,::,"'classifiers': ['Development Status :: 3 - Alpha',"
+182,library/pprint,,::,"'Intended Audience :: Developers',"
+183,library/pprint,,::,"'License :: OSI Approved :: MIT License',"
+184,library/pprint,,::,"'Programming Language :: Python :: 2',"
+185,library/pprint,,::,"'Programming Language :: Python :: 3',"
+186,library/pprint,,::,"'Programming Language :: Python :: 3.2',"
+187,library/pprint,,::,"'Programming Language :: Python :: 3.3',"
+188,library/pprint,,::,"'Programming Language :: Python :: 3.4',"
+189,library/pprint,,::,"'Topic :: Software Development :: Build Tools'],"
+190,library/profile,,:lineno,filename:lineno(function)
+191,library/pyexpat,,:elem1,<py:elem1 />
+192,library/pyexpat,,:py,"xmlns:py = ""http://www.python.org/ns/"">"
+193,library/random,,:len,new_diff = mean(combined[:len(drug)]) - mean(combined[len(drug):])
+194,library/readline,,:bind,python:bind -v
+195,library/readline,,:bind,python:bind ^I rl_complete
+196,library/smtplib,,:port,method must support that as well as a regular host:port
+197,library/socket,,::,'5aef:2b::8'
+198,library/socket,,:can,"return (can_id, can_dlc, data[:can_dlc])"
+199,library/socket,,:len,fds.fromstring(cmsg_data[:len(cmsg_data) - (len(cmsg_data) % fds.itemsize)])
+200,library/sqlite3,,:age,"cur.execute(""select * from people where name_last=:who and age=:age"", {""who"": who, ""age"": age})"
+201,library/sqlite3,,:memory,
+202,library/sqlite3,,:who,"cur.execute(""select * from people where name_last=:who and age=:age"", {""who"": who, ""age"": age})"
+203,library/sqlite3,,:path,"db = sqlite3.connect('file:path/to/database?mode=ro', uri=True)"
+204,library/ssl,,:My,"Organizational Unit Name (eg, section) []:My Group"
+205,library/ssl,,:My,"Organization Name (eg, company) [Internet Widgits Pty Ltd]:My Organization, Inc."
+206,library/ssl,,:myserver,"Common Name (eg, YOUR name) []:myserver.mygroup.myorganization.com"
+207,library/ssl,,:MyState,State or Province Name (full name) [Some-State]:MyState
+208,library/ssl,,:ops,Email Address []:ops@myserver.mygroup.myorganization.com
+209,library/ssl,,:Some,"Locality Name (eg, city) []:Some City"
+210,library/ssl,,:US,Country Name (2 letter code) [AU]:US
+211,library/stdtypes,,:end,s[start:end]
+212,library/stdtypes,,::,>>> hash(v[::-2]) == hash(b'abcefg'[::-2])
+213,library/stdtypes,,:len,s[len(s):len(s)]
+214,library/stdtypes,,::,>>> y = m[::2]
+215,library/stdtypes,,::,>>> z = y[::-2]
+216,library/string,,`,"!""#$%&'()*+,-./:;<=>?@[\]^_`{|}~"
+217,library/subprocess,,`,output=`dmesg | grep hda`
+218,library/subprocess,,`,output=`mycmd myarg`
+219,library/tarfile,,:bz2,
+220,library/tarfile,,:compression,filemode[:compression]
+221,library/tarfile,,:gz,
+222,library/tarfile,,:xz,'a:xz'
+223,library/tarfile,,:xz,'r:xz'
+224,library/tarfile,,:xz,'w:xz'
+225,library/time,,:mm,
+226,library/time,,:ss,
+227,library/tracemalloc,,:limit,"for index, stat in enumerate(top_stats[:limit], 1):"
+228,library/turtle,,::,Example::
+229,library/unittest,,:foo,"self.assertEqual(cm.output, ['INFO:foo:first message',"
+230,library/unittest,,:first,"self.assertEqual(cm.output, ['INFO:foo:first message',"
+231,library/unittest,,:foo,'ERROR:foo.bar:second message'])
+232,library/unittest,,:second,'ERROR:foo.bar:second message'])
+233,library/urllib.request,,:close,Connection:close
+234,library/urllib.request,,:port,:port
+235,library/urllib.request,,:lang,"xmlns=""http://www.w3.org/1999/xhtml"" xml:lang=""en"" lang=""en"">\n\n<head>\n"
+236,library/urllib.request,,:password,"""joe:password@python.org"""
+237,library/urllib.parse,,:scheme,<URL:scheme://host/path>
+238,library/urllib.parse,,:scheme,URL:scheme://host/path
+239,library/uuid,,:uuid,urn:uuid:12345678-1234-5678-1234-567812345678
+240,library/venv,,:param,":param nodist: If True, setuptools and pip are not installed into the"
+241,library/venv,,:param,":param progress: If setuptools or pip are installed, the progress of the"
+242,library/venv,,:param,":param nopip: If True, pip is not installed into the created"
+243,library/venv,,:param,:param context: The information for the virtual environment
+244,library/xmlrpc.client,,:nil,ex:nil
+245,library/xmlrpc.client,,:pass,http://user:pass@host:port/path
+246,library/xmlrpc.client,,:pass,user:pass
+247,library/xmlrpc.client,,:port,http://user:pass@host:port/path
+248,license,,`,"``Software''), to deal in the Software without restriction, including"
+249,license,,`,"THE SOFTWARE IS PROVIDED ``AS IS'', WITHOUT WARRANTY OF ANY KIND,"
+250,license,,`,* THIS SOFTWARE IS PROVIDED BY ERIC YOUNG ``AS IS'' AND
+251,license,,`,THIS SOFTWARE IS PROVIDED BY THE AUTHOR AND CONTRIBUTORS ``AS IS'' AND
+252,license,,`,* THIS SOFTWARE IS PROVIDED BY THE OpenSSL PROJECT ``AS IS'' AND ANY
+253,license,,`,THIS SOFTWARE IS PROVIDED BY THE PROJECT AND CONTRIBUTORS ``AS IS'' AND
+254,license,,:zooko,mailto:zooko@zooko.com
+255,reference/expressions,,:index,x[index:index]
+256,reference/lexical_analysis,,`,$       ?       `
+257,reference/lexical_analysis,,:fileencoding,# vim:fileencoding=<encoding-name>
+258,tutorial/datastructures,,:value,It is also possible to delete a key:value
+259,tutorial/datastructures,,:value,key:value pairs within the braces adds initial key:value pairs
+260,tutorial/stdlib2,,:config,"logging.warning('Warning:config file %s not found', 'server.conf')"
+261,tutorial/stdlib2,,:config,WARNING:root:Warning:config file server.conf not found
+262,tutorial/stdlib2,,:Critical,CRITICAL:root:Critical error -- shutting down
+263,tutorial/stdlib2,,:Error,ERROR:root:Error occurred
+264,tutorial/stdlib2,,:root,CRITICAL:root:Critical error -- shutting down
+265,tutorial/stdlib2,,:root,ERROR:root:Error occurred
+266,tutorial/stdlib2,,:root,WARNING:root:Warning:config file server.conf not found
+267,tutorial/stdlib2,,:start,extra = data[start:start+extra_size]
+268,tutorial/stdlib2,,:start,"fields = struct.unpack('<IIIHH', data[start:start+16])"
+269,tutorial/stdlib2,,:start,filename = data[start:start+filenamesize]
+270,tutorial/stdlib2,,:Warning,WARNING:root:Warning:config file server.conf not found
+271,using/cmdline,,:errorhandler,:errorhandler
+272,using/cmdline,,:line,file:line: category: message
+273,using/unix,,:Packaging,https://en.opensuse.org/Portal:Packaging
+274,whatsnew/2.0,,:len,
+275,whatsnew/2.3,,::,
+276,whatsnew/2.3,,:config,
+277,whatsnew/2.3,,:Critical,
+278,whatsnew/2.3,,:Error,
+279,whatsnew/2.3,,:Problem,
+280,whatsnew/2.3,,:root,
+281,whatsnew/2.3,,:Warning,
+282,whatsnew/2.4,,::,
+283,whatsnew/2.4,,:System,
+284,whatsnew/2.5,,:memory,:memory:
+285,whatsnew/2.5,,:step,[start:stop:step]
+286,whatsnew/2.5,,:stop,[start:stop:step]
+287,whatsnew/2.7,,::,"ParseResult(scheme='http', netloc='[1080::8:800:200C:417A]',"
+288,whatsnew/2.7,,::,>>> urlparse.urlparse('http://[1080::8:800:200C:417A]/foo')
+289,whatsnew/2.7,,:Sunday,'2009:4:Sunday'
+290,whatsnew/2.7,,:Cookie,"export PYTHONWARNINGS=all,error:::Cookie:0"
+291,whatsnew/2.7,,::,"export PYTHONWARNINGS=all,error:::Cookie:0"
+292,whatsnew/3.2,,:affe,"netloc='[dead:beef:cafe:5417:affe:8FA3:deaf:feed]',"
+293,whatsnew/3.2,,:affe,>>> urllib.parse.urlparse('http://[dead:beef:cafe:5417:affe:8FA3:deaf:feed]/foo/')
+294,whatsnew/3.2,,:beef,"netloc='[dead:beef:cafe:5417:affe:8FA3:deaf:feed]',"
+295,whatsnew/3.2,,:beef,>>> urllib.parse.urlparse('http://[dead:beef:cafe:5417:affe:8FA3:deaf:feed]/foo/')
+296,whatsnew/3.2,,:cafe,"netloc='[dead:beef:cafe:5417:affe:8FA3:deaf:feed]',"
+297,whatsnew/3.2,,:cafe,>>> urllib.parse.urlparse('http://[dead:beef:cafe:5417:affe:8FA3:deaf:feed]/foo/')
+298,whatsnew/3.2,,:deaf,"netloc='[dead:beef:cafe:5417:affe:8FA3:deaf:feed]',"
+299,whatsnew/3.2,,:deaf,>>> urllib.parse.urlparse('http://[dead:beef:cafe:5417:affe:8FA3:deaf:feed]/foo/')
+300,whatsnew/3.2,,:directory,${buildout:directory}/downloads/dist
+301,whatsnew/3.2,,::,"$ export PYTHONWARNINGS='ignore::RuntimeWarning::,once::UnicodeWarning::'"
+302,whatsnew/3.2,,:feed,"netloc='[dead:beef:cafe:5417:affe:8FA3:deaf:feed]',"
+303,whatsnew/3.2,,:feed,>>> urllib.parse.urlparse('http://[dead:beef:cafe:5417:affe:8FA3:deaf:feed]/foo/')
+304,whatsnew/3.2,,:gz,">>> with tarfile.open(name='myarchive.tar.gz', mode='w:gz') as tf:"
+305,whatsnew/3.2,,:location,zope9-location = ${zope9:location}
+306,whatsnew/3.2,,:prefix,zope-conf = ${custom:prefix}/etc/zope.conf
+307,library/re,,`,!#$%&'*+-.^_`|~:
+308,library/re,,`,!\#\$%\&'\*\+\-\.\^_`\|\~:
+309,library/tarfile,,:xz,'x:xz'
+310,library/warnings,,:message,action:message:category:module:line
+311,library/warnings,,:category,action:message:category:module:line
+312,library/warnings,,:module,action:message:category:module:line
+313,library/warnings,,:line,action:message:category:module:line
+314,library/warnings,,::,error::ResourceWarning
+315,library/warnings,,::,default::DeprecationWarning
+316,library/warnings,,::,default:::mymodule
+317,library/warnings,,:mymodule,default:::mymodule
+318,library/warnings,,::,error:::mymodule
+319,library/warnings,,:mymodule,error:::mymodule
+320,library/warnings,,::,ignore::DeprecationWarning
+321,library/warnings,,::,ignore::PendingDeprecationWarning
+322,library/warnings,,::,ignore::ImportWarning
+323,library/warnings,,::,ignore::ResourceWarning
+324,library/xml.etree.elementtree,,:sometag,prefix:sometag
+325,library/xml.etree.elementtree,,:fictional,"<actors xmlns:fictional=""http://characters.example.com"""
+326,library/xml.etree.elementtree,,:character,<fictional:character>Lancelot</fictional:character>
+327,library/xml.etree.elementtree,,:character,<fictional:character>Archie Leach</fictional:character>
+328,library/xml.etree.elementtree,,:character,<fictional:character>Sir Robin</fictional:character>
+329,library/xml.etree.elementtree,,:character,<fictional:character>Gunther</fictional:character>
+330,library/xml.etree.elementtree,,:character,<fictional:character>Commander Clement</fictional:character>
+331,library/xml.etree.elementtree,,:actor,"for actor in root.findall('real_person:actor', ns):"
+332,library/xml.etree.elementtree,,:name,"name = actor.find('real_person:name', ns)"
+333,library/xml.etree.elementtree,,:character,"for char in actor.findall('role:character', ns):"
+334,library/zipapp,,:main,"$ python -m zipapp myapp -m ""myapp:main"""
+335,library/zipapp,,:fn,pkg.mod:fn
+336,library/zipapp,,:callable,pkg.module:callable
+337,library/stdtypes,,::,>>> m[::2].tolist()
+338,whatsnew/3.5,,:root,'WARNING:root:warning\n'
+339,whatsnew/3.5,,:warning,'WARNING:root:warning\n'
+340,whatsnew/3.5,,::,>>> addr6 = ipaddress.IPv6Address('::1')
+341,whatsnew/3.5,,:root,ERROR:root:exception
+342,whatsnew/3.5,,:exception,ERROR:root:exception
+343,whatsnew/changelog,,`,'`'
+344,whatsnew/changelog,,:end,str[start:end]
+345,library/binascii,,`,'`'
+346,library/uu,,`,'`'
+347,whatsnew/3.7,,`,'`'
+348,whatsnew/3.7,,::,error::BytesWarning
+349,whatsnew/changelog,,::,error::BytesWarning
+350,whatsnew/changelog,,::,default::BytesWarning
+351,whatsnew/changelog,,::,default::DeprecationWarning
+352,library/importlib.metadata,,:main,"EntryPoint(name='wheel', value='wheel.cli:main', group='console_scripts')"
+353,library/importlib.metadata,,`,of directories ``path`` (defaults to sys.path).

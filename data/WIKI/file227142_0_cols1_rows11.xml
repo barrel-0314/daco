@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<entity>
+    <logicalTable>
+        <content>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;1985 November&lt;/td&gt;</html>
+                    <text>1985 November</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Windows 1 . 0&lt;/td&gt;</html>
+                    <text>Windows 1 . 0</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;1987 December&lt;/td&gt;</html>
+                    <text>1987 December</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Windows 2 . 0&lt;/td&gt;</html>
+                    <text>Windows 2 . 0</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;1990 May&lt;/td&gt;</html>
+                    <text>1990 May</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Windows 3 . 0&lt;/td&gt;</html>
+                    <text>Windows 3 . 0</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;1992 August&lt;/td&gt;</html>
+                    <text>1992 August</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Windows 3 . 1&lt;/td&gt;</html>
+                    <text>Windows 3 . 1</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;1992 October&lt;/td&gt;</html>
+                    <text>1992 October</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Windows for Workgroups 3 . 1&lt;/td&gt;</html>
+                    <text>Windows for Workgroups 3 . 1</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;1993 November&lt;/td&gt;</html>
+                    <text>1993 November</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Windows for Workgroups 3 . 11&lt;/td&gt;</html>
+                    <text>Windows for Workgroups 3 . 11</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;1995 August&lt;/td&gt;</html>
+                    <text>1995 August</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Windows 95&lt;/td&gt;</html>
+                    <text>Windows 95</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;1996 May&lt;/td&gt;</html>
+                    <text>1996 May</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Windows Nashville&lt;/td&gt;</html>
+                    <text>Windows Nashville</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;1998 June&lt;/td&gt;</html>
+                    <text>1998 June</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Windows 98&lt;/td&gt;</html>
+                    <text>Windows 98</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;1999 May&lt;/td&gt;</html>
+                    <text>1999 May</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Windows 98 Second Edition&lt;/td&gt;</html>
+                    <text>Windows 98 Second Edition</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;2000 June&lt;/td&gt;</html>
+                    <text>2000 June</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Windows Millennium Edition ( Me )&lt;/td&gt;</html>
+                    <text>Windows Millennium Edition ( Me )</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+        </content>
+    </logicalTable>
+</entity>

@@ -1,0 +1,120 @@
+,col0,col1,col2,col3
+0,state_uk_1,base.uk,A1,Aberdeenshire
+1,state_uk_2,base.uk,A5,Angus
+2,state_uk_3,base.uk,A7,Argyll
+3,state_uk_4,base.uk,A9,Avon
+4,state_uk_5,base.uk,B1,Ayrshire
+5,state_uk_6,base.uk,B3,Banffshire
+6,state_uk_7,base.uk,B5,Bedfordshire
+7,state_uk_8,base.uk,B7,Berkshire
+8,state_uk_9,base.uk,B9,Berwickshire
+9,state_uk_10,base.uk,C1,Buckinghamshire
+10,state_uk_11,base.uk,C3,Caithness
+11,state_uk_12,base.uk,C5,Cambridgeshire
+12,state_uk_13,base.uk,C6,Channel Islands
+13,state_uk_14,base.uk,C7,Cheshire
+14,state_uk_15,base.uk,C9,Clackmannanshire
+15,state_uk_16,base.uk,D1,Cleveland
+16,state_uk_17,base.uk,D3,Clwyd
+17,state_uk_18,base.uk,D5,County Antrim
+18,state_uk_19,base.uk,D7,County Armagh
+19,state_uk_20,base.uk,D9,County Down
+20,state_uk_21,base.uk,E1,County Durham
+21,state_uk_22,base.uk,E3,County Fermanagh
+22,state_uk_23,base.uk,E5,County Londonderry
+23,state_uk_24,base.uk,E7,County Tyrone
+24,state_uk_25,base.uk,E9,Cornwall
+25,state_uk_26,base.uk,F1,Cumbria
+26,state_uk_27,base.uk,F3,Derbyshire
+27,state_uk_28,base.uk,F5,Devon
+28,state_uk_29,base.uk,F7,Dorset
+29,state_uk_30,base.uk,F9,Dumfriesshire
+30,state_uk_31,base.uk,G1,Dunbartonshire
+31,state_uk_32,base.uk,G3,Dyfed
+32,state_uk_33,base.uk,G5,East Lothian
+33,state_uk_34,base.uk,G7,East Sussex
+34,state_uk_35,base.uk,G9,Essex
+35,state_uk_36,base.uk,H1,Fife
+36,state_uk_37,base.uk,H3,Gloucestershire
+37,state_uk_38,base.uk,H7,Gwent
+38,state_uk_39,base.uk,H9,Gwynedd
+39,state_uk_40,base.uk,I1,Hampshire
+40,state_uk_41,base.uk,I3,Herefordshire
+41,state_uk_42,base.uk,I5,Hertfordshire
+42,state_uk_43,base.uk,I7,Inverness-Shire
+43,state_uk_44,base.uk,I9,Isle of Arran
+44,state_uk_45,base.uk,J1,Isle of Barra
+45,state_uk_46,base.uk,J3,Isle of Benbecula
+46,state_uk_47,base.uk,J5,Isle of Bute
+47,state_uk_48,base.uk,J7,Isle of Canna
+48,state_uk_49,base.uk,J9,Isle of Coll
+49,state_uk_50,base.uk,K1,Isle of Colonsay
+50,state_uk_51,base.uk,K3,Isle of Cumbrae
+51,state_uk_52,base.uk,K5,Isle of Eigg
+52,state_uk_53,base.uk,K7,Isle of Gigha
+53,state_uk_54,base.uk,K9,Isle of Harris
+54,state_uk_55,base.uk,L1,Isle of Iona
+55,state_uk_56,base.uk,L2,Isle of Islay
+56,state_uk_57,base.uk,L5,Isle of Jura
+57,state_uk_58,base.uk,L7,Isle of Lewis
+58,state_uk_59,base.uk,L9,Isle of Man
+59,state_uk_60,base.uk,M1,Isle of Mull
+60,state_uk_61,base.uk,M3,Isle of North Uist
+61,state_uk_62,base.uk,M7,Isle of Rhum
+62,state_uk_63,base.uk,M9,Isle of Scalpay
+63,state_uk_64,base.uk,N1,Shetland Islands
+64,state_uk_65,base.uk,N3,Isle of Skye
+65,state_uk_66,base.uk,N5,Isle of South Uist
+66,state_uk_67,base.uk,N7,Isle of Tiree
+67,state_uk_68,base.uk,N9,Isle of Wight
+68,state_uk_69,base.uk,O5,Kent
+69,state_uk_70,base.uk,O7,Kincardineshire
+70,state_uk_71,base.uk,O9,Kinross-Shire
+71,state_uk_72,base.uk,P1,Kirkcudbrightshire
+72,state_uk_73,base.uk,P5,Lancashire
+73,state_uk_74,base.uk,P7,Leicestershire
+74,state_uk_75,base.uk,P9,Lincolnshire
+75,state_uk_76,base.uk,Q3,Merseyside
+76,state_uk_77,base.uk,Q5,Mid Glamorgan
+77,state_uk_78,base.uk,Q9,Middlesex
+78,state_uk_79,base.uk,R1,Morayshire
+79,state_uk_80,base.uk,R3,Nairnshire
+80,state_uk_81,base.uk,R7,North Humberside
+81,state_uk_82,base.uk,R9,North Yorkshire
+82,state_uk_83,base.uk,S1,Northamptonshire
+83,state_uk_84,base.uk,S3,Northumberland
+84,state_uk_85,base.uk,S5,Nottinghamshire
+85,state_uk_86,base.uk,S7,Oxfordshire
+86,state_uk_87,base.uk,S9,Peeblesshire
+87,state_uk_88,base.uk,T1,Perthshire
+88,state_uk_89,base.uk,T3,Powys
+89,state_uk_90,base.uk,T5,Renfrewshire
+90,state_uk_91,base.uk,T7,Ross-Shire
+91,state_uk_92,base.uk,T9,Roxburghshire
+92,state_uk_93,base.uk,U3,Selkirkshire
+93,state_uk_94,base.uk,U5,Shropshire
+94,state_uk_95,base.uk,U7,Somerset
+95,state_uk_96,base.uk,U9,South Glamorgan
+96,state_uk_97,base.uk,V1,South Humberside
+97,state_uk_98,base.uk,V3,South Yorkshire
+98,state_uk_99,base.uk,V5,Staffordshire
+99,state_uk_100,base.uk,V7,Stirlingshire
+100,state_uk_101,base.uk,V9,Suffolk
+101,state_uk_102,base.uk,W1,Surrey
+102,state_uk_103,base.uk,W3,Sutherland
+103,state_uk_104,base.uk,W5,Tyne and Wear
+104,state_uk_105,base.uk,W7,Warwickshire
+105,state_uk_106,base.uk,W9,West Glamorgan
+106,state_uk_107,base.uk,X1,West Lothian
+107,state_uk_108,base.uk,X3,West Midlands
+108,state_uk_109,base.uk,X5,West Sussex
+109,state_uk_110,base.uk,X7,West Yorkshire
+110,state_uk_111,base.uk,X9,Wigtownshire
+111,state_uk_112,base.uk,Y1,Wiltshire
+112,state_uk_113,base.uk,Y3,Worcestershire
+113,state_uk_114,base.uk,M5,Orkney
+114,state_uk_115,base.uk,O1,Isles of Scilly
+115,state_uk_116,base.uk,P3,Lanarkshire
+116,state_uk_117,base.uk,Q1,London
+117,state_uk_118,base.uk,Q7,Midlothian
+118,state_uk_119,base.uk,R5,Norfolk

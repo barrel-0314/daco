@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<entity>
+    <logicalTable>
+        <content>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Kuch Kuch Hota Hai&lt;/td&gt;</html>
+                    <text>Kuch Kuch Hota Hai</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Filmfare Best Supporting Actress Award ,&lt;/td&gt;</html>
+                    <text>Filmfare Best Supporting Actress Award ,</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Kuch Kuch Hota Hai&lt;/td&gt;</html>
+                    <text>Kuch Kuch Hota Hai</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Zee Cine Award &quot;Best Actress in a Supporting Role&quot;&lt;/td&gt;</html>
+                    <text>Zee Cine Award &amp;quot;Best Actress in a Supporting Role&amp;quot;</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Har Dil Jo Pyaar Karega&lt;/td&gt;</html>
+                    <text>Har Dil Jo Pyaar Karega</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Aashirwaad &quot;Best Actress&quot; ,&lt;/td&gt;</html>
+                    <text>Aashirwaad &amp;quot;Best Actress&amp;quot; ,</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Saathiya&lt;/td&gt;</html>
+                    <text>Saathiya</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Anandlok &quot;Best Actress&quot;&lt;/td&gt;</html>
+                    <text>Anandlok &amp;quot;Best Actress&amp;quot;</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Saathiya&lt;/td&gt;</html>
+                    <text>Saathiya</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Critics Award Best Performance ,&lt;/td&gt;</html>
+                    <text>Critics Award Best Performance ,</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Saathiya&lt;/td&gt;</html>
+                    <text>Saathiya</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Sansui Awards &quot;Best Performance of the Year&quot;&lt;/td&gt;</html>
+                    <text>Sansui Awards &amp;quot;Best Performance of the Year&amp;quot;</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Saathiya&lt;/td&gt;</html>
+                    <text>Saathiya</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Bollywood Awards &quot;Most Sensational Actress&quot;&lt;/td&gt;</html>
+                    <text>Bollywood Awards &amp;quot;Most Sensational Actress&amp;quot;</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Hum Tum&lt;/td&gt;</html>
+                    <text>Hum Tum</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Filmfare Best Actress Award ,&lt;/td&gt;</html>
+                    <text>Filmfare Best Actress Award ,</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Yuva&lt;/td&gt;</html>
+                    <text>Yuva</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Filmfare Best Supporting Actress Award ,&lt;/td&gt;</html>
+                    <text>Filmfare Best Supporting Actress Award ,</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Hum Tum&lt;/td&gt;</html>
+                    <text>Hum Tum</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Zee Cine Award &quot;Best Actress&quot;&lt;/td&gt;</html>
+                    <text>Zee Cine Award &amp;quot;Best Actress&amp;quot;</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Hum Tum&lt;/td&gt;</html>
+                    <text>Hum Tum</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Screen Videocon Awards &quot;Best Actress&quot; ,&lt;/td&gt;</html>
+                    <text>Screen Videocon Awards &amp;quot;Best Actress&amp;quot; ,</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Yuva&lt;/td&gt;</html>
+                    <text>Yuva</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Screen Videocon Awards &quot;Best Actress in a Supporting Role&quot;&lt;/td&gt;</html>
+                    <text>Screen Videocon Awards &amp;quot;Best Actress in a Supporting Role&amp;quot;</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Hum Tum&lt;/td&gt;</html>
+                    <text>Hum Tum</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Sports World Award &quot;Best Actress&quot;&lt;/td&gt;</html>
+                    <text>Sports World Award &amp;quot;Best Actress&amp;quot;</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Veer - Zaara&lt;/td&gt;</html>
+                    <text>Veer - Zaara</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Sports World Award &quot;Best Actress in a Supporting Role&quot;&lt;/td&gt;</html>
+                    <text>Sports World Award &amp;quot;Best Actress in a Supporting Role&amp;quot;</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Hum Tum&lt;/td&gt;</html>
+                    <text>Hum Tum</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Sports World &quot;Jodi of the Year&quot;&lt;/td&gt;</html>
+                    <text>Sports World &amp;quot;Jodi of the Year&amp;quot;</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Yuva&lt;/td&gt;</html>
+                    <text>Yuva</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Cinegoers Award &quot;Best Actress in a Supporting Role&quot;&lt;/td&gt;</html>
+                    <text>Cinegoers Award &amp;quot;Best Actress in a Supporting Role&amp;quot;</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Hum Tum&lt;/td&gt;</html>
+                    <text>Hum Tum</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;GIFA Awards &quot;Best Actress&quot;&lt;/td&gt;</html>
+                    <text>GIFA Awards &amp;quot;Best Actress&amp;quot;</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Hum Tum&lt;/td&gt;</html>
+                    <text>Hum Tum</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;IIFA Best Actress Award&lt;/td&gt;</html>
+                    <text>IIFA Best Actress Award</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Veer - Zaara&lt;/td&gt;</html>
+                    <text>Veer - Zaara</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;IIFA Best Actress in A Supporting Role&lt;/td&gt;</html>
+                    <text>IIFA Best Actress in A Supporting Role</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Hum Tum&lt;/td&gt;</html>
+                    <text>Hum Tum</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Bollywood Awards &quot;Best Actress&quot;&lt;/td&gt;</html>
+                    <text>Bollywood Awards &amp;quot;Best Actress&amp;quot;</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Yuva&lt;/td&gt;</html>
+                    <text>Yuva</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Bollywood Awards &quot;Best Actress in a Supporting Role&quot;&lt;/td&gt;</html>
+                    <text>Bollywood Awards &amp;quot;Best Actress in a Supporting Role&amp;quot;</text>
+                </cell>
+            </row>
+        </content>
+    </logicalTable>
+</entity>

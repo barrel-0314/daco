@@ -1,0 +1,18 @@
+,col0,col1,col2,col3,col4,col5
+0,org.apache.commons.math.util.FastMath#void#buildSinCosTables#?#1946,0.0,0.0,0.0,!(i < 14),_
+1,"org.apache.commons.math.util.FastMath#double#slowexp#?,double,double#1032",0.0,0.0,0.0,result != null,_
+2,"org.apache.commons.math.analysis.solvers.UnivariateRealSolverUtils#void#verifyBracketing#?,UnivariateRealFunction,double,double#375",0.0,0.0,0.0,"!(!isBracketing(function,lower,upper))",_
+3,org.apache.commons.math.util.Incrementor#void#incrementCount#?#84,0.0,0.0,0.0,++count > maximalCount,_
+4,org.apache.commons.math.analysis.solvers.BaseSecantSolver#double#doSolve#?#139,0.0,0.0,0.0,!(f0 == 0.0),GT
+5,"org.apache.commons.math.util.FastMath#double#expint#?,int,double#1238",0.0,0.0,0.0,result != null,_
+6,"org.apache.commons.math.analysis.solvers.UnivariateRealSolverUtils#boolean#isBracketing#?,UnivariateRealFunction,double,double#305",0.0,0.0,0.0,!(function == null),_
+7,"org.apache.commons.math.util.FastMath#void#resplit#?,double#1065",0.0,0.0,0.0,!(c < 8e298 && c > -8e298),_
+8,"org.apache.commons.math.util.FastMath#double[]#slowLog#?,double#1770",0.0,0.0,0.0,!(i >= 0),_
+9,"org.apache.commons.math.util.FastMath#double#slowCos#?,double,double#1847",0.0,0.0,0.0,(i & 1) != 0,_
+10,"org.apache.commons.math.util.FastMath#double#max#?,double,double#3925",0.0,0.0,0.0,!(a > b),_
+11,"org.apache.commons.math.util.FastMath#void#split#?,double,double#1046",0.0,0.0,0.0,d < 8e298 && d > -8e298,_
+12,"org.apache.commons.math.util.FastMath#void#splitReciprocal#?,double,double#1123",0.0,0.0,0.0,!(in[0] == 0.0),_
+13,"org.apache.commons.math.util.FastMath#double#slowSin#?,double,double#1820",0.0,0.0,0.0,result != null,_
+14,"org.apache.commons.math.exception.util.ArgUtils#Object[]#flatten#?,Object[]#45",0.0,0.0,0.0,!(o instanceof Object[]),_
+15,"org.apache.commons.math.util.MathUtils#void#checkNotNull#?,Object#2334",0.0,0.0,0.0,!(o == null),_
+16,"org.apache.commons.math.analysis.solvers.UnivariateRealSolverUtils#void#verifyInterval#?,double,double#336",0.0,0.0,0.0,!(lower >= upper),_

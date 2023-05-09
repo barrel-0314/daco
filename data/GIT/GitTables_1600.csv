@@ -1,0 +1,272 @@
+,col0,col1,col2,col3,col4,col5,col6,col7
+0,269 unused selectors:,12 unused selectors:,53 unused selectors:,18 unused selectors:,18 unused selectors:,18 unused selectors:,No unused selectors!,246 unused selectors:
+1,,,,,,,,
+2,#other_links,#large-image-attribution-button-popup-link_popup,f#taxaCommentsWrap,dl,div.data_object_tagging select,.fc-header h4#biome span,,#at16lb
+3,#header #personal-space img,.popup.vetted,#taxaCommentsWrap #commentsContain,dt,span.data_object_tag_key_value,.fc-header h4#geo span,,#at20mc
+4,ul#global-navigation ul li a.dropdown:active,.popup.unvetted,#taxaCommentsWrap .controls,dd,input.destroy-x,.fc-header h4#type span,,#at_email
+5,ul#global-navigation li a strong,.popup-content h3,#taxaCommentsWrap h2,h5,input.destroy-x:hover,.fc-header span a.all span,,#at16pib
+6,ul#global-navigation li a.larger,.popup h3,#taxaCommentsWrap h2 b,pre,span.data_object_tag_key_value a,.fc-header span a.filter span,,#at16pc
+7,ul#global-navigation li ul li.last,.popup span.date,#taxaCommentsWrap small,blockquote,#public_and_private_data_object_tags h3 a,#page-title ul li a#link-save span,,#at16pi
+8,#sub-header,li#large-image-attribution-button.untrusted,#taxaCommentsWrap ul.pages,address,#public_and_private_data_object_tags h3 a:hover,#page-title ul li a#link-email span,,#at_share
+9,#sub-header .filter-content,li#large-image-attribution-button.untrusted:hover,#taxaCommentsWrap ul.pages li,caption,#public_and_private_data_object_tags div.headers,#page-title ul li a#link-print span,,#at_complete
+10,#fc-biome,li#large-image-attribution-button.unknown,#taxaCommentsWrap ul.pages li a,cite,.data_object_tag_key_value form,#page-title ul li a#link-alerts span,,#at_success
+11,#fc-biome .fc-nav table,li#large-image-attribution-button.unknown:hover,ul.pages li a:link,code,.data_object_tag_key_value form div,#page-title ul li a#link-bookmark span,,#at_error
+12,#fc-geography,.text-comments-head p,ul.pages li a:visited,dfn,.ac_results ul,#page-title ul li a#link-delicious span,,#at20mc
+13,#fc-geography .fc-nav table,.toc_select label,#taxaCommentsWrap ul.pages li a:hover,var,.ac_results iframe,#page-title ul li a#link-google span,,#at20mc a
+14,#fc-organism,,ul.pages li a:active,caption,.ac_results li,#page-title ul li a#link-cite span,,.at15a
+15,#fc-organism .fc-nav table,,#taxaCommentsWrap ul.pages.bttm,h5,.ac_loading,ul#tab_media_center li#sounds a span,,.atnt
+16,.fc-header,,#taxaCommentsWrap ul.pages li.pagesNext,q:before,.ac_over,ul#tab_media_center li#maps a span,,.atnt a
+17,.fc-header h4,,#taxaCommentsWrap ul.pages li.pagesPrev,q:after,body#tag_suggestion-page fieldset#new-public-tag,ul#tab_media_center li#podcasts a span,,.atnt a:hover
+18,.fc-header h4 span,,#taxaCommentsWrap .comments,abbr,body#tag_suggestion-page fieldset#new-public-tag label span,ul#tab_media_center li#rss-feeds a span,,#at_msg
+19,.fc-header span,,#taxaCommentsWrap .comments li,acronym,"body#tag_suggestion-page fieldset#new-public-tag input[type=""submit""]",ul#tab_media_center li#expert-chat a span,,#at16p label
+20,.fc-header span a,,#taxaCommentsWrap .comments li div,,,,,#at16nms
+21,.fc-header span a span,,#taxaCommentsWrap .comments li h6,,,,,#at_share .at_item
+22,.fc-nav,,#taxaCommentsWrap .comments li h6 strong,,,,,#at16p
+23,.fc-nav table,,#taxaCommentsWrap h3,,,,,#at15s
+24,.fc-nav table td,,#commentsContain #no-comments,,,,,#at16p form input
+25,.fc-nav table td a,,#new-comment h3,,,,,#at16p form textarea
+26,.fc-nav table td a:hover,,#new-comment p,,,,,#at15s
+27,.fc-nav table td a span,,.text-comment-div h2,,,,,#at15s_head
+28,.fc-nav table td:hover,,.text-comment-div small,,,,,#at15s_brand
+29,.fc-nav table td.selected,,#large-image-comment-button-popup-link_popup small,,,,,#at16_brand
+30,#header #wrapper-search h4,,.text-comment-div ul.pages,,,,,#at15s_brand
+31,#header #wrapper-search h4 span,,#large-image-comment-button-popup-link_popup ul.pages,,,,,#at16_brand
+32,#header #wrapper-search fieldset input.right,,.text-comment-div ul.pages li,,,,,#at_hover
+33,#header #wrapper-search fieldset input.text,,#large-image-comment-button-popup-link_popup ul.pages li,,,,,#at_hover .at_item
+34,#header #wrapper-search fieldset input.radio,,.text-comment-div #large-image-comment-button-popup-link_popup ul.pages li a,,,,,#at_share .at_item
+35,#header #wrapper-search fieldset span,,.text-comment-div ul.pages li a:link,,,,,#at16nms
+36,#left-pane legend,,.text-comment-div ul.pages li a:visited,,,,,#at_hover .at_item
+37,#left-pane fieldset,,#large-image-comment-button-popup-link_popup ul.pages li a,,,,,#at_hover .at_item.atiemode2
+38,#advanced_search_message,,#large-image-comment-button-popup-link_popup ul.pages li a:link,,,,,#at_hover .at_item:hover
+39,#page-title p,,#large-image-comment-button-popup-link_popup ul.pages li a:visited,,,,,#at_hover .at_item.athov
+40,#page-separator-18874724,,.text-comment-div ul.pages li a:hover,,,,,#at_hover .at_item:hover
+41,#page-separator-18882643,,.text-comment-div ul.pages li a:active,,,,,#at_hover .at_item.athov
+42,#page-separator-18875011,,#large-image-comment-button-popup-link_popup ul.pages li a:hover,,,,,#at_share .at_item:hover
+43,#page-separator-18878075,,#large-image-comment-button-popup-link_popup ul.pages li a:active,,,,,#at_share .at_item.athov
+44,#page-separator-18880282,,.text-comment-div ul.pages.bttm,,,,,* html #at_hover .at_item
+45,#page-separator-18875004,,#large-image-comment-button-popup-link_popup ul.pages.bttm,,,,,* html #at_hover .at_item.athov
+46,#page-separator-18879374,,.text-comment-div ul.pages li.pagesNext,,,,,#at_email15
+47,#page-separator-18879729,,#large-image-comment-button-popup-link_popup ul.pages li.pagesNext,,,,,.at15e_row
+48,a.page-help,,.text-comment-div ul.pages li.pagesPrev,,,,,.at15e_row label
+49,#page-help,,#large-image-comment-button-popup-link_popup ul.pages li.pagesPrev,,,,,.at15e_row span
+50,#page-help ol,,.text-comment-div .comments,,,,,.at15e_row input
+51,* html #page-title ul,,.text-comment-div .comments li,,,,,.at15e_row textarea
+52,#page-title ul li,,.text-comment-div .comments li div,,,,,#at_email label
+53,#page-title ul li a,,.text-comment-div .comments li h6,,,,,#at_email input
+54,#page-title ul li a#link-bookmark,,.text-comment-div .comments li h6 strong,,,,,#at_email textarea
+55,#page-title ul li a span,,,,,,,.at15t
+56,#post-info .iucn-status-value a,,,,,,,.addthis_toolbox.addthis_default_style span
+57,#page-cite,,,,,,,.addthis_default_style .addthis_separator
+58,#page-curator,,,,,,,div.atclear
+59,#page-curator h2,,,,,,,.addthis_default_style .addthis_separator
+60,#page-curator .curator_name,,,,,,,.addthis_default_style .at300b
+61,#map,,,,,,,.addthis_default_style .at300m
+62,div#media-maps div.attribution_link,,,,,,,.addthis_default_style .at300bs
+63,div#media-maps .popup,,,,,,,.at300b img
+64,#media-maps h3,,,,,,,.addthis_default_style .at300b
+65,ul#tab_media_center li#sounds,,,,,,,.addthis_default_style .at300m
+66,ul#tab_media_center li#maps,,,,,,,.at300b
+67,ul#tab_media_center li#sounds a,,,,,,,.at300m
+68,ul#tab_media_center li#maps a,,,,,,,.at300bs
+69,ul#tab_media_center li#podcasts,,,,,,,.at300bs
+70,ul#tab_media_center li#rss-feeds,,,,,,,.at300bs.at15t_expanded
+71,ul#tab_media_center li#podcasts a,,,,,,,.at300bs.at15t_compact
+72,ul#tab_media_center li#rss-feeds a,,,,,,,.at15t_more
+73,ul#tab_media_center li#expert-chat,,,,,,,.at15t_000
+74,ul#tab_media_center li#expert-chat a,,,,,,,.at15t_aim
+75,ul#tab_media_center li#sounds a span,,,,,,,.at15t_amazonwishlist
+76,ul#tab_media_center li#maps a span,,,,,,,.at15t_ask
+77,ul#tab_media_center li#podcasts a span,,,,,,,.at15t_backflip
+78,ul#tab_media_center li#rss-feeds a span,,,,,,,.at15t_ballhype
+79,ul#tab_media_center li#expert-chat a span,,,,,,,.at15t_bebo
+80,ul#tab_media_center li#sounds a:hover span,,,,,,,.at15t_blogger
+81,ul#tab_media_center li#maps a:hover span,,,,,,,.at15t_blogmarks
+82,ul#tab_media_center li#podcasts a:hover span,,,,,,,.at15t_buzz
+83,ul#tab_media_center li#rss-feeds a:hover span,,,,,,,.at15t_delicious
+84,ul#tab_media_center li#expert-chat a:hover span,,,,,,,.at15t_digg
+85,ul#tab_media_center li#sounds a.active span,,,,,,,.at15t_diigo
+86,ul#tab_media_center li#maps a.active span,,,,,,,.at15t_email
+87,ul#tab_media_center li#videos a.active span,,,,,,,.at15t_facebook
+88,ul#tab_media_center li#taxa-comments a.active span,,,,,,,.at15t_fark
+89,ul#tab_media_center li#podcasts a.active span,,,,,,,.at15t_faves
+90,ul#tab_media_center li#rss-feeds a.active span,,,,,,,.at15t_favorites
+91,ul#tab_media_center li#expert-chat a.active span,,,,,,,.at15t_friendfeed
+92,#left-mc .wrapper-mc .mc-info .noimages,,,,,,,.at15t_friendster
+93,#left-mc .wrapper-mc .mc-info .mc-header a,,,,,,,.at15t_google
+94,#left-mc .wrapper-mc .mc-info .mc-header a span,,,,,,,.at15t_hatena
+95,#left-mc .wrapper-mc .mc-info select,,,,,,,.at15t_hi5
+96,#left-mc .wrapper-mc .mc-img a.selected,,,,,,,.at15t_kaboodle
+97,.mc-navigation span a,,,,,,,.at15t_kirtsy
+98,.mc-navigation span a:hover,,,,,,,.at15t_linkagogo
+99,.mc-navigation span a.active,,,,,,,.at15t_linkedin
+100,.mc-navigation span#back,,,,,,,.at15t_live
+101,#unknown-text-warning-box,,,,,,,.at15t_meneame
+102,#untrusted-text-warning-box,,,,,,,.at15t_misterwong
+103,#unknown-thumbnail-warning-box,,,,,,,.at15t_mixx
+104,#untrusted-thumbnail-warning-box,,,,,,,.at15t_multiply
+105,.untrusted-background-text,,,,,,,.at15t_myaol
+106,.unknown-background-text,,,,,,,.at15t_myspace
+107,.unvetted-title-names,,,,,,,.at15t_netvibes
+108,.untrusted-background-image,,,,,,,.at15t_netvouz
+109,.unknown-background-image,,,,,,,.at15t_newsvine
+110,.unvetted-background-color,,,,,,,.at15t_nujij
+111,#unvetted-page-warning-box,,,,,,,.at15t_orkut
+112,.message-box,,,,,,,.at15t_plaxo
+113,.mc-notes span em,,,,,,,.at15t_print
+114,.mc-notes h4,,,,,,,.at15t_propeller
+115,.mc-notes p,,,,,,,.at15t_reddit
+116,.mc-notes a.image-attribution-larger,,,,,,,.at15t_segnalo
+117,#notes-attribution-area,,,,,,,.at15t_simpy
+118,.mc-video-notes h4,,,,,,,.at15t_slashdot
+119,.mc-video-notes p,,,,,,,.at15t_spurl
+120,.credit-open,,,,,,,.at15t_stumbleupon
+121,tr.credit-line td,,,,,,,.at15t_stylehive
+122,.tt_ul,,,,,,,.at15t_tailrank
+123,.tt_ul_unvetted,,,,,,,.at15t_technorati
+124,.tt_u,,,,,,,.at15t_thisnext
+125,.tt_ur,,,,,,,.at15t_tipd
+126,.tt_l,,,,,,,.at15t_tumblr
+127,.tt_l_unvetted,,,,,,,.at15t_twitter
+128,.tt_r,,,,,,,.at15t_typepad
+129,.tt_bl,,,,,,,.at15t_wordpress
+130,.tt_bl_unvetted,,,,,,,.at15t_yahoobkm
+131,.tt_b,,,,,,,.at15t_yardbarker
+132,.tt_br,,,,,,,.at15t_netscape
+133,.tt,,,,,,,#at16clb
+134,td.credit-text,,,,,,,#at_share .at_item
+135,.credit-close,,,,,,,#at16pm
+136,#classification-attribution,,,,,,,#at16pcc
+137,#sliding-open,,,,,,,* html #at16pcc
+138,#place-holder,,,,,,,#at16abifc
+139,ul#tab_taxonomic_browser,,,,,,,#at16abifc iframe
+140,ul#tab_taxonomic_browser li,,,,,,,* html div#at16abifc.atiemode2
+141,ul#tab_taxonomic_browser li,,,,,,,* html #at16abifc iframe
+142,ul#tab_taxonomic_browser li a,,,,,,,#at16p
+143,.nopages,,,,,,,#at16p
+144,#taxonomic-top-link,,,,,,,#atie6ifh
+145,#browser-text a.nopages,,,,,,,#atie6ifh
+146,#taxonomictext-upone,,,,,,,#at_share
+147,#content #page-content #center-page-content h1,,,,,,,#at16ps
+148,#home-content-wrap h2,,,,,,,a#at16pit
+149,#content #page-content #center-page-content sup a,,,,,,,#at16pi
+150,#home-content-wrap ul,,,,,,,#at16pi a
+151,#content #page-content #center-page-content ol,,,,,,,#at16pi a:hover
+152,#home-content-wrap ol,,,,,,,#at16pt
+153,#home-content-wrap li,,,,,,,#at16pt h4
+154,#content #page-content #full-page-content #inside-columns,,,,,,,#at16pt a
+155,#home-content-wrap strong,,,,,,,#at16pt h4
+156,#home-content-wrap em,,,,,,,#at16pt a
+157,#content #page-content .cpc-content em,,,,,,,#at16pc form
+158,#home-content-wrap p,,,,,,,#at16pc form label
+159,#content #page-content #center-page-content strong,,,,,,,#at16pc form label span
+160,#content #page-content #center-page-content #wrapper-cpc,,,,,,,#at_email form .abif
+161,#content #page-content #center-page-content .cpc-header a.contribute,,,,,,,#at_email textarea
+162,#content #page-content #center-page-content .cpc-header p,,,,,,,* html #at_email textarea
+163,#content #page-content #center-page-content .cpc-header p span,,,,,,,:first-child + html #at_email textarea
+164,#content #page-content #center-page-content .cpc-sub-content .cpc-sub-content-header,,,,,,,#at_email form input
+165,#content #page-content #center-page-content .cpc-sub-content .cpc-sub-content-header h4,,,,,,,#at_email form textarea
+166,#content #page-content #center-page-content .cpc-sub-content .cpc-sub-content-header span,,,,,,,#at_email form .atfxmode2
+167,#content #page-content #center-page-content .cpc-sub-content .cpc-sub-content-header span strong,,,,,,,#at16pc form .at_ent
+168,#content #page-content #center-page-content .cpc-sub-content ul,,,,,,,#at16pc form textarea
+169,#content #page-content #center-page-content .cpc-sub-content ul li,,,,,,,#at16pc form input:focus
+170,#content #page-content #center-page-content .cpc-sub-content ul li a,,,,,,,#at16pc form textarea:focus
+171,#content #page-content #center-page-content .cpc-sub-content ul#sources li a,,,,,,,#at16p .atbtn
+172,#content #page-content #center-page-content .cpc-sub-content ul li a:hover,,,,,,,#at16p .atbtn:hover
+173,#content #page-content #center-page-content .cpc-sub-content ul li strong,,,,,,,#at_email #ateml
+174,#content #page-content #center-page-content .cpc-sub-content ul li em,,,,,,,#at16pc
+175,.references ul,,,,,,,#at_email
+176,.references-header,,,,,,,#at16pc .tmsg
+177,a.footnote,,,,,,,#at16ps
+178,#content #page-content #right-page-content #contribute,,,,,,,#at16psf
+179,#content #page-content #right-page-content #contribute h4,,,,,,,* html #at16psf input
+180,#content #page-content #right-page-content #contribute ol,,,,,,,#at16psf input
+181,#content #page-content #right-page-content #contribute ol li,,,,,,,#at16pcc .at_error
+182,#content #page-content #right-page-content #contribute ol li.last,,,,,,,#at16pcc #at_success
+183,#content #page-content #right-page-content #contribute ol li a,,,,,,,#at16pf
+184,* html #content #page-content #right-page-content #contribute ol li a,,,,,,,#at16pf a
+185,#content #page-content #right-page-content #contribute ol li a:hover,,,,,,,#at16pf a:hover
+186,#content #page-content #right-page-content #contribute ol li a strong,,,,,,,#at16pf a#at-whatsthis
+187,#content #page-content #right-page-content #contribute p,,,,,,,#at16pf a#at-privacy
+188,#content #page-content #right-page-content #contribute p#contribute-menu,,,,,,,#at_complete
+189,#content #page-content #right-page-content #contribute p#contribute-menu a,,,,,,,#at_s_msg
+190,#content #page-content #right-page-content #contribute p#contribute-menu a:hover,,,,,,,#at16pf a#at-logo
+191,#content #page-content #right-page-content .articles,,,,,,,.at_baa
+192,#content #page-content #right-page-content .articles h4,,,,,,,#at15s #at16pf a
+193,ul#tab_related_articles,,,,,,,#at16pc form #at_send
+194,ul#tab_related_articles li,,,,,,,#at_feed
+195,ul#tab_related_articles li a,,,,,,,#at_feed span
+196,ul#tab_related_articles li a.active,,,,,,,#at_feed div
+197,ul#tab_related_articles li a:hover,,,,,,,#at_feed div.at_litem
+198,.articles .articles-content,,,,,,,#at_feed a
+199,.articles .articles-content ul li,,,,,,,.fbtn
+200,.articles .articles-content ul li a,,,,,,,.fbtn.bloglines
+201,.articles .articles-content ul li a:hover,,,,,,,.fbtn.yahoo
+202,.articles .articles-content ul li.last,,,,,,,.fbtn.newsgator
+203,.article,,,,,,,.fbtn.newsgator-on
+204,.book,,,,,,,.fbtn.technorati
+205,#content #page-content #right-page-content #internal-nav #related dt,,,,,,,.fbtn.netvibes
+206,#content #page-content #right-page-content #internal-nav #related dt img,,,,,,,.fbtn.pageflakes
+207,#content #page-content #right-page-content #internal-nav #related dd,,,,,,,.fbtn.feedreader
+208,#related-species-table td.alt,,,,,,,.fbtn.newsisfree
+209,.results_table th.nobg,,,,,,,.fbtn.google
+210,.results_table td.odd_unvetted,,,,,,,.fbtn.winlive
+211,.results_table td.even_unvetted,,,,,,,.fbtn.mymsn
+212,#errorExplanation,,,,,,,.fbtn.aol
+213,#errorExplanation h2,,,,,,,#at16pp
+214,#errorExplanation p,,,,,,,#at16pp label
+215,#errorExplanation ul,,,,,,,#at16ppc
+216,#errorExplanation ul li,,,,,,,#at16pph
+217,ul.errors,,,,,,,#at16pph select
+218,ul.errors li,,,,,,,#at16pp .atinp
+219,fieldset.invalid,,,,,,,html > body #at16pp .atinp
+220,label.invalid,,,,,,,#at16ppb
+221,label.invalid span.warn,,,,,,,#at16ep
+222,input.invalid,,,,,,,#at16ep a
+223,textarea.invalid,,,,,,,#at16ep a.at_gmail
+224,fieldset.warn,,,,,,,#at16ep a.at_hotmail
+225,label.warn,,,,,,,#at16ep a.at_yahoo
+226,label.warn span.warn,,,,,,,#at16ppf p#atsb
+227,input.warn,,,,,,,#at16abr
+228,textarea.warn,,,,,,,#at16abr input
+229,#flash-warning,,,,,,,#at16ppso
+230,#flash-error,,,,,,,#at16ppa
+231,.pop-up-panel,,,,,,,#at16ppa a
+232,#photos_area_slider,,,,,,,#at16eatdr
+233,#sidebar-a p,,,,,,,* html #at_email #at16eatdr
+234,#sidebar-b p,,,,,,,:first-child + html #at_email #at16eatdr
+235,#home-content-wrap .helplist,,,,,,,html > body #at_email form #at16eatdr.abif
+236,.helplist li,,,,,,,#at16eatdr a
+237,#top-species-table,,,,,,,#at16eatdr a:hover
+238,#top-species-table img,,,,,,,#at16eatdr a.hover
+239,#top-species-table td,,,,,,,#at_promo
+240,#top-species-table td.image,,,,,,,#at_promo button
+241,.nav_buttons #more-button a,,,,,,,#at_promo .at-promo-content
+242,.nav_buttons #next-button,,,,,,,#at_promo .at-promo-btn
+243,.current_node,,,,,,,#at_promo .at-promo-top
+244,#pages .pagination span,,,,,,,#at_promo h4
+245,#right-pane thead,,,,,,,#at_promo h4 sup
+246,.lmNav a em,,,,,,,#at_promo span
+247,.lmNav td.selected a em,,,,,,,#at_promo .at-promo-btm
+248,.resource_indented,,,,,,,
+249,.form_item,,,,,,,
+250,form div#browser-text li,,,,,,,
+251,#large-image-buttons ul.large-image-button-group li > a div,,,,,,,
+252,#large-image-buttons ul.large-image-button-group li#large-image-comment-button,,,,,,,
+253,#large-image-buttons ul.large-image-button-group li#large-image-comment-button a,,,,,,,
+254,#curator-popup,,,,,,,
+255,#media-taxa-comments-body,,,,,,,
+256,div#user_show #account,,,,,,,
+257,div#user_show h2,,,,,,,
+258,div#usage_report_stats,,,,,,,
+259,div#usage_report_stats table,,,,,,,
+260,div#usage_report_stats table thead th,,,,,,,
+261,div.generic_report div.settings fieldset,,,,,,,
+262,form#search_form div.search_options,,,,,,,
+263,div.text_button ul,,,,,,,
+264,ul.tree,,,,,,,
+265,ul.tree li,,,,,,,
+266,ul.tree li a,,,,,,,
+267,ul.tree li a:hover,,,,,,,
+268,ul.tree li.kingdom,,,,,,,
+269,ul.tree li.selected,,,,,,,
+270,div.edit_text,,,,,,,

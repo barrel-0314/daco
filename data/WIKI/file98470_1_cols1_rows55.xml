@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<entity>
+    <logicalTable>
+        <content>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;JosÃÂ© Ferrer&lt;/td&gt;</html>
+                    <text>JosÃÂ© Ferrer</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Cyrano de Bergerac&lt;/td&gt;</html>
+                    <text>Cyrano de Bergerac</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Fredric March&lt;/td&gt;</html>
+                    <text>Fredric March</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Death of a Salesman&lt;/td&gt;</html>
+                    <text>Death of a Salesman</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Gary Cooper&lt;/td&gt;</html>
+                    <text>Gary Cooper</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;High Noon&lt;/td&gt;</html>
+                    <text>High Noon</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Spencer Tracy&lt;/td&gt;</html>
+                    <text>Spencer Tracy</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Marlon Brando&lt;/td&gt;</html>
+                    <text>Marlon Brando</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;On the Waterfront&lt;/td&gt;</html>
+                    <text>On the Waterfront</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Ernest Borgnine&lt;/td&gt;</html>
+                    <text>Ernest Borgnine</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Marty&lt;/td&gt;</html>
+                    <text>Marty</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Kirk Douglas&lt;/td&gt;</html>
+                    <text>Kirk Douglas</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Lust for Life&lt;/td&gt;</html>
+                    <text>Lust for Life</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Alec Guinness&lt;/td&gt;</html>
+                    <text>Alec Guinness</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;The Bridge on the River Kwai&lt;/td&gt;</html>
+                    <text>The Bridge on the River Kwai</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;David Niven&lt;/td&gt;</html>
+                    <text>David Niven</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Separate Tables&lt;/td&gt;</html>
+                    <text>Separate Tables</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Anthony Franciosa&lt;/td&gt;</html>
+                    <text>Anthony Franciosa</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Career&lt;/td&gt;</html>
+                    <text>Career</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Burt Lancaster&lt;/td&gt;</html>
+                    <text>Burt Lancaster</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Elmer Gantry&lt;/td&gt;</html>
+                    <text>Elmer Gantry</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Maximilian Schell&lt;/td&gt;</html>
+                    <text>Maximilian Schell</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Judgment at Nuremberg&lt;/td&gt;</html>
+                    <text>Judgment at Nuremberg</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Gregory Peck&lt;/td&gt;</html>
+                    <text>Gregory Peck</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;To Kill a Mockingbird&lt;/td&gt;</html>
+                    <text>To Kill a Mockingbird</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Sidney Poitier&lt;/td&gt;</html>
+                    <text>Sidney Poitier</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Lilies of the Field&lt;/td&gt;</html>
+                    <text>Lilies of the Field</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Peter O'Toole&lt;/td&gt;</html>
+                    <text>Peter O&amp;apos;Toole</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Becket&lt;/td&gt;</html>
+                    <text>Becket</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Omar Sharif&lt;/td&gt;</html>
+                    <text>Omar Sharif</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Doctor Zhivago&lt;/td&gt;</html>
+                    <text>Doctor Zhivago</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Paul Scofield&lt;/td&gt;</html>
+                    <text>Paul Scofield</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;A Man for All Seasons&lt;/td&gt;</html>
+                    <text>A Man for All Seasons</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Rod Steiger&lt;/td&gt;</html>
+                    <text>Rod Steiger</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;In the Heat of the Night&lt;/td&gt;</html>
+                    <text>In the Heat of the Night</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Peter O'Toole&lt;/td&gt;</html>
+                    <text>Peter O&amp;apos;Toole</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;The Lion in Winter&lt;/td&gt;</html>
+                    <text>The Lion in Winter</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;John Wayne&lt;/td&gt;</html>
+                    <text>John Wayne</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;True Grit&lt;/td&gt;</html>
+                    <text>True Grit</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;George C . Scott&lt;/td&gt;</html>
+                    <text>George C . Scott</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Patton&lt;/td&gt;</html>
+                    <text>Patton</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Gene Hackman&lt;/td&gt;</html>
+                    <text>Gene Hackman</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;The French Connection&lt;/td&gt;</html>
+                    <text>The French Connection</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Marlon Brando&lt;/td&gt;</html>
+                    <text>Marlon Brando</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;The Godfather&lt;/td&gt;</html>
+                    <text>The Godfather</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Al Pacino&lt;/td&gt;</html>
+                    <text>Al Pacino</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Serpico&lt;/td&gt;</html>
+                    <text>Serpico</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Jack Nicholson&lt;/td&gt;</html>
+                    <text>Jack Nicholson</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Chinatown&lt;/td&gt;</html>
+                    <text>Chinatown</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Jack Nicholson&lt;/td&gt;</html>
+                    <text>Jack Nicholson</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;One Flew Over the Cuckoo's Nest&lt;/td&gt;</html>
+                    <text>One Flew Over the Cuckoo&amp;apos;s Nest</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Peter Finch&lt;/td&gt;</html>
+                    <text>Peter Finch</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Network&lt;/td&gt;</html>
+                    <text>Network</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Richard Burton&lt;/td&gt;</html>
+                    <text>Richard Burton</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Equus&lt;/td&gt;</html>
+                    <text>Equus</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Jon Voight&lt;/td&gt;</html>
+                    <text>Jon Voight</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Coming Home&lt;/td&gt;</html>
+                    <text>Coming Home</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Dustin Hoffman&lt;/td&gt;</html>
+                    <text>Dustin Hoffman</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Kramer vs . Kramer&lt;/td&gt;</html>
+                    <text>Kramer vs . Kramer</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Robert De Niro&lt;/td&gt;</html>
+                    <text>Robert De Niro</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Raging Bull&lt;/td&gt;</html>
+                    <text>Raging Bull</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Henry Fonda&lt;/td&gt;</html>
+                    <text>Henry Fonda</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;On Golden Pond&lt;/td&gt;</html>
+                    <text>On Golden Pond</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Ben Kingsley&lt;/td&gt;</html>
+                    <text>Ben Kingsley</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Gandhi&lt;/td&gt;</html>
+                    <text>Gandhi</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Tom Courtenay&lt;/td&gt;</html>
+                    <text>Tom Courtenay</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;The Dresser&lt;/td&gt;</html>
+                    <text>The Dresser</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;F . Murray Abraham&lt;/td&gt;</html>
+                    <text>F . Murray Abraham</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Amadeus&lt;/td&gt;</html>
+                    <text>Amadeus</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Jon Voight&lt;/td&gt;</html>
+                    <text>Jon Voight</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Runaway Train&lt;/td&gt;</html>
+                    <text>Runaway Train</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Bob Hoskins&lt;/td&gt;</html>
+                    <text>Bob Hoskins</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Mona Lisa&lt;/td&gt;</html>
+                    <text>Mona Lisa</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Michael Douglas&lt;/td&gt;</html>
+                    <text>Michael Douglas</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Wall Street&lt;/td&gt;</html>
+                    <text>Wall Street</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Dustin Hoffman&lt;/td&gt;</html>
+                    <text>Dustin Hoffman</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Rain Man&lt;/td&gt;</html>
+                    <text>Rain Man</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Tom Cruise&lt;/td&gt;</html>
+                    <text>Tom Cruise</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Born on the Fourth of July&lt;/td&gt;</html>
+                    <text>Born on the Fourth of July</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Jeremy Irons&lt;/td&gt;</html>
+                    <text>Jeremy Irons</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Reversal of Fortune&lt;/td&gt;</html>
+                    <text>Reversal of Fortune</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Nick Nolte&lt;/td&gt;</html>
+                    <text>Nick Nolte</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;The Prince of Tides&lt;/td&gt;</html>
+                    <text>The Prince of Tides</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Al Pacino&lt;/td&gt;</html>
+                    <text>Al Pacino</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Scent of a Woman&lt;/td&gt;</html>
+                    <text>Scent of a Woman</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Tom Hanks&lt;/td&gt;</html>
+                    <text>Tom Hanks</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Philadelphia&lt;/td&gt;</html>
+                    <text>Philadelphia</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Tom Hanks&lt;/td&gt;</html>
+                    <text>Tom Hanks</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Forrest Gump&lt;/td&gt;</html>
+                    <text>Forrest Gump</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Nicolas Cage&lt;/td&gt;</html>
+                    <text>Nicolas Cage</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Leaving Las Vegas&lt;/td&gt;</html>
+                    <text>Leaving Las Vegas</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Geoffrey Rush&lt;/td&gt;</html>
+                    <text>Geoffrey Rush</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Shine&lt;/td&gt;</html>
+                    <text>Shine</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Peter Fonda&lt;/td&gt;</html>
+                    <text>Peter Fonda</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Ulee's Gold&lt;/td&gt;</html>
+                    <text>Ulee&amp;apos;s Gold</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Jim Carrey&lt;/td&gt;</html>
+                    <text>Jim Carrey</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;The Truman Show&lt;/td&gt;</html>
+                    <text>The Truman Show</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Denzel Washington&lt;/td&gt;</html>
+                    <text>Denzel Washington</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;The Hurricane&lt;/td&gt;</html>
+                    <text>The Hurricane</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Tom Hanks&lt;/td&gt;</html>
+                    <text>Tom Hanks</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Cast Away&lt;/td&gt;</html>
+                    <text>Cast Away</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Denzel Washington&lt;/td&gt;</html>
+                    <text>Denzel Washington</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Training Day&lt;/td&gt;</html>
+                    <text>Training Day</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Jack Nicholson&lt;/td&gt;</html>
+                    <text>Jack Nicholson</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;About Schmidt&lt;/td&gt;</html>
+                    <text>About Schmidt</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Sean Penn&lt;/td&gt;</html>
+                    <text>Sean Penn</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Mystic River&lt;/td&gt;</html>
+                    <text>Mystic River</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Leonardo DiCaprio&lt;/td&gt;</html>
+                    <text>Leonardo DiCaprio</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;The Aviator&lt;/td&gt;</html>
+                    <text>The Aviator</text>
+                </cell>
+            </row>
+        </content>
+    </logicalTable>
+</entity>

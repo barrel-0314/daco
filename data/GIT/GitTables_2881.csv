@@ -1,0 +1,9 @@
+,col0,col1,col2,col3
+0,gd_fp_eu_tax1,gd_fp_eu,gd_taxp_3,gd_taxp_st_2
+1,gd_fp_eu_tax2,gd_fp_eu,gd_taxp_2,gd_taxp_st_1
+2,gd_fp_eu_tax3,gd_fp_eu,gd_taxr_3,gd_taxr_1
+3,gd_fp_eu_tax4,gd_fp_eu,gd_taxr_2,gd_taxr_1
+4,gd_fp_ne_tax1,gd_fp_ne,gd_taxp_3,gd_taxp_1
+5,gd_fp_ne_tax2,gd_fp_ne,gd_taxp_2,gd_taxp_1
+6,gd_fp_ne_tax3,gd_fp_ne,gd_taxr_3,gd_taxr_1
+7,gd_fp_ne_tax4,gd_fp_ne,gd_taxr_2,gd_taxr_1

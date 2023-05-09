@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<entity>
+    <logicalTable>
+        <content>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Enemy Lines I : Rebel Dream&lt;/td&gt;</html>
+                    <text>Enemy Lines I : Rebel Dream</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Allston&lt;/td&gt;</html>
+                    <text>Allston</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Enemy Lines II : Rebel Stand&lt;/td&gt;</html>
+                    <text>Enemy Lines II : Rebel Stand</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Aaron Allston&lt;/td&gt;</html>
+                    <text>Aaron Allston</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Traitor&lt;/td&gt;</html>
+                    <text>Traitor</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Matthew Woodring Stover&lt;/td&gt;</html>
+                    <text>Matthew Woodring Stover</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Destiny's Way&lt;/td&gt;</html>
+                    <text>Destiny&amp;apos;s Way</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Walter Jon Williams&lt;/td&gt;</html>
+                    <text>Walter Jon Williams</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Ylesia&lt;/td&gt;</html>
+                    <text>Ylesia</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Walter Jon Williams&lt;/td&gt;</html>
+                    <text>Walter Jon Williams</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;eBook&lt;/td&gt;</html>
+                    <text>eBook</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Remnant&lt;/td&gt;</html>
+                    <text>Remnant</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Force Heretic II Refugee&lt;/td&gt;</html>
+                    <text>Force Heretic II Refugee</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+        </content>
+    </logicalTable>
+</entity>

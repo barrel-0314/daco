@@ -1,0 +1,837 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<entity>
+    <logicalTable>
+        <content>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Hendrik Willem van Loon&lt;/td&gt;</html>
+                    <text>Hendrik Willem van Loon</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;The Story of Mankind&lt;/td&gt;</html>
+                    <text>The Story of Mankind</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Hugh Lofting&lt;/td&gt;</html>
+                    <text>Hugh Lofting</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;The Voyages of Dr . Dolittle&lt;/td&gt;</html>
+                    <text>The Voyages of Dr . Dolittle</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Charles Hawes&lt;/td&gt;</html>
+                    <text>Charles Hawes</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;The Dark Frigate&lt;/td&gt;</html>
+                    <text>The Dark Frigate</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Charles Finger&lt;/td&gt;</html>
+                    <text>Charles Finger</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Tales from Silver Lands&lt;/td&gt;</html>
+                    <text>Tales from Silver Lands</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Arthur Bowie Chrisman&lt;/td&gt;</html>
+                    <text>Arthur Bowie Chrisman</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Shen of the Sea&lt;/td&gt;</html>
+                    <text>Shen of the Sea</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Will James&lt;/td&gt;</html>
+                    <text>Will James</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Smoky the Cow Horse&lt;/td&gt;</html>
+                    <text>Smoky the Cow Horse</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Dhan Gopal Mukerji&lt;/td&gt;</html>
+                    <text>Dhan Gopal Mukerji</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Gayneck , the Story of a Pigeon&lt;/td&gt;</html>
+                    <text>Gayneck , the Story of a Pigeon</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Eric P . Kelly&lt;/td&gt;</html>
+                    <text>Eric P . Kelly</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;The Trumpeter of Krakow&lt;/td&gt;</html>
+                    <text>The Trumpeter of Krakow</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Rachel Field&lt;/td&gt;</html>
+                    <text>Rachel Field</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Hetty , Her First Hundred Years&lt;/td&gt;</html>
+                    <text>Hetty , Her First Hundred Years</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Elizabeth Coatsworth&lt;/td&gt;</html>
+                    <text>Elizabeth Coatsworth</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;The Cat Who Went to Heaven&lt;/td&gt;</html>
+                    <text>The Cat Who Went to Heaven</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Laura Adams Armer&lt;/td&gt;</html>
+                    <text>Laura Adams Armer</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Waterless Mountain&lt;/td&gt;</html>
+                    <text>Waterless Mountain</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Elizabeth Foreman Lewis&lt;/td&gt;</html>
+                    <text>Elizabeth Foreman Lewis</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Young Fu of the Upper Yangtze&lt;/td&gt;</html>
+                    <text>Young Fu of the Upper Yangtze</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Cornelia Meigs&lt;/td&gt;</html>
+                    <text>Cornelia Meigs</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Invincible Louisa&lt;/td&gt;</html>
+                    <text>Invincible Louisa</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Monica Shannon&lt;/td&gt;</html>
+                    <text>Monica Shannon</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Dobry&lt;/td&gt;</html>
+                    <text>Dobry</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Carol Ryrie Brink&lt;/td&gt;</html>
+                    <text>Carol Ryrie Brink</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Caddie Woodlawn&lt;/td&gt;</html>
+                    <text>Caddie Woodlawn</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Ruth Sawyer&lt;/td&gt;</html>
+                    <text>Ruth Sawyer</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Roller Skates&lt;/td&gt;</html>
+                    <text>Roller Skates</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Kate Seredy&lt;/td&gt;</html>
+                    <text>Kate Seredy</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;The White Stag&lt;/td&gt;</html>
+                    <text>The White Stag</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Elizabeth Enright&lt;/td&gt;</html>
+                    <text>Elizabeth Enright</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Thimble Summer&lt;/td&gt;</html>
+                    <text>Thimble Summer</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;James Daugherty&lt;/td&gt;</html>
+                    <text>James Daugherty</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Daniel Boone&lt;/td&gt;</html>
+                    <text>Daniel Boone</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Armstrong Sperry&lt;/td&gt;</html>
+                    <text>Armstrong Sperry</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Call It Courage&lt;/td&gt;</html>
+                    <text>Call It Courage</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Walter D . Edmonds&lt;/td&gt;</html>
+                    <text>Walter D . Edmonds</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;The Matchlock Gun&lt;/td&gt;</html>
+                    <text>The Matchlock Gun</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Janet Elizabeth Gray&lt;/td&gt;</html>
+                    <text>Janet Elizabeth Gray</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Adam of the Road&lt;/td&gt;</html>
+                    <text>Adam of the Road</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Esther Forbes&lt;/td&gt;</html>
+                    <text>Esther Forbes</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Johnny Tremain&lt;/td&gt;</html>
+                    <text>Johnny Tremain</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Robert Lawson&lt;/td&gt;</html>
+                    <text>Robert Lawson</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Rabbit Hill&lt;/td&gt;</html>
+                    <text>Rabbit Hill</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Lois Lenski&lt;/td&gt;</html>
+                    <text>Lois Lenski</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Strawberry Girl&lt;/td&gt;</html>
+                    <text>Strawberry Girl</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Carolyn Sherwin Bailey&lt;/td&gt;</html>
+                    <text>Carolyn Sherwin Bailey</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Miss Hickory&lt;/td&gt;</html>
+                    <text>Miss Hickory</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;William Pene du Bois&lt;/td&gt;</html>
+                    <text>William Pene du Bois</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;The Twenty - One Balloons&lt;/td&gt;</html>
+                    <text>The Twenty - One Balloons</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Marguerite Henry&lt;/td&gt;</html>
+                    <text>Marguerite Henry</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;King of the Wind&lt;/td&gt;</html>
+                    <text>King of the Wind</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Marguerite de Angeli&lt;/td&gt;</html>
+                    <text>Marguerite de Angeli</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;The Door in the Wall&lt;/td&gt;</html>
+                    <text>The Door in the Wall</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Elizabeth Yates&lt;/td&gt;</html>
+                    <text>Elizabeth Yates</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Amos Fortune , Free Man&lt;/td&gt;</html>
+                    <text>Amos Fortune , Free Man</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Eleanor Estes&lt;/td&gt;</html>
+                    <text>Eleanor Estes</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Ginger Pye&lt;/td&gt;</html>
+                    <text>Ginger Pye</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Ann Nolan Clark&lt;/td&gt;</html>
+                    <text>Ann Nolan Clark</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Secret of the Andes&lt;/td&gt;</html>
+                    <text>Secret of the Andes</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Joseph Krumgold&lt;/td&gt;</html>
+                    <text>Joseph Krumgold</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;And Now Miguel&lt;/td&gt;</html>
+                    <text>And Now Miguel</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Meindert Dejong&lt;/td&gt;</html>
+                    <text>Meindert Dejong</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;The Wheel on the School&lt;/td&gt;</html>
+                    <text>The Wheel on the School</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Jean Lee Latham&lt;/td&gt;</html>
+                    <text>Jean Lee Latham</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Carry On , Mr . Bowditch&lt;/td&gt;</html>
+                    <text>Carry On , Mr . Bowditch</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Virginia Sorenson&lt;/td&gt;</html>
+                    <text>Virginia Sorenson</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Miracles on Maple Street&lt;/td&gt;</html>
+                    <text>Miracles on Maple Street</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Harold Keith&lt;/td&gt;</html>
+                    <text>Harold Keith</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Rifles for Watie&lt;/td&gt;</html>
+                    <text>Rifles for Watie</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Elizabeth George Speare&lt;/td&gt;</html>
+                    <text>Elizabeth George Speare</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;The Witch of Blackbird Pond&lt;/td&gt;</html>
+                    <text>The Witch of Blackbird Pond</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Joseph Krumgold&lt;/td&gt;</html>
+                    <text>Joseph Krumgold</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Onion John&lt;/td&gt;</html>
+                    <text>Onion John</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Scott O'Dell&lt;/td&gt;</html>
+                    <text>Scott O&amp;apos;Dell</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Island of the Blue Dolphins&lt;/td&gt;</html>
+                    <text>Island of the Blue Dolphins</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Elizabeth George Speare&lt;/td&gt;</html>
+                    <text>Elizabeth George Speare</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;The Bronze Bow&lt;/td&gt;</html>
+                    <text>The Bronze Bow</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Madeleine L'Engle&lt;/td&gt;</html>
+                    <text>Madeleine L&amp;apos;Engle</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;A Wrinkle in Time&lt;/td&gt;</html>
+                    <text>A Wrinkle in Time</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Emily Cheney Neville&lt;/td&gt;</html>
+                    <text>Emily Cheney Neville</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;It's Like This , Cat&lt;/td&gt;</html>
+                    <text>It&amp;apos;s Like This , Cat</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Maia Wojciechowska&lt;/td&gt;</html>
+                    <text>Maia Wojciechowska</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Shadow of a Bull&lt;/td&gt;</html>
+                    <text>Shadow of a Bull</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Elizabeth Borten de Trevino&lt;/td&gt;</html>
+                    <text>Elizabeth Borten de Trevino</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;I , Juan de Pareja&lt;/td&gt;</html>
+                    <text>I , Juan de Pareja</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Irene Hunt&lt;/td&gt;</html>
+                    <text>Irene Hunt</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Up a Pond Slowly&lt;/td&gt;</html>
+                    <text>Up a Pond Slowly</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;E . L . Konigsburg&lt;/td&gt;</html>
+                    <text>E . L . Konigsburg</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;From the Mixed - Up Files of Mrs . Basil E . Frankweiler&lt;/td&gt;</html>
+                    <text>From the Mixed - Up Files of Mrs . Basil E . Frankweiler</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Lloyd Alexander&lt;/td&gt;</html>
+                    <text>Lloyd Alexander</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;The High King&lt;/td&gt;</html>
+                    <text>The High King</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;William H . Armstrong&lt;/td&gt;</html>
+                    <text>William H . Armstrong</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Sounder&lt;/td&gt;</html>
+                    <text>Sounder</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Betsy Byars&lt;/td&gt;</html>
+                    <text>Betsy Byars</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Summer of the Swans&lt;/td&gt;</html>
+                    <text>Summer of the Swans</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Robert C . Obrien&lt;/td&gt;</html>
+                    <text>Robert C . Obrien</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Mrs . Frisby and the Rats of NIMH&lt;/td&gt;</html>
+                    <text>Mrs . Frisby and the Rats of NIMH</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Jean Craighead George&lt;/td&gt;</html>
+                    <text>Jean Craighead George</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Julie of the Wolves&lt;/td&gt;</html>
+                    <text>Julie of the Wolves</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Paula Fox&lt;/td&gt;</html>
+                    <text>Paula Fox</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;The Slave Dancer&lt;/td&gt;</html>
+                    <text>The Slave Dancer</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Virginia Hamilton&lt;/td&gt;</html>
+                    <text>Virginia Hamilton</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;M . C . Higgins , the Great&lt;/td&gt;</html>
+                    <text>M . C . Higgins , the Great</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Susan Cooper&lt;/td&gt;</html>
+                    <text>Susan Cooper</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;The Grey King&lt;/td&gt;</html>
+                    <text>The Grey King</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Mildred Taylor&lt;/td&gt;</html>
+                    <text>Mildred Taylor</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Roll of Thunder , Hear My Cry&lt;/td&gt;</html>
+                    <text>Roll of Thunder , Hear My Cry</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Katherine Paterson&lt;/td&gt;</html>
+                    <text>Katherine Paterson</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Bridge to Terabithia&lt;/td&gt;</html>
+                    <text>Bridge to Terabithia</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Ellen Raskin&lt;/td&gt;</html>
+                    <text>Ellen Raskin</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;The Westing Game&lt;/td&gt;</html>
+                    <text>The Westing Game</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Joan Blos&lt;/td&gt;</html>
+                    <text>Joan Blos</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;A Gathering of Days : A New England Girl's Journal&lt;/td&gt;</html>
+                    <text>A Gathering of Days : A New England Girl&amp;apos;s Journal</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Katherine Paterson&lt;/td&gt;</html>
+                    <text>Katherine Paterson</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Jacob Have I Loved&lt;/td&gt;</html>
+                    <text>Jacob Have I Loved</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Nancy Willard&lt;/td&gt;</html>
+                    <text>Nancy Willard</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;A Visit to William Blake's Inn&lt;/td&gt;</html>
+                    <text>A Visit to William Blake&amp;apos;s Inn</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Cynthia Voight&lt;/td&gt;</html>
+                    <text>Cynthia Voight</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Dicey's Song&lt;/td&gt;</html>
+                    <text>Dicey&amp;apos;s Song</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Beverly Cleary&lt;/td&gt;</html>
+                    <text>Beverly Cleary</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Dear Mr . Henshaw&lt;/td&gt;</html>
+                    <text>Dear Mr . Henshaw</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Robin McKinley&lt;/td&gt;</html>
+                    <text>Robin McKinley</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;The Hero and the Crown&lt;/td&gt;</html>
+                    <text>The Hero and the Crown</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Patricia MacLachlan&lt;/td&gt;</html>
+                    <text>Patricia MacLachlan</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Sarah , Plain and Tall&lt;/td&gt;</html>
+                    <text>Sarah , Plain and Tall</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Sid Fleischman&lt;/td&gt;</html>
+                    <text>Sid Fleischman</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;The Whipping Boy&lt;/td&gt;</html>
+                    <text>The Whipping Boy</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Russell Freedman&lt;/td&gt;</html>
+                    <text>Russell Freedman</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Lincoln : A Photobiography&lt;/td&gt;</html>
+                    <text>Lincoln : A Photobiography</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Paul Fleischman&lt;/td&gt;</html>
+                    <text>Paul Fleischman</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Joyful Noise&lt;/td&gt;</html>
+                    <text>Joyful Noise</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Lois Lowry&lt;/td&gt;</html>
+                    <text>Lois Lowry</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Number the Stars&lt;/td&gt;</html>
+                    <text>Number the Stars</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Jerry Spinelli&lt;/td&gt;</html>
+                    <text>Jerry Spinelli</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Maniac Magee&lt;/td&gt;</html>
+                    <text>Maniac Magee</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Phyllis Reynolds Naylor&lt;/td&gt;</html>
+                    <text>Phyllis Reynolds Naylor</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Shiloh&lt;/td&gt;</html>
+                    <text>Shiloh</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Cynthia Rylant&lt;/td&gt;</html>
+                    <text>Cynthia Rylant</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Missing May&lt;/td&gt;</html>
+                    <text>Missing May</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Lois Lowry&lt;/td&gt;</html>
+                    <text>Lois Lowry</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;The Giver&lt;/td&gt;</html>
+                    <text>The Giver</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Sharon Creech&lt;/td&gt;</html>
+                    <text>Sharon Creech</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Walk Two Moons&lt;/td&gt;</html>
+                    <text>Walk Two Moons</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Karen Cushman&lt;/td&gt;</html>
+                    <text>Karen Cushman</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;The Midwife's Apprentice&lt;/td&gt;</html>
+                    <text>The Midwife&amp;apos;s Apprentice</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;E . L . Konigsburg&lt;/td&gt;</html>
+                    <text>E . L . Konigsburg</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;The View from Saturday&lt;/td&gt;</html>
+                    <text>The View from Saturday</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Karen Hesse&lt;/td&gt;</html>
+                    <text>Karen Hesse</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Out of the Dust&lt;/td&gt;</html>
+                    <text>Out of the Dust</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Louis Sachar&lt;/td&gt;</html>
+                    <text>Louis Sachar</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Holes&lt;/td&gt;</html>
+                    <text>Holes</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Christopher Paul Curtis&lt;/td&gt;</html>
+                    <text>Christopher Paul Curtis</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Bud , Not Buddy&lt;/td&gt;</html>
+                    <text>Bud , Not Buddy</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Richard Peck&lt;/td&gt;</html>
+                    <text>Richard Peck</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;A Year Down Yonder&lt;/td&gt;</html>
+                    <text>A Year Down Yonder</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Linda Sue Park&lt;/td&gt;</html>
+                    <text>Linda Sue Park</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;A Single Shard&lt;/td&gt;</html>
+                    <text>A Single Shard</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Avi&lt;/td&gt;</html>
+                    <text>Avi</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Crispin : The Cross of Lead&lt;/td&gt;</html>
+                    <text>Crispin : The Cross of Lead</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Kate DiCamillo&lt;/td&gt;</html>
+                    <text>Kate DiCamillo</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;The Tale of Despereaux&lt;/td&gt;</html>
+                    <text>The Tale of Despereaux</text>
+                </cell>
+            </row>
+        </content>
+    </logicalTable>
+</entity>

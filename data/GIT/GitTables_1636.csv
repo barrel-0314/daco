@@ -1,0 +1,123 @@
+,col0,col1,col2,col3,col4,col5,col6,col7
+0,300315,GEF3D,releng,developer,NEW, ---,set up automatic build system,2010-01-21 05:57:41
+1,317518,GEF3D,examples,developer,NEW, ---,Palette of ecore 3D editor is not added when ecore diagram is added to multi editor,2010-06-21 17:17:38
+2,254905,GEF3D,draw3d,gef3d.draw3d-inbox,NEW, ---,Use JOGL/JSR-231,2008-11-11 10:59:33
+3,261064,GEF3D,draw3d,gef3d.draw3d-inbox,NEW, ---,Simplify transparency handling,2009-01-14 14:08:17
+4,266591,GEF3D,draw3d,gef3d.draw3d-inbox,NEW, ---,SWT image textures not displayed,2009-02-28 10:23:39
+5,267835,GEF3D,draw3d,gef3d.draw3d-inbox,NEW, ---,(LWJGL) Graphics3D should be attached to GLCanvas,2009-03-10 08:34:28
+6,278351,GEF3D,draw3d,gef3d.draw3d-inbox,NEW, ---,add spotlight effect to Graphics3D,2010-01-21 07:31:02
+7,281360,GEF3D,draw3d,gef3d.draw3d-inbox,NEW, ---,Implement remaining Graphics methods,2009-06-24 11:10:31
+8,281645,GEF3D,draw3d,gef3d.draw3d-inbox,NEW, ---,Canvas is not redrawn on buffer swap,2009-10-14 14:27:24
+9,282311,GEF3D,draw3d,gef3d.draw3d-inbox,NEW, ---,Implement remaining Graphics methods,2009-07-02 13:45:52
+10,290578,GEF3D,draw3d,gef3d.draw3d-inbox,NEW, ---,SphereFigureShape (or SphereShape resp.) not rendered correctly,2009-09-25 14:07:31
+11,291273,GEF3D,draw3d,gef3d.draw3d-inbox,NEW, ---,Add a loupe view or overlay,2009-10-03 08:00:31
+12,297630,GEF3D,draw3d,gef3d.draw3d-inbox,NEW, ---,[UI] Plugin.xml error in draw3d.ui,2009-12-11 16:13:50
+13,300228,GEF3D,draw3d,gef3d.draw3d-inbox,NEW, ---,Outlined and solid polygons do not match,2010-01-20 12:48:38
+14,300316,GEF3D,draw3d,gef3d.draw3d-inbox,NEW, ---,design and implement an animation system,2010-01-21 06:47:29
+15,300317,GEF3D,draw3d,gef3d.draw3d-inbox,NEW, ---,Support billboard figures,2010-01-21 06:09:54
+16,300328,GEF3D,draw3d,gef3d.draw3d-inbox,NEW, ---,3D model importer,2011-09-26 09:51:38
+17,300329,GEF3D,draw3d,gef3d.draw3d-inbox,NEW, ---,support (OpenGL) material,2010-01-21 06:37:59
+18,300330,GEF3D,draw3d,gef3d.draw3d-inbox,NEW, ---,support lights,2010-01-21 06:37:59
+19,300331,GEF3D,draw3d,gef3d.draw3d-inbox,NEW, ---,support depth of field effects,2010-01-21 06:38:49
+20,300335,GEF3D,draw3d,gef3d.draw3d-inbox,NEW, ---,implement SVG export,2010-01-21 06:46:00
+21,300338,GEF3D,draw3d,gef3d.draw3d-inbox,NEW, ---,support extrusion effect,2010-01-21 06:50:40
+22,300339,GEF3D,draw3d,gef3d.draw3d-inbox,NEW, ---,remove restrictions related to 2D textures,2010-01-21 06:52:57
+23,300342,GEF3D,draw3d,gef3d.draw3d-inbox,NEW, ---,support stereoscopy,2010-01-21 06:59:28
+24,300519,GEF3D,draw3d,gef3d.draw3d-inbox,NEW, ---,Refactor graphics API,2010-01-22 12:01:49
+25,338800,GEF3D,draw3d,gef3d.draw3d-inbox,NEW, ---,"Adopt JOGL renderer, specify JOGL plugin",2011-03-03 07:51:49
+26,353578,GEF3D,draw3d,gef3d.draw3d-inbox,NEW, ---,SphereFigureShape fill and outline color get not applied,2011-08-02 09:50:41
+27,269337,GEF3D,gef3d,gef3d.gef3d-inbox,NEW, ---,Connections can not be selected,2009-10-18 04:04:12
+28,291272,GEF3D,gef3d,gef3d.gef3d-inbox,NEW, ---,Rename UndirectConnectionEditPart3D to UnidirectConnectionEditPart3D,2009-10-03 08:00:22
+29,296507,GEF3D,gef3d,gef3d.gef3d-inbox,NEW, ---,Figure surfaces not being drawn in correct order.,2009-11-30 14:04:59
+30,300318,GEF3D,gef3d,gef3d.gef3d-inbox,NEW, ---,add navigation controls,2010-01-21 06:47:29
+31,300323,GEF3D,gef3d,gef3d.gef3d-inbox,NEW, ---,add support for highlighting figures,2010-01-21 06:24:53
+32,300324,GEF3D,gef3d,gef3d.gef3d-inbox,NEW, ---,camera move in drag operations,2010-01-21 06:27:17
+33,300325,GEF3D,gef3d,gef3d.gef3d-inbox,NEW, ---,level of detail techniques,2010-01-21 06:55:21
+34,300326,GEF3D,gef3d,gef3d.gef3d-inbox,NEW, ---,export 3D scene as bitmap,2010-01-21 06:31:47
+35,300327,GEF3D,gef3d,gef3d.gef3d-inbox,NEW, ---,scrollable planes,2010-01-21 06:34:36
+36,300332,GEF3D,gef3d,gef3d.gef3d-inbox,NEW, ---,combine SWT overlays with camera tracks,2010-01-21 06:39:58
+37,300333,GEF3D,gef3d,gef3d.gef3d-inbox,NEW, ---,SWT overlays with popups,2010-01-21 06:42:09
+38,300334,GEF3D,gef3d,gef3d.gef3d-inbox,NEW, ---,support 3D direct edit,2010-01-21 06:42:43
+39,300336,GEF3D,gef3d,gef3d.gef3d-inbox,NEW, ---,implement dynamic 3D layouts for planes,2010-01-21 06:47:29
+40,300340,GEF3D,gef3d,gef3d.gef3d-inbox,NEW, ---,support figure/diagram proxies,2010-01-21 06:55:21
+41,300341,GEF3D,gef3d,gef3d.gef3d-inbox,NEW, ---,investigate in RAP/WebGL support,2010-05-25 05:25:27
+42,318005,GEF3D,draw3d,kristian.duske,NEW, ---,Text rendering has visual artefacts in texture mode,2010-06-28 05:40:04
+43,318148,GEF3D,draw3d,kristian.duske,NEW, ---,Problems with LOD of fonts,2010-06-28 05:35:32
+44,343365,GEF3D,draw3d,kristian.duske,NEW, ---,"Package o.e.draw3d.geometry.intersection, especially PointList, seems really weird",2011-04-20 07:14:13
+45,300320,GEF3D,gef3d,developer,ASSIGNED, ---,add support for handles for 3D operations,2011-04-19 13:07:52
+46,317557,GEF3D,draw3d,developer,ASSIGNED, ---,AbstractMethodError when painting 2D children,2010-06-22 05:56:58
+47,261775,GEF3D,draw3d,developer,RESOLVED,FIXED,Make position of an 3D object available to renderers,2009-01-21 11:55:15
+48,261981,GEF3D,draw3d,developer,RESOLVED,FIXED,Exception opening Multi-Editor Example,2009-01-22 06:18:12
+49,267671,GEF3D,draw3d,developer,RESOLVED,FIXED,FirstPersonCamera lookAt not implemented,2009-03-10 08:28:53
+50,268781,GEF3D,draw3d,developer,RESOLVED,FIXED,Make renderer registry (Graphics3DRegistry) more flexible,2009-03-16 09:48:31
+51,268786,GEF3D,draw3d,developer,RESOLVED,FIXED,Using multiple renderers is not working,2009-03-16 10:02:49
+52,268796,GEF3D,gef3d,developer,RESOLVED,FIXED,Prepare Export Action,2009-03-16 12:56:14
+53,268973,GEF3D,draw3d,developer,RESOLVED,FIXED,Add X3D export plugin,2009-04-02 08:27:22
+54,269338,GEF3D,gef3d,developer,RESOLVED,DUPLICATE,3D-related handles and tools missing,2011-04-19 13:07:52
+55,272299,GEF3D,draw3d,developer,RESOLVED,FIXED,Java VM crashes with invalid memory access when closing an 3D editor,2009-04-15 08:19:00
+56,272883,GEF3D,draw3d,developer,RESOLVED,FIXED,NullPointerException when moving a FeedbackFigure outside the diagram surface,2009-04-20 08:56:37
+57,277677,GEF3D,draw3d,developer,RESOLVED,FIXED,2D connections are not drawn when created,2009-05-25 08:18:38
+58,278651,GEF3D,draw3d,developer,RESOLVED,FIXED,One of solid cube's sides is missing,2009-06-01 14:57:30
+59,294328,GEF3D,gef3d,developer,RESOLVED,FIXED,can't select operations in class diagram,2010-06-21 13:50:01
+60,298264,GEF3D,draw3d,developer,RESOLVED,FIXED,Implement a JOGL Renderer for GEF3D.,2011-03-03 07:52:53
+61,300319,GEF3D,draw3d,developer,RESOLVED,FIXED,design and implement camera tracks,2011-05-23 09:52:19
+62,300343,GEF3D,misc,developer,RESOLVED,FIXED,create webpage with screenshots and links to sample applications,2010-02-02 11:20:18
+63,315885,GEF3D,draw3d,developer,RESOLVED,FIXED,draw3d.ui plugin problem.,2010-06-06 04:53:30
+64,315886,GEF3D,gef3d,developer,RESOLVED,FIXED,Unnecessary dependency on emf transaction.,2010-06-06 06:02:29
+65,315887,GEF3D,draw3d,developer,RESOLVED,FIXED,API usage issue in EventDispatcher3D,2010-06-06 06:28:12
+66,317517,GEF3D,examples,developer,RESOLVED,FIXED,Cannot create new elements in Ecore 3D editor,2010-06-22 05:34:00
+67,317795,GEF3D,gef3d,developer,RESOLVED,FIXED,Problem when cross-referenced diagrams are automatically resolved,2010-06-24 05:43:39
+68,342830,GEF3D,draw3d,developer,RESOLVED,FIXED,problem about removing intermodel connections in multi-editors,2011-04-14 08:52:42
+69,294695,GEF3D,doc,gef3d.doc-inbox,RESOLVED,FIXED,Provide a team project set for gef3d installation,2009-11-13 04:19:08
+70,317488,GEF3D,doc,gef3d.doc-inbox,RESOLVED,FIXED,FeedbackFigure does not get deleted in Ecore/UML2-3D editors,2010-06-21 17:07:28
+71,330541,GEF3D,doc,gef3d.doc-inbox,RESOLVED,FIXED,can not build: psf missing reference to  org.eclipse.gef3d.ext.emf,2010-11-18 05:11:14
+72,261001,GEF3D,draw3d,gef3d.draw3d-inbox,RESOLVED,FIXED,Font- and TextureManager dispose problem,2009-03-09 09:50:40
+73,261992,GEF3D,draw3d,gef3d.draw3d-inbox,RESOLVED,FIXED,Implement Disc and Cylinder shapes,2009-06-18 05:58:38
+74,262529,GEF3D,draw3d,gef3d.draw3d-inbox,RESOLVED,FIXED,connections between 2D- and 3D-nodes miss the 2D-nodes,2009-08-14 18:13:23
+75,263441,GEF3D,draw3d,gef3d.draw3d-inbox,RESOLVED,FIXED,Rotation of figures not recognized by ConnectionAnchor3D,2009-08-14 18:09:06
+76,265436,GEF3D,draw3d,gef3d.draw3d-inbox,RESOLVED,FIXED,alt-key cannot be used for camera-rotation on Linux,2009-02-24 05:13:46
+77,271878,GEF3D,draw3d,gef3d.draw3d-inbox,RESOLVED,FIXED,Multiple instances of same editor cause resource problem,2009-04-11 11:05:13
+78,278634,GEF3D,draw3d,gef3d.draw3d-inbox,RESOLVED,FIXED,Coordinate conversion not (always) working properly,2009-08-14 18:13:53
+79,280465,GEF3D,draw3d,gef3d.draw3d-inbox,RESOLVED,FIXED,Rework Position3D,2009-10-28 10:22:18
+80,282310,GEF3D,draw3d,gef3d.draw3d-inbox,RESOLVED,FIXED,Remove static temporary vectors and matrices,2009-10-28 10:23:39
+81,283603,GEF3D,draw3d,gef3d.draw3d-inbox,RESOLVED,FIXED,fillGradient not implemented in LWjglGraphics,2009-07-15 14:35:02
+82,283612,GEF3D,draw3d,gef3d.draw3d-inbox,RESOLVED,FIXED,Gradient fill not working (LwjglGraphics),2010-01-20 10:07:18
+83,288784,GEF3D,draw3d,gef3d.draw3d-inbox,RESOLVED,FIXED,Specify BREE in projects,2009-09-26 23:53:41
+84,292593,GEF3D,draw3d,gef3d.draw3d-inbox,RESOLVED,WORKSFORME,Figures aren't rendered under certain conditions.,2009-10-19 21:17:35
+85,295306,GEF3D,draw3d,gef3d.draw3d-inbox,RESOLVED,FIXED,Load graphics3d extensions whenever a renderer is requested.,2009-11-17 11:50:56
+86,305492,GEF3D,draw3d,gef3d.draw3d-inbox,RESOLVED,FIXED,Bold fonts are not correctly rendered,2010-03-16 06:35:50
+87,315900,GEF3D,draw3d,gef3d.draw3d-inbox,RESOLVED,FIXED,Fix clipping related problems (with GEF/Draw2D 3.6),2011-04-02 10:31:40
+88,336898,GEF3D,draw3d,gef3d.draw3d-inbox,RESOLVED,FIXED,Matrix inversion code does not always work,2011-02-11 04:00:04
+89,367718,GEF3D,draw3d,gef3d.draw3d-inbox,RESOLVED,FIXED,Hangs on render graphics under Mac OS X,2012-04-26 14:14:11
+90,272667,GEF3D,examples,gef3d.examples-inbox,RESOLVED,FIXED,Connections are not drawn in  UML Tools 3D examples,2009-04-17 06:58:08
+91,299763,GEF3D,examples,gef3d.examples-inbox,RESOLVED,FIXED,Error opening Activity or Use Case diagrams,2010-01-20 10:28:30
+92,317407,GEF3D,examples,gef3d.examples-inbox,RESOLVED,FIXED,Transactional editing domain may be be null preventing an editor from being created,2010-06-21 05:19:33
+93,261165,GEF3D,gef3d,gef3d.gef3d-inbox,RESOLVED,FIXED,Feedback figures don't work with rotated graph figures,2009-08-14 18:12:20
+94,261191,GEF3D,gef3d,gef3d.gef3d-inbox,RESOLVED,FIXED,Fix moving and resizing of 2D figures,2009-01-28 05:16:03
+95,261422,GEF3D,gef3d,gef3d.gef3d-inbox,RESOLVED,WORKSFORME,Application disappears on resize,2009-01-29 06:00:02
+96,264853,GEF3D,gef3d,gef3d.gef3d-inbox,RESOLVED,FIXED,"not running on Linux, ""Unsupported color depth""",2009-02-19 08:17:17
+97,315903,GEF3D,gef3d,gef3d.gef3d-inbox,RESOLVED,FIXED,Error in 3D-fied GMF editors: fig parameter must be attached to a parent,2010-06-06 10:23:07
+98,425814,GEF3D,gef3d,gef3d.gef3d-inbox,RESOLVED,WORKSFORME,Move Gef3d HTTPS to Gerrit,2014-02-18 15:00:23
+99,284365,GEF3D,misc,gef3d.releng-inbox,RESOLVED,DUPLICATE,JVM terminates following Upgrade jre1.6.0_7,2009-07-23 18:40:52
+100,261162,GEF3D,draw3d,kristian.duske,RESOLVED,FIXED,Graphics anti aliasing,2009-06-24 07:37:24
+101,261166,GEF3D,draw3d,kristian.duske,RESOLVED,WONTFIX,Implement advanced graphics features for GLGraphics,2009-05-31 09:44:47
+102,268643,GEF3D,draw3d,kristian.duske,RESOLVED,FIXED,Implement new GEF 3.5 features in Graphics subclasses,2009-06-24 07:37:48
+103,278515,GEF3D,draw3d,kristian.duske,RESOLVED,FIXED,Fix GLGraphics clipping behaviour,2009-05-31 09:40:44
+104,278642,GEF3D,draw3d,kristian.duske,RESOLVED,FIXED,"Background of 2D figures not painted correctly, did work",2009-06-03 07:30:28
+105,278663,GEF3D,draw3d,kristian.duske,RESOLVED,FIXED,Top plane of cuboids is not rendered,2009-06-01 15:44:49
+106,278988,GEF3D,draw3d,kristian.duske,RESOLVED,FIXED,"SyncedBounds3D and possible other classes store deltas in ints, which makes no sense",2009-06-03 15:02:25
+107,280977,GEF3D,draw3d,kristian.duske,RESOLVED,FIXED,Fix coordinate issues with mouse events and tools,2009-07-24 12:11:16
+108,283684,GEF3D,draw3d,kristian.duske,RESOLVED,FIXED,LwjglGraphics does not handle local coordinates systems (states) correctly,2009-07-24 12:13:08
+109,300199,GEF3D,draw3d,kristian.duske,RESOLVED,FIXED,Fix drawing of solid polygons,2010-01-22 11:57:18
+110,300314,GEF3D,draw3d,kristian.duske,RESOLVED,FIXED,replace 2D font textures with 3D vector fonts,2010-02-10 09:34:34
+111,300516,GEF3D,draw3d,kristian.duske,RESOLVED,FIXED,Fix drawing order of 2D content and 3D connections,2010-03-16 06:34:43
+112,301125,GEF3D,draw3d,kristian.duske,RESOLVED,FIXED,2D content is rendered superimposed,2010-06-24 07:42:39
+113,317559,GEF3D,draw3d,kristian.duske,RESOLVED,FIXED,backside of 2D content is not rendered correctly,2010-06-24 06:40:49
+114,297428,GEF3D,draw3d,developer,VERIFIED,FIXED,GEF3D can't load graphics library under runtime,2009-12-16 18:11:03
+115,300321,GEF3D,gef3d,developer,CLOSED,FIXED,"interactive rotation and 3D positioning (movement, resizing)",2011-04-27 05:31:44
+116,330543,GEF3D,draw3d,gef3d.draw3d-inbox,CLOSED,WONTFIX,Graphics3DX3D does not compile,2010-11-18 05:16:40
+117,336900,GEF3D,draw3d,gef3d.draw3d-inbox,CLOSED,INVALID,Matrix determinant algorithm is possibly wrong,2011-02-11 06:41:49
+118,269339,GEF3D,gef3d,gef3d.gef3d-inbox,CLOSED,FIXED,DirectEdit not working yet properly,2010-01-21 06:45:14
+119,350557,GEF3D,misc,gef3d.misc-inbox,CLOSED,FIXED,Move GEF3D to GIT,2011-10-04 04:27:39
+120,476309,GEF3D,releng,gef3d.releng-inbox,CLOSED,FIXED,Migrate or remove Hudson job on the shared instance,2015-09-08 02:17:25
+121,269340,GEF3D,draw3d,gef3d.draw3d-inbox,CLOSED,DUPLICATE,Scrolling planes are not supported yet,2010-01-21 06:34:36

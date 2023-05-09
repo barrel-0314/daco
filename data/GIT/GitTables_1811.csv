@@ -1,0 +1,7 @@
+,col0,col1,col2,col3,col4,col5
+0,org.apache.commons.lang.text.StrBuilder#String#getNullText#?#158,1.3333333333333333,0.0,1.3333333333333333,,_
+1,"org.apache.commons.lang.text.StrBuilder#StrBuilder#appendFixedWidthPadLeft#?,Object,int,char#1186",0.3333333333333333,0.0,0.3333333333333333,str.length()==width,GT
+2,"org.apache.commons.lang.text.StrBuilder#StrBuilder#appendFixedWidthPadRight#?,Object,int,char#1228",0.25,0.0,0.25,,GT
+3,org.apache.commons.lang.text.StrBuilder#?#StrBuilder#?#98,0.02836879432624113,0.0,0.02836879432624113,,_
+4,"org.apache.commons.lang.text.StrBuilder#?#StrBuilder#?,int#108",0.027777777777777776,0.0,0.027777777777777776,,_
+5,"org.apache.commons.lang.text.StrBuilder#StrBuilder#ensureCapacity#?,int#228",0.020942408376963352,0.0,0.020942408376963352,,_

@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<entity>
+    <logicalTable>
+        <content>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;House of Cards&lt;/td&gt;</html>
+                    <text>House of Cards</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Peter David&lt;/td&gt;</html>
+                    <text>Peter David</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;July 1997&lt;/td&gt;</html>
+                    <text>July 1997</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Into the Void&lt;/td&gt;</html>
+                    <text>Into the Void</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Peter David&lt;/td&gt;</html>
+                    <text>Peter David</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;July 1997&lt;/td&gt;</html>
+                    <text>July 1997</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;The Two - Front War&lt;/td&gt;</html>
+                    <text>The Two - Front War</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Peter David&lt;/td&gt;</html>
+                    <text>Peter David</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;August 1997&lt;/td&gt;</html>
+                    <text>August 1997</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;End Game&lt;/td&gt;</html>
+                    <text>End Game</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Peter David&lt;/td&gt;</html>
+                    <text>Peter David</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;August 1997&lt;/td&gt;</html>
+                    <text>August 1997</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Martyr&lt;/td&gt;</html>
+                    <text>Martyr</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Peter David&lt;/td&gt;</html>
+                    <text>Peter David</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;March 1998&lt;/td&gt;</html>
+                    <text>March 1998</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Fire on High&lt;/td&gt;</html>
+                    <text>Fire on High</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Peter David&lt;/td&gt;</html>
+                    <text>Peter David</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;April 1998&lt;/td&gt;</html>
+                    <text>April 1998</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Once Burned ( The Captain's Table&lt;/td&gt;</html>
+                    <text>Once Burned ( The Captain&amp;apos;s Table</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Peter David&lt;/td&gt;</html>
+                    <text>Peter David</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;October 1998&lt;/td&gt;</html>
+                    <text>October 1998</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;The Quiet Place&lt;/td&gt;</html>
+                    <text>The Quiet Place</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Peter David&lt;/td&gt;</html>
+                    <text>Peter David</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;November 1999&lt;/td&gt;</html>
+                    <text>November 1999</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Dark Allies&lt;/td&gt;</html>
+                    <text>Dark Allies</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Peter David&lt;/td&gt;</html>
+                    <text>Peter David</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;November 1999&lt;/td&gt;</html>
+                    <text>November 1999</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Requiem : Excalibur Book 1&lt;/td&gt;</html>
+                    <text>Requiem : Excalibur Book 1</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Peter David&lt;/td&gt;</html>
+                    <text>Peter David</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;August 2000&lt;/td&gt;</html>
+                    <text>August 2000</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Renaissance : Excalibur Book 2&lt;/td&gt;</html>
+                    <text>Renaissance : Excalibur Book 2</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Peter David&lt;/td&gt;</html>
+                    <text>Peter David</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;August 2000&lt;/td&gt;</html>
+                    <text>August 2000</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Restoration : Excalibur Book 3&lt;/td&gt;</html>
+                    <text>Restoration : Excalibur Book 3</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Peter David&lt;/td&gt;</html>
+                    <text>Peter David</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;October 2000&lt;/td&gt;</html>
+                    <text>October 2000</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Cold Wars ( Gateways&lt;/td&gt;</html>
+                    <text>Cold Wars ( Gateways</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Peter David&lt;/td&gt;</html>
+                    <text>Peter David</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;October 2001&lt;/td&gt;</html>
+                    <text>October 2001</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Being Human&lt;/td&gt;</html>
+                    <text>Being Human</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Peter David&lt;/td&gt;</html>
+                    <text>Peter David</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;November 2001&lt;/td&gt;</html>
+                    <text>November 2001</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Gods Above&lt;/td&gt;</html>
+                    <text>Gods Above</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Peter David&lt;/td&gt;</html>
+                    <text>Peter David</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;October 2003&lt;/td&gt;</html>
+                    <text>October 2003</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;No Limits&lt;/td&gt;</html>
+                    <text>No Limits</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Peter David&lt;/td&gt;</html>
+                    <text>Peter David</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;October 2003&lt;/td&gt;</html>
+                    <text>October 2003</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Stone and Anvil&lt;/td&gt;</html>
+                    <text>Stone and Anvil</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Peter David&lt;/td&gt;</html>
+                    <text>Peter David</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;October 2003&lt;/td&gt;</html>
+                    <text>October 2003</text>
+                </cell>
+            </row>
+        </content>
+    </logicalTable>
+</entity>

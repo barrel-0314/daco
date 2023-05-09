@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<entity>
+    <logicalTable>
+        <content>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Martin Sheen&lt;/td&gt;</html>
+                    <text>Martin Sheen</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Josiah &quot;Jed&quot; Bartlet&lt;/td&gt;</html>
+                    <text>Josiah &amp;quot;Jed&amp;quot; Bartlet</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;President of the United States&lt;/td&gt;</html>
+                    <text>President of the United States</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Stockard Channing&lt;/td&gt;</html>
+                    <text>Stockard Channing</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Abbey Bartlet&lt;/td&gt;</html>
+                    <text>Abbey Bartlet</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;First Lady&lt;/td&gt;</html>
+                    <text>First Lady</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;John Spencer&lt;/td&gt;</html>
+                    <text>John Spencer</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Leo McGarry&lt;/td&gt;</html>
+                    <text>Leo McGarry</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;White House Chief of Staff ( Seasons 1Ã¢ÂÂ6 )&lt;/td&gt;</html>
+                    <text>White House Chief of Staff ( Seasons 1Ã¢ÂÂ6 )</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Advisor to the President ( Season 6 ) ; Democratic candidate for Vice President of the United States in the 2006 election ( Season 6Ã¢ÂÂ )&lt;/td&gt;</html>
+                    <text>Advisor to the President ( Season 6 ) ; Democratic candidate for Vice President of the United States in the 2006 election ( Season 6Ã¢ÂÂ )</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Bradley Whitford&lt;/td&gt;</html>
+                    <text>Bradley Whitford</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Josh Lyman&lt;/td&gt;</html>
+                    <text>Josh Lyman</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Deputy White House Chief of Staff ( Seasons 1Ã¢ÂÂ6 )&lt;/td&gt;</html>
+                    <text>Deputy White House Chief of Staff ( Seasons 1Ã¢ÂÂ6 )</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Campaign Manager of Santos for President ( Season 6Ã¢ÂÂ )&lt;/td&gt;</html>
+                    <text>Campaign Manager of Santos for President ( Season 6Ã¢ÂÂ )</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Richard Schiff&lt;/td&gt;</html>
+                    <text>Richard Schiff</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Toby Ziegler&lt;/td&gt;</html>
+                    <text>Toby Ziegler</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Director of Communications&lt;/td&gt;</html>
+                    <text>Director of Communications</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Rob Lowe&lt;/td&gt;</html>
+                    <text>Rob Lowe</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Sam Seaborn&lt;/td&gt;</html>
+                    <text>Sam Seaborn</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Deputy Communications Director ( Seasons 1Ã¢ÂÂ4 )&lt;/td&gt;</html>
+                    <text>Deputy Communications Director ( Seasons 1Ã¢ÂÂ4 )</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Joshua Malina&lt;/td&gt;</html>
+                    <text>Joshua Malina</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Will Bailey&lt;/td&gt;</html>
+                    <text>Will Bailey</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Deputy Communications Director ( Seasons 4Ã¢ÂÂ5 )&lt;/td&gt;</html>
+                    <text>Deputy Communications Director ( Seasons 4Ã¢ÂÂ5 )</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Chief of Staff to the Vice President ( Season 5Ã¢ÂÂ )&lt;/td&gt;</html>
+                    <text>Chief of Staff to the Vice President ( Season 5Ã¢ÂÂ )</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Allison Janney&lt;/td&gt;</html>
+                    <text>Allison Janney</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;C . J . Cregg&lt;/td&gt;</html>
+                    <text>C . J . Cregg</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;White House Press Secretary ( Seasons 1Ã¢ÂÂ6 )&lt;/td&gt;</html>
+                    <text>White House Press Secretary ( Seasons 1Ã¢ÂÂ6 )</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;White House Chief of Staff ( Season 6Ã¢ÂÂ )&lt;/td&gt;</html>
+                    <text>White House Chief of Staff ( Season 6Ã¢ÂÂ )</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Janel Moloney&lt;/td&gt;</html>
+                    <text>Janel Moloney</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Donna Moss&lt;/td&gt;</html>
+                    <text>Donna Moss</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;DulÃÂ© Hill&lt;/td&gt;</html>
+                    <text>DulÃÂ© Hill</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Charlie Young&lt;/td&gt;</html>
+                    <text>Charlie Young</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Personal Aide to the President&lt;/td&gt;</html>
+                    <text>Personal Aide to the President</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Special Assistant to the White House Chief of Staff (&lt;/td&gt;</html>
+                    <text>Special Assistant to the White House Chief of Staff (</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Moira Kelly&lt;/td&gt;</html>
+                    <text>Moira Kelly</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Mandy Hampton&lt;/td&gt;</html>
+                    <text>Mandy Hampton</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;White House Media Consultant ( Season 1&lt;/td&gt;</html>
+                    <text>White House Media Consultant ( Season 1</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Mary McCormack&lt;/td&gt;</html>
+                    <text>Mary McCormack</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Kate Harper&lt;/td&gt;</html>
+                    <text>Kate Harper</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Deputy National Security Advisor&lt;/td&gt;</html>
+                    <text>Deputy National Security Advisor</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Jimmy Smits&lt;/td&gt;</html>
+                    <text>Jimmy Smits</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Matt Santos&lt;/td&gt;</html>
+                    <text>Matt Santos</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Democratic candidate for President of the United States in the 2006 election&lt;/td&gt;</html>
+                    <text>Democratic candidate for President of the United States in the 2006 election</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Alan Alda&lt;/td&gt;</html>
+                    <text>Alan Alda</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Arnold Vinick&lt;/td&gt;</html>
+                    <text>Arnold Vinick</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Republican candidate for President of the United States in the 2006 election (&lt;/td&gt;</html>
+                    <text>Republican candidate for President of the United States in the 2006 election (</text>
+                </cell>
+            </row>
+        </content>
+    </logicalTable>
+</entity>

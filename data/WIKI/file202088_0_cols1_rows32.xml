@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<entity>
+    <logicalTable>
+        <content>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;1 The Secret of the Old Clock&lt;/td&gt;</html>
+                    <text>1 The Secret of the Old Clock</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;1959&lt;/td&gt;</html>
+                    <text>1959</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;2 The Hidden Staircase&lt;/td&gt;</html>
+                    <text>2 The Hidden Staircase</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;1959&lt;/td&gt;</html>
+                    <text>1959</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;3 The Bungalow Mystery&lt;/td&gt;</html>
+                    <text>3 The Bungalow Mystery</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;1960&lt;/td&gt;</html>
+                    <text>1960</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;4 The Mystery at Lilac Inn&lt;/td&gt;</html>
+                    <text>4 The Mystery at Lilac Inn</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;1961&lt;/td&gt;</html>
+                    <text>1961</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;5 The Secret at Shadow Ranch&lt;/td&gt;</html>
+                    <text>5 The Secret at Shadow Ranch</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;1931&lt;/td&gt;</html>
+                    <text>1931</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;6 The Secret of Red Gate Farm&lt;/td&gt;</html>
+                    <text>6 The Secret of Red Gate Farm</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;1961&lt;/td&gt;</html>
+                    <text>1961</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;7 The Clue in the Diary&lt;/td&gt;</html>
+                    <text>7 The Clue in the Diary</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;1962&lt;/td&gt;</html>
+                    <text>1962</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;8 Nancy's Mysterious Letter&lt;/td&gt;</html>
+                    <text>8 Nancy&amp;apos;s Mysterious Letter</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;1932&lt;/td&gt;</html>
+                    <text>1932</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;9 The Sign of the Twisted Candles&lt;/td&gt;</html>
+                    <text>9 The Sign of the Twisted Candles</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;1933&lt;/td&gt;</html>
+                    <text>1933</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;10 The Password to Larkspur Lane&lt;/td&gt;</html>
+                    <text>10 The Password to Larkspur Lane</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;1933&lt;/td&gt;</html>
+                    <text>1933</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;11 The Clue of the Broken Locket&lt;/td&gt;</html>
+                    <text>11 The Clue of the Broken Locket</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;1934&lt;/td&gt;</html>
+                    <text>1934</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;12 The Message in the Hollow Oak&lt;/td&gt;</html>
+                    <text>12 The Message in the Hollow Oak</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;1935&lt;/td&gt;</html>
+                    <text>1935</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;13 The Mystery of the Ivory Charm&lt;/td&gt;</html>
+                    <text>13 The Mystery of the Ivory Charm</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;1936&lt;/td&gt;</html>
+                    <text>1936</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;14 The Whispering Statue&lt;/td&gt;</html>
+                    <text>14 The Whispering Statue</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;1937&lt;/td&gt;</html>
+                    <text>1937</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;15 The Haunted Bridge&lt;/td&gt;</html>
+                    <text>15 The Haunted Bridge</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;1937&lt;/td&gt;</html>
+                    <text>1937</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;16 The Clue of the Tapping Heels&lt;/td&gt;</html>
+                    <text>16 The Clue of the Tapping Heels</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;1939&lt;/td&gt;</html>
+                    <text>1939</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;17 The Mystery of the Brass - Bound Trunk&lt;/td&gt;</html>
+                    <text>17 The Mystery of the Brass - Bound Trunk</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;1940&lt;/td&gt;</html>
+                    <text>1940</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;18 The Mystery at the Moss - Covered Mansion&lt;/td&gt;</html>
+                    <text>18 The Mystery at the Moss - Covered Mansion</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;1941&lt;/td&gt;</html>
+                    <text>1941</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;19 The Quest of the Missing Map&lt;/td&gt;</html>
+                    <text>19 The Quest of the Missing Map</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;1942&lt;/td&gt;</html>
+                    <text>1942</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;20 The Clue in the Jewel Box&lt;/td&gt;</html>
+                    <text>20 The Clue in the Jewel Box</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;1943&lt;/td&gt;</html>
+                    <text>1943</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;21 The Secret in the Old Attic&lt;/td&gt;</html>
+                    <text>21 The Secret in the Old Attic</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;1944&lt;/td&gt;</html>
+                    <text>1944</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;22 The Clue in the Crumbling Wall&lt;/td&gt;</html>
+                    <text>22 The Clue in the Crumbling Wall</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;1945&lt;/td&gt;</html>
+                    <text>1945</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;23 The Mystery of the Tolling Bell&lt;/td&gt;</html>
+                    <text>23 The Mystery of the Tolling Bell</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;1946&lt;/td&gt;</html>
+                    <text>1946</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;24 The Clue in the Old Album&lt;/td&gt;</html>
+                    <text>24 The Clue in the Old Album</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;1947&lt;/td&gt;</html>
+                    <text>1947</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;25 The Ghost of Blackwood Hall&lt;/td&gt;</html>
+                    <text>25 The Ghost of Blackwood Hall</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;1948&lt;/td&gt;</html>
+                    <text>1948</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;26 The Clue of the Leaning Chimney&lt;/td&gt;</html>
+                    <text>26 The Clue of the Leaning Chimney</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;1949&lt;/td&gt;</html>
+                    <text>1949</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;27 The Secret of the Wooden lady&lt;/td&gt;</html>
+                    <text>27 The Secret of the Wooden lady</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;1950&lt;/td&gt;</html>
+                    <text>1950</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;28 The Clue of the Black Keys&lt;/td&gt;</html>
+                    <text>28 The Clue of the Black Keys</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;1951&lt;/td&gt;</html>
+                    <text>1951</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;29 The Mystery at the Ski Jump&lt;/td&gt;</html>
+                    <text>29 The Mystery at the Ski Jump</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;1952&lt;/td&gt;</html>
+                    <text>1952</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;30 The Clue of the Velvet Mask&lt;/td&gt;</html>
+                    <text>30 The Clue of the Velvet Mask</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;1953&lt;/td&gt;</html>
+                    <text>1953</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;31 The Ringmaster's Secret&lt;/td&gt;</html>
+                    <text>31 The Ringmaster&amp;apos;s Secret</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;1953&lt;/td&gt;</html>
+                    <text>1953</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;32 The Scarlet Slipper Mystery&lt;/td&gt;</html>
+                    <text>32 The Scarlet Slipper Mystery</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;1954&lt;/td&gt;</html>
+                    <text>1954</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+        </content>
+    </logicalTable>
+</entity>

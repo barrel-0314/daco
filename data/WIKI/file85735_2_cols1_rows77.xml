@@ -1,0 +1,1085 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<entity>
+    <logicalTable>
+        <content>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Edouard Daladier&lt;/td&gt;</html>
+                    <text>Edouard Daladier</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;statesman&lt;/td&gt;</html>
+                    <text>statesman</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Jacques Louis David&lt;/td&gt;</html>
+                    <text>Jacques Louis David</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;painter&lt;/td&gt;</html>
+                    <text>painter</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;EugÃÂ¨ne Delacroix&lt;/td&gt;</html>
+                    <text>EugÃÂ¨ne Delacroix</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;painter&lt;/td&gt;</html>
+                    <text>painter</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Gustave DorÃÂ©&lt;/td&gt;</html>
+                    <text>Gustave DorÃÂ©</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;graphic artist , lithographer&lt;/td&gt;</html>
+                    <text>graphic artist , lithographer</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Michel Drach&lt;/td&gt;</html>
+                    <text>Michel Drach</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;director , producer , screenwriter&lt;/td&gt;</html>
+                    <text>director , producer , screenwriter</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Marie Dubas&lt;/td&gt;</html>
+                    <text>Marie Dubas</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;singer&lt;/td&gt;</html>
+                    <text>singer</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Paul Dukas&lt;/td&gt;</html>
+                    <text>Paul Dukas</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;composer&lt;/td&gt;</html>
+                    <text>composer</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Isadora Duncan&lt;/td&gt;</html>
+                    <text>Isadora Duncan</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;dancer&lt;/td&gt;</html>
+                    <text>dancer</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Paul Eluard&lt;/td&gt;</html>
+                    <text>Paul Eluard</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;poet&lt;/td&gt;</html>
+                    <text>poet</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Max Ernst&lt;/td&gt;</html>
+                    <text>Max Ernst</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Surrealist and Expressionist artist&lt;/td&gt;</html>
+                    <text>Surrealist and Expressionist artist</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Alexandre FalguiÃÂ¨re&lt;/td&gt;</html>
+                    <text>Alexandre FalguiÃÂ¨re</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;sculptor , painter&lt;/td&gt;</html>
+                    <text>sculptor , painter</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Jean de la Fontaine&lt;/td&gt;</html>
+                    <text>Jean de la Fontaine</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;poet and writer&lt;/td&gt;</html>
+                    <text>poet and writer</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Loie Fuller&lt;/td&gt;</html>
+                    <text>Loie Fuller</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;pioneer of modern dance and theatrical lighting techniques&lt;/td&gt;</html>
+                    <text>pioneer of modern dance and theatrical lighting techniques</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Antonio de La Gandara&lt;/td&gt;</html>
+                    <text>Antonio de La Gandara</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;painter&lt;/td&gt;</html>
+                    <text>painter</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;ThÃÂ©odore GÃÂ©ricault&lt;/td&gt;</html>
+                    <text>ThÃÂ©odore GÃÂ©ricault</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;painter&lt;/td&gt;</html>
+                    <text>painter</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Stephane Grappelli&lt;/td&gt;</html>
+                    <text>Stephane Grappelli</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Jazz violinist&lt;/td&gt;</html>
+                    <text>Jazz violinist</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Yvette Guilbert&lt;/td&gt;</html>
+                    <text>Yvette Guilbert</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;music - hall singer&lt;/td&gt;</html>
+                    <text>music - hall singer</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Samuel Hahnemann&lt;/td&gt;</html>
+                    <text>Samuel Hahnemann</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;creator of homeopathy&lt;/td&gt;</html>
+                    <text>creator of homeopathy</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Sadegh Hedayat&lt;/td&gt;</html>
+                    <text>Sadegh Hedayat</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Iranian novelist&lt;/td&gt;</html>
+                    <text>Iranian novelist</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Jean Auguste Dominique Ingres&lt;/td&gt;</html>
+                    <text>Jean Auguste Dominique Ingres</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;painter&lt;/td&gt;</html>
+                    <text>painter</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Jean - Baptiste Isabey&lt;/td&gt;</html>
+                    <text>Jean - Baptiste Isabey</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;painter&lt;/td&gt;</html>
+                    <text>painter</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;LÃÂ©on Jouhaux&lt;/td&gt;</html>
+                    <text>LÃÂ©on Jouhaux</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;trade unionist&lt;/td&gt;</html>
+                    <text>trade unionist</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Rodolphe Kreutzer&lt;/td&gt;</html>
+                    <text>Rodolphe Kreutzer</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;violinist&lt;/td&gt;</html>
+                    <text>violinist</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Rene Lalique&lt;/td&gt;</html>
+                    <text>Rene Lalique</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;artist in glass&lt;/td&gt;</html>
+                    <text>artist in glass</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Jean - FranÃÂ§ois Lyotard&lt;/td&gt;</html>
+                    <text>Jean - FranÃÂ§ois Lyotard</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;philosopher and literary theorist&lt;/td&gt;</html>
+                    <text>philosopher and literary theorist</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Etienne Macdonald&lt;/td&gt;</html>
+                    <text>Etienne Macdonald</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Marshal of France&lt;/td&gt;</html>
+                    <text>Marshal of France</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Nestor Makhno&lt;/td&gt;</html>
+                    <text>Nestor Makhno</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Ukrainian anarchist , revolutionary&lt;/td&gt;</html>
+                    <text>Ukrainian anarchist , revolutionary</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Constance Mayer - LamartiniÃÂ¨re&lt;/td&gt;</html>
+                    <text>Constance Mayer - LamartiniÃÂ¨re</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;painter&lt;/td&gt;</html>
+                    <text>painter</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Maurice Merleau - Ponty&lt;/td&gt;</html>
+                    <text>Maurice Merleau - Ponty</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;philosopher&lt;/td&gt;</html>
+                    <text>philosopher</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Georges MÃÂ©liÃÂ¨s&lt;/td&gt;</html>
+                    <text>Georges MÃÂ©liÃÂ¨s</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;pioneer filmmaker&lt;/td&gt;</html>
+                    <text>pioneer filmmaker</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Jules Michelet&lt;/td&gt;</html>
+                    <text>Jules Michelet</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;historian&lt;/td&gt;</html>
+                    <text>historian</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Amedeo Modigliani&lt;/td&gt;</html>
+                    <text>Amedeo Modigliani</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;painter and sculptor&lt;/td&gt;</html>
+                    <text>painter and sculptor</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;MoliÃÂ¨re&lt;/td&gt;</html>
+                    <text>MoliÃÂ¨re</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Dramatist&lt;/td&gt;</html>
+                    <text>Dramatist</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Gaspard Monge&lt;/td&gt;</html>
+                    <text>Gaspard Monge</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;mathematician&lt;/td&gt;</html>
+                    <text>mathematician</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Yves Montand&lt;/td&gt;</html>
+                    <text>Yves Montand</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;actor&lt;/td&gt;</html>
+                    <text>actor</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Jim Morrison&lt;/td&gt;</html>
+                    <text>Jim Morrison</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;American singer , songwriter , and poet&lt;/td&gt;</html>
+                    <text>American singer , songwriter , and poet</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Alfred de Musset&lt;/td&gt;</html>
+                    <text>Alfred de Musset</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;writer&lt;/td&gt;</html>
+                    <text>writer</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;FÃÂ©lix Nadar&lt;/td&gt;</html>
+                    <text>FÃÂ©lix Nadar</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;photographer&lt;/td&gt;</html>
+                    <text>photographer</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;GÃÂ©rard de Nerval&lt;/td&gt;</html>
+                    <text>GÃÂ©rard de Nerval</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;poet and translator&lt;/td&gt;</html>
+                    <text>poet and translator</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Anne de Noailles&lt;/td&gt;</html>
+                    <text>Anne de Noailles</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;writer&lt;/td&gt;</html>
+                    <text>writer</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Charles Nodier&lt;/td&gt;</html>
+                    <text>Charles Nodier</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;writer&lt;/td&gt;</html>
+                    <text>writer</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Jean Nohain&lt;/td&gt;</html>
+                    <text>Jean Nohain</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;lyricist&lt;/td&gt;</html>
+                    <text>lyricist</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Victor Noir&lt;/td&gt;</html>
+                    <text>Victor Noir</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;journalist&lt;/td&gt;</html>
+                    <text>journalist</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Joseph Louis Gay - Lussac&lt;/td&gt;</html>
+                    <text>Joseph Louis Gay - Lussac</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Physicist&lt;/td&gt;</html>
+                    <text>Physicist</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Max OphÃÂ¼ls&lt;/td&gt;</html>
+                    <text>Max OphÃÂ¼ls</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;film director&lt;/td&gt;</html>
+                    <text>film director</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Michel Petrucciani&lt;/td&gt;</html>
+                    <text>Michel Petrucciani</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;jazz pianist&lt;/td&gt;</html>
+                    <text>jazz pianist</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;ÃÂdith Piaf&lt;/td&gt;</html>
+                    <text>ÃÂdith Piaf</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;singer&lt;/td&gt;</html>
+                    <text>singer</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Christian Pineau&lt;/td&gt;</html>
+                    <text>Christian Pineau</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Resistance worker , statesman&lt;/td&gt;</html>
+                    <text>Resistance worker , statesman</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Ignace Pleyel&lt;/td&gt;</html>
+                    <text>Ignace Pleyel</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;composer&lt;/td&gt;</html>
+                    <text>composer</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Elvire Popesco&lt;/td&gt;</html>
+                    <text>Elvire Popesco</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;actress&lt;/td&gt;</html>
+                    <text>actress</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Francis Poulenc&lt;/td&gt;</html>
+                    <text>Francis Poulenc</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;composer&lt;/td&gt;</html>
+                    <text>composer</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Marcel Proust&lt;/td&gt;</html>
+                    <text>Marcel Proust</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;writer&lt;/td&gt;</html>
+                    <text>writer</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Mlle Rachel&lt;/td&gt;</html>
+                    <text>Mlle Rachel</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;actress&lt;/td&gt;</html>
+                    <text>actress</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Pierre - Paul Prud'hon&lt;/td&gt;</html>
+                    <text>Pierre - Paul Prud&amp;apos;hon</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;painter&lt;/td&gt;</html>
+                    <text>painter</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Norbert Rillieux&lt;/td&gt;</html>
+                    <text>Norbert Rillieux</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;inventor&lt;/td&gt;</html>
+                    <text>inventor</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Georges Rodenbach&lt;/td&gt;</html>
+                    <text>Georges Rodenbach</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Symbolist poet and novelist&lt;/td&gt;</html>
+                    <text>Symbolist poet and novelist</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Gioacchino Rossini&lt;/td&gt;</html>
+                    <text>Gioacchino Rossini</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;composer&lt;/td&gt;</html>
+                    <text>composer</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Claude de Saint - Simon&lt;/td&gt;</html>
+                    <text>Claude de Saint - Simon</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;economist&lt;/td&gt;</html>
+                    <text>economist</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Georges Seurat&lt;/td&gt;</html>
+                    <text>Georges Seurat</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;artist&lt;/td&gt;</html>
+                    <text>artist</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Simone Signoret&lt;/td&gt;</html>
+                    <text>Simone Signoret</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;actress&lt;/td&gt;</html>
+                    <text>actress</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Alexandre Stavinsky&lt;/td&gt;</html>
+                    <text>Alexandre Stavinsky</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;embezzler&lt;/td&gt;</html>
+                    <text>embezzler</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Gertrude Stein&lt;/td&gt;</html>
+                    <text>Gertrude Stein</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;writer&lt;/td&gt;</html>
+                    <text>writer</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Alice B . Toklas&lt;/td&gt;</html>
+                    <text>Alice B . Toklas</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;writer&lt;/td&gt;</html>
+                    <text>writer</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Maurice Tourneur&lt;/td&gt;</html>
+                    <text>Maurice Tourneur</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;film director&lt;/td&gt;</html>
+                    <text>film director</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Marie Trintignant&lt;/td&gt;</html>
+                    <text>Marie Trintignant</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;actress&lt;/td&gt;</html>
+                    <text>actress</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Rafael LeÃÂ³nidas Trujillo&lt;/td&gt;</html>
+                    <text>Rafael LeÃÂ³nidas Trujillo</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;dictator&lt;/td&gt;</html>
+                    <text>dictator</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Jules VallÃÂ©s&lt;/td&gt;</html>
+                    <text>Jules VallÃÂ©s</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;writer&lt;/td&gt;</html>
+                    <text>writer</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Charles Henry VerHuell&lt;/td&gt;</html>
+                    <text>Charles Henry VerHuell</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Admiral&lt;/td&gt;</html>
+                    <text>Admiral</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Richard Wallace&lt;/td&gt;</html>
+                    <text>Richard Wallace</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;art collector&lt;/td&gt;</html>
+                    <text>art collector</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Oscar Wilde&lt;/td&gt;</html>
+                    <text>Oscar Wilde</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;writer&lt;/td&gt;</html>
+                    <text>writer</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Richard Wright&lt;/td&gt;</html>
+                    <text>Richard Wright</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;writer&lt;/td&gt;</html>
+                    <text>writer</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Achille Zavatta&lt;/td&gt;</html>
+                    <text>Achille Zavatta</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;clown&lt;/td&gt;</html>
+                    <text>clown</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;FÃÂ©lix Ziem&lt;/td&gt;</html>
+                    <text>FÃÂ©lix Ziem</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;painter&lt;/td&gt;</html>
+                    <text>painter</text>
+                </cell>
+            </row>
+        </content>
+    </logicalTable>
+</entity>

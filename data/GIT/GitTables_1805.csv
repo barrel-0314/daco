@@ -1,0 +1,8 @@
+,col0,col1,col2,col3,col4,col5
+0,"org.jfree.data.time.TimeSeries#TimeSeries#createCopy#?,int,int#880",1.0,1.0,0.8,,_
+1,org.jfree.data.time.TimeSeries#Object#clone#?#857,0.5,0.0,0.4,,GT
+2,"org.jfree.data.time.TimeSeries#?#TimeSeries#?,Comparable#140",0.1,0.0,0.08000000000000003,,_
+3,org.jfree.data.time.TimeSeries#int#getItemCount#?#238,0.04166666666666666,0.047619047619047616,0.042857142857142864,this.data.size()==0,_
+4,"org.jfree.data.time.TimeSeries#?#TimeSeries#?,Comparable,String,String,Class#175",0.038461538461538464,0.0,0.030769230769230767,,_
+5,"org.jfree.data.general.Series#?#Series#?,Comparable,String#112",0.004016064257028112,0.004016064257028112,0.004016064257028112,!(key == null),_
+6,"org.jfree.data.general.Series#?#Series#?,Comparable#102",0.004016064257028112,0.0,0.0032128514056224897,,_

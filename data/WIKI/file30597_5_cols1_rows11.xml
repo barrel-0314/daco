@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<entity>
+    <logicalTable>
+        <content>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;1 digit&lt;/td&gt;</html>
+                    <text>1 digit</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;digitus&lt;/td&gt;</html>
+                    <text>digitus</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;18 . 44 mm&lt;/td&gt;</html>
+                    <text>18 . 44 mm</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;1 inch&lt;/td&gt;</html>
+                    <text>1 inch</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;uncia&lt;/td&gt;</html>
+                    <text>uncia</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;24 . 58 mm&lt;/td&gt;</html>
+                    <text>24 . 58 mm</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;1 small palm&lt;/td&gt;</html>
+                    <text>1 small palm</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;minor palmus&lt;/td&gt;</html>
+                    <text>minor palmus</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;1 large palm&lt;/td&gt;</html>
+                    <text>1 large palm</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;major palmus&lt;/td&gt;</html>
+                    <text>major palmus</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;1 foot&lt;/td&gt;</html>
+                    <text>1 foot</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;pes&lt;/td&gt;</html>
+                    <text>pes</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;295 mm&lt;/td&gt;</html>
+                    <text>295 mm</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;1 cubit&lt;/td&gt;</html>
+                    <text>1 cubit</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;cubitus&lt;/td&gt;</html>
+                    <text>cubitus</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;1 pace&lt;/td&gt;</html>
+                    <text>1 pace</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;passus&lt;/td&gt;</html>
+                    <text>passus</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;decempeda&lt;/td&gt;</html>
+                    <text>decempeda</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;actus&lt;/td&gt;</html>
+                    <text>actus</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;stadium&lt;/td&gt;</html>
+                    <text>stadium</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;184 . 4 m&lt;/td&gt;</html>
+                    <text>184 . 4 m</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;milliarium&lt;/td&gt;</html>
+                    <text>milliarium</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;+ / - 1475 m&lt;/td&gt;</html>
+                    <text>+ / - 1475 m</text>
+                </cell>
+            </row>
+        </content>
+    </logicalTable>
+</entity>

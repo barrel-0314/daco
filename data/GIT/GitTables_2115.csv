@@ -1,0 +1,30 @@
+,col0,col1,col2
+0,DocType: Lead,Lead,Bly
+1,apps/erpnext/erpnext/config/selling.py +153,Default settings for selling transactions.,Standardindstillinger for at sælge transaktioner.
+2,DocType: Timesheet,% Amount Billed,% Beløb Billed
+3,DocType: Purchase Order,% Billed,% Billed
+4,,Lead Id,Bly Id
+5,apps/erpnext/erpnext/accounts/doctype/payment_order/payment_order.py +87,{0} {1} created,{0} {1} creado
+6,apps/erpnext/erpnext/accounts/report/accounts_receivable/accounts_receivable.html +215,'Total','Total'
+7,DocType: Selling Settings,Selling Settings,Salg af indstillinger
+8,apps/erpnext/erpnext/accounts/report/gross_profit/gross_profit.py +69,Selling Amount,Selling Beløb
+9,apps/erpnext/erpnext/crm/doctype/opportunity/opportunity.py +192,Lead must be set if Opportunity is made from Lead,"Bly skal indstilles, hvis Opportunity er lavet af Lead"
+10,DocType: Item Default,Default Selling Cost Center,Standard Selling Cost center
+11,apps/erpnext/erpnext/accounts/report/payment_period_based_on_invoice_date/payment_period_based_on_invoice_date.py +64,90-Above,90-Above
+12,DocType: Pricing Rule,Selling,Selling
+13,apps/erpnext/erpnext/accounts/page/pos/pos.js +79, to ,Ultima Actualización : Fecha inválida
+14,DocType: Sales Order,%  Delivered,% Leveres
+15,DocType: Lead,Lead Owner,Bly Owner
+16,apps/erpnext/erpnext/controllers/stock_controller.py +240,{0} {1}: Cost Center is mandatory for Item {2},{0} {1}: Udgiftområde er obligatorisk for varen {2}
+17,apps/erpnext/erpnext/config/selling.py +169,Tax template for selling transactions.,Skat skabelon til at sælge transaktioner.
+18,apps/erpnext/erpnext/controllers/accounts_controller.py +362, or ,o
+19,DocType: Sales Order,% of materials billed against this Sales Order,% Af materialer faktureret mod denne Sales Order
+20,DocType: SMS Center,All Lead (Open),Alle Bly (Open)
+21,apps/erpnext/erpnext/templates/includes/footer/footer_extension.html +7,Get Updates,Hent opdateringer
+22,apps/erpnext/erpnext/controllers/sales_and_purchase_return.py +46,'Update Stock' can not be checked because items are not delivered via {0},"'Opdater lager' kan ikke markeres, varerne ikke leveres via {0}"
+23,apps/erpnext/erpnext/patches/v4_0/create_price_list_if_missing.py +21,Standard Selling,Standard Selling
+24,,Lead Details,Bly Detaljer
+25,DocType: Selling Settings,Settings for Selling Module,Indstillinger for Selling modul
+26,,Lead Name,Bly navn
+27,DocType: Vehicle Service,Half Yearly,Halvdelen Årlig
+28,DocType: Rename Tool,"Attach .csv file with two columns, one for the old name and one for the new name","Vedhæfte .csv fil med to kolonner, en for det gamle navn og et til det nye navn"

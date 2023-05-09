@@ -1,0 +1,336 @@
+,col0,col1,col2
+0,Q63065035,abandoned,Key:abandoned:
+1,P4856,conscription number,Key:addr:conscriptionnumber
+2,Q877895,conscription number,Key:addr:conscriptionnumber
+3,P17,country,Key:addr:country
+4,P670,street number,Key:addr:housenumber
+5,P281,postal code,Key:addr:postcode
+6,Q19376249,provisional house number in the Czech Republic,Key:addr:provisionalnumber
+7,P669,located on street,Key:addr:street
+8,Q1640962,street or road name,Key:addr:street
+9,P670,street number,Key:addr:streetnumber
+10,Q18915527,street number,Key:addr:streetnumber
+11,Q56061,administrative territorial entity,Key:admin_level
+12,Q1054650,cable transport,Key:aerialway
+13,Q20977775,air transport infrastructure,Key:aeroway
+14,Q173725,air conditioning,Key:air_conditioning
+15,P912,has facility,Key:amenity
+16,Q13226383,facility,Key:amenity
+17,Q42973,architect,Key:architect
+18,Q42973,architect,Key:architect:wikidata
+19,Q483501,artist,Key:artist_name
+20,P170,creator,Key:artist:wikidata
+21,Q1406161,artistic theme,Key:artwork_subject
+22,Q81715,barricade,Key:barrier
+23,Q264661,obstacle,Key:barrier
+24,Q11442,bicycle,Key:bicycle
+25,Q1410110,branch,Key:branch
+26,Q431289,brand,Key:brand
+27,P1716,brand,Key:brand:wikidata
+28,Q131734,brewery,Key:brewery
+29,Q15075508,beer brand,Key:brewery
+30,Q12280,bridge,Key:bridge
+31,Q7814330,toll bridge,Key:bridge
+32,Q17644823,bridge by structural type,Key:bridge:structure
+33,Q41176,building,Key:building
+34,P1101,floors above ground,Key:building:levels
+35,P186,material used,Key:building:material
+36,Q353659,call sign,Key:callsign
+37,Q1780834,changing table,Key:changing_table
+38,Q1141067,comment,Key:comment
+39,Q12377751,under construction,Key:construction:
+40,Q12377751,under construction,Key:construction:building
+41,P968,e-mail address,Key:contact:email
+42,P2013,Facebook ID,Key:contact:facebook
+43,Q355,Facebook,Key:contact:facebook
+44,P2900,fax number,Key:contact:fax
+45,P1968,Foursquare venue ID,Key:contact:foursquare
+46,P2847,Google+ ID,Key:contact:google_plus
+47,P2003,Instagram username,Key:contact:instagram
+48,Q213660,LinkedIn,Key:contact:linkedin
+49,P4033,Mastodon address,Key:contact:mastodon
+50,P1329,phone number,Key:contact:phone
+51,Q214995,telephone number,Key:contact:phone
+52,P3836,Pinterest username,Key:contact:pinterest
+53,P3789,Telegram username,Key:contact:telegram
+54,P3134,TripAdvisor ID,Key:contact:tripadvisor
+55,P2002,Twitter username,Key:contact:twitter
+56,P4238,webcam page URL,Key:contact:webcam
+57,P3108,Yelp ID,Key:contact:yelp
+58,P17,country,Key:country
+59,Q64779666,sending state or organization,Key:country
+60,P101,field of work,Key:craft
+61,Q2207288,craft,Key:craft
+62,Q235352,crop,Key:crop
+63,P2012,cuisine,Key:cuisine
+64,Q1778821,cuisine,Key:cuisine
+65,Q8142,currency,Key:currency
+66,Q16068,Deutsche Mark,Key:currency:DEM
+67,Q15377916,Dogecoin,Key:currency:DOGE
+68,Q4916,euro,Key:currency:EUR
+69,Q131473,Icelandic króna,Key:currency:ISK
+70,Q8146,Japanese yen,Key:currency:JPY
+71,Q4043030,Litecoin,Key:currency:LTC
+72,Q41044,Russian ruble,Key:currency:RUB
+73,Q4917,United States dollar,Key:currency:USD
+74,Q131723,Bitcoin,Key:currency:XBT
+75,Q55290870,Tezos,Key:currency:XTZ
+76,Q27148141,Zcash,Key:currency:ZEC
+77,Q1308978,cut,Key:cutting
+78,Q1249483,cyclestreet,Key:cyclestreet
+79,P439,German municipality key,Key:de:amtlicher_gemeindeschluessel
+80,Q46042059,German regional key,Key:de:regionalschluessel
+81,Q2334804,delivery,Key:delivery
+82,P140,religion,Key:denomination
+83,Q1191753,bus garage,Key:depot
+84,Q1200750,description,Key:description
+85,Q177823,halal,Key:diet:halal
+86,Q85536643,halal diet,Key:diet:halal
+87,Q1076110,kosher foods,Key:diet:kosher
+88,Q181138,veganism,Key:diet:vegan
+89,Q1889,diplomacy,Key:diplomatic
+90,Q170404,visa,Key:diplomatic:services:immigrant_visas
+91,Q170404,visa,Key:diplomatic:services:non-immigrant_visas
+92,Q1741425,linear referencing,Key:distance
+93,Q47519700,vacant shop,Key:disused:shop
+94,Q36794,door,Key:door
+95,Q1195412,drive-in,Key:drive_in
+96,Q14253958,drive-through,Key:drive_through
+97,P2044,elevation above sea level,Key:ele
+98,Q6452016,height above mean sea level,Key:ele:local
+99,Q6452016,height above mean sea level,Key:ele:regional
+100,Q388201,railway electrification system,Key:electrified
+101,P968,e-mail address,Key:email
+102,Q9158,email,Key:email
+103,Q892168,causeway,Key:embankment
+104,P576,dissolved abolished or demolished,Key:end_date
+105,P582,end time,Key:end_date
+106,Q1137365,entrance,Key:entrance
+107,Q143,Esperanto,Key:esperanto
+108,Q355,Facebook,Key:facebook
+109,P2900,fax number,Key:fax
+110,P2555,fee,Key:fee
+111,Q11765,fee,Key:fee
+112,Q14373,fishing,Key:fishing
+113,Q994972,FIXME,Key:fixme
+114,Q12743,ford,Key:ford
+115,Q388201,railway electrification system,Key:frequency
+116,P1064,track gauge,Key:gauge
+117,Q214519,track gauge,Key:gauge
+118,Q34740,genus,Key:genus
+119,P590,GNIS ID,Key:gnis:feature_id
+120,Q31207,health care,Key:healthcare
+121,P2048,height,Key:height
+122,Q34442,road,Key:highway
+123,Q57977870,highway,Key:highway
+124,Q1081138,historic site,Key:historic
+125,Q51369558,historic geographical object,Key:historic
+126,Q8432,civilization,Key:historic:civilization
+127,P238,IATA airport code,Key:iata
+128,Q192824,IATA airport code,Key:iata
+129,P239,ICAO airport code,Key:icao
+130,Q13233,ice cream,Key:ice_cream
+131,Q182555,ice road,Key:ice_road
+132,P18,image,Key:image
+133,Q478798,image,Key:image
+134,P4184,slope,Key:incline
+135,Q616765,inline skates,Key:inline_skates
+136,P1684,inscription,Key:inscription
+137,Q1640824,inscription,Key:inscription
+138,Q39508083,intermittent body of water,Key:intermittent
+139,Q1777515,junction,Key:junction
+140,Q37442,curb,Key:kerb
+141,P1077,KOATUU identifier,Key:koatuu
+142,Q1165944,land use,Key:landuse
+143,Q34770,language,Key:language
+144,Q188,German,Key:language:de
+145,Q143,Esperanto,Key:language:eo
+146,Q1321,Spanish,Key:language:es
+147,Q150,French,Key:language:fr
+148,Q809,Polish,Key:language:pl
+149,Q7913,Romanian,Key:language:ro
+150,Q7737,Russian,Key:language:ru
+151,Q256,Turkish,Key:language:tr
+152,Q47520921,leisure facility,Key:leisure
+153,P2043,length,Key:length
+154,Q17884,LGBT,Key:lgbtq
+155,Q2221906,geographic location,Key:location
+156,Q105731,lock,Key:lock
+157,Q16686448,artificial entity,Key:man_made
+158,Q532998,manhole,Key:manhole
+159,P1947,Mapillary ID,Key:mapillary
+160,Q214609,base material,Key:material
+161,P4135,maximum age,Key:max_age
+162,P1684,inscription,Key:memorial:text
+163,Q8473,military,Key:military
+164,Q18691599,military facility,Key:military
+165,P2899,minimum age,Key:min_age
+166,Q10464329,bicycle counter,Key:monitoring:bicycle
+167,Q190107,weather station,Key:monitoring:weather
+168,Q22713653,mooring,Key:mooring
+169,Q82799,name,Key:name
+170,Q20482247,Q20482247,Key:name:eo
+171,Q204335,eponym,Key:name:etymology
+172,Q21204,International Phonetic Alphabet,Key:name:pronunciation
+173,P882,FIPS 6-4 (US counties),Key:nist:fips_code
+174,Q1619873,note,Key:note
+175,P6082,NYC Building Identification Number (BIN),Key:nycdoitt:bin
+176,Q1021645,office building,Key:office
+177,P1448,official name,Key:official_name
+178,Q47526250,OpenBenches,Key:openbenches:id
+179,P3025,open days,Key:opening_hours
+180,P3027,open period from,Key:opening_hours
+181,P3028,open period to,Key:opening_hours
+182,P1893,OpenPlaques plaque ID,Key:openplaques:id
+183,Q23018437,Open Plaques,Key:openplaques:id
+184,Q29933786,operator,Key:operator
+185,P137,operator,Key:operator:wikidata
+186,Q738031,park and ride,Key:park_ride
+187,Q1148747,payment,Key:payment
+188,Q493556,Alipay,Key:payment:alipay
+189,Q24228273,American Express credit card,Key:payment:american_express
+190,Q18010990,Apple Pay,Key:payment:apple_pay
+191,Q19621559,Bancomat,Key:payment:bancomat
+192,Q17749859,BankAxept,Key:payment:bankaxept
+193,Q131723,Bitcoin,Key:payment:bitcoin
+194,Q625903,contactless payment,Key:payment:contactless
+195,Q161380,credit card,Key:payment:credit_cards
+196,Q13479982,cryptocurrency,Key:payment:cryptocurrencies
+197,Q13499,debit card,Key:payment:debit_cards
+198,Q50612448,Diners Club credit card,Key:payment:diners_club
+199,Q1228562,Discover Card,Key:payment:discover_card
+200,Q15377916,Dogecoin,Key:payment:dogecoin
+201,Q800074,E-ZPass,Key:payment:e_zpass
+202,Q5358217,Electronic Benefit Transfer,Key:payment:ebt
+203,Q20313208,Beep,Key:payment:ep_beep
+204,Q2792191,Geldkarte,Key:payment:ep_geldkarte
+205,Q11202882,Monedero,Key:payment:ep_monedero
+206,Q554910,gift card,Key:payment:gift_card
+207,Q1406930,Girocard,Key:payment:girocard
+208,Q19834616,Google Pay,Key:payment:google_pay
+209,Q50612088,JCB credit card,Key:payment:jcb
+210,Q60989078,Q60989078,Key:payment:LINE_Pay
+211,Q4043030,Litecoin,Key:payment:litecoin
+212,Q1350133,Maestro,Key:payment:maestro
+213,Q24228272,Mastercard credit card,Key:payment:mastercard
+214,Q1449340,meal voucher,Key:payment:meal_voucher
+215,Q2550595,OV-chipkaart,Key:payment:OV-Chipkaart
+216,Q249400,Oyster card,Key:payment:oyster
+217,Q483959,PayPal,Key:payment:paypal
+218,Q56348149,PayPay,Key:payment:paypay
+219,Q28407514,Peach Pass,Key:payment:peach_pass
+220,Q17591173,Q17591173,Key:payment:postfinance_card
+221,Q22328294,Samsung Pay,Key:payment:samsung_pay
+222,Q2160381,Service voucher,Key:payment:service_voucher
+223,Q43024,Short Message Service,Key:payment:sms
+224,Q556318,Supplemental Nutrition Assistance Program,Key:payment:snap
+225,Q7394941,SUBE card,Key:payment:sube
+226,Q7638154,SunPass,Key:payment:sunpass
+227,Q1301892,Q1301892,Key:payment:szep
+228,Q1122035,telephone card,Key:payment:telephone_cards
+229,Q751944,token coin,Key:payment:token_coin
+230,Q15145883,Troika card,Key:payment:troika
+231,Q7862905,U-Key,Key:payment:u-key
+232,Q719625,UnionPay,Key:payment:unionpay
+233,Q2507012,V PAY,Key:payment:v_pay
+234,Q24228271,VISA credit card,Key:payment:visa
+235,Q3521248,Visa Debit,Key:payment:visa_debit
+236,Q2993698,Visa Electron,Key:payment:visa_electron
+237,Q59426035,WeChat Pay,Key:payment:wechat
+238,Q620463,WIC,Key:payment:wic
+239,Q334501,wire transfer,Key:payment:wire_transfer
+240,P1329,phone number,Key:phone
+241,P1082,population,Key:population
+242,P281,postal code,Key:postal_code
+243,Q1913301,produce,Key:produce
+244,Q2424752,product,Key:product
+245,Q378445,rack railway,Key:rack
+246,Q350783,rail guided transport,Key:railway
+247,Q1741425,linear referencing,Key:railway:position
+248,P5105,Deutsche Bahn station category,Key:railway:station_category
+249,Q2271554,point heating,Key:railway:switch:heated
+250,Q1532594,power rating,Key:rating
+251,Q1334113,reference data type,Key:ref
+252,P3562,Admiralty number,Key:ref:admiralty
+253,P2980,ARLHS Lighthouse ID,Key:ref:arlhs
+254,P2951,Cultural heritage database in Austria ObjektID,Key:ref:at:bda
+255,P2951,Cultural heritage database in Austria ObjektID,Key:ref:AT:bda
+256,P964,Austrian municipality key,Key:ref:at:gkz
+257,P5208,BAG building ID,Key:ref:bag
+258,P3920,Canadian Coastguard Lighthouse ID,Key:ref:ccg
+259,P4755,UK railway station code,Key:ref:crs
+260,P2253,DfE URN,Key:ref:edubase
+261,P3863,Italian Navy Lighthouses and Beacons ID,Key:ref:ef
+262,P4058,FINESS medical facility ID,Key:ref:FR:FINESS
+263,Q25387536,MémorialGenWeb,Key:ref:FR:MemorialGenWeb
+264,P3215,SIRET number,Key:ref:FR:SIRET
+265,Q207529,ICAO airport code,Key:ref:icao
+266,P374,INSEE municipality code,Key:ref:INSEE
+267,P791,ISIL,Key:ref:isil
+268,Q470458,International Standard Identifier for Libraries and Related Organizations,Key:ref:isil
+269,P380,Mérimée ID,Key:ref:mhs
+270,P3563,NGA Lighthouse ID,Key:ref:nga
+271,P649,NRHP reference number,Key:ref:nrhp
+272,P1764,FOIH relict ID,Key:ref:OnroerendErfgoed
+273,P359,Rijksmonument ID,Key:ref:rce
+274,P7526,Czech cadastral area ID,Key:ref:ruian
+275,P7606,Czech municipality ID,Key:ref:ruian
+276,P4533,Czech street ID,Key:ref:ruian:street
+277,P1717,SANDRE ID,Key:ref:sandre
+278,P3723,USCG Lighthouse ID,Key:ref:uscg
+279,P3608,EU VAT number,Key:ref:vatin
+280,Q2319042,VAT identification number,Key:ref:vatin
+281,P757,World Heritage Site ID,Key:ref:whc
+282,P4136,WIGOS station ID,Key:ref:wigos
+283,P981,BAG residence ID,Key:ref:woonplaatscode
+284,Q323678,Regelbau,Key:regelbau
+285,P140,religion,Key:religion
+286,Q2144962,repair,Key:repair
+287,Q188460,natural resource,Key:resource
+288,Q1156686,roof shape,Key:roof:shape
+289,Q180516,room,Key:room
+290,Q90416196,face masks during the 2019–20 coronavirus pandemic,Key:safety:mask:covid19
+291,P587,MMSI,Key:seamark:radio_station:mmsi
+292,P587,MMSI,Key:seamark:virtual_aton:mmsi
+293,Q2111082,seasonality,Key:seasonal
+294,Q213441,shop,Key:shop
+295,P1813,short name,Key:short_name
+296,Q177749,sidewalk,Key:sidewalk
+297,Q662860,smoking,Key:smoking
+298,Q31464082,source,Key:source
+299,Q13679,Wikispecies,Key:species
+300,Q7432,species,Key:species
+301,P225,taxon name,Key:species:wikidata
+302,P641,sport,Key:sport
+303,P571,inception,Key:start_date
+304,P580,start time,Key:start_date
+305,Q3406134,date of establishment,Key:start_date
+306,Q26256810,matter,Key:subject
+307,P921,main subject,Key:subject:wikidata
+308,Q928830,metro station,Key:subway
+309,Q884259,tactile paving,Key:tactile_paving
+310,Q154383,take-out,Key:takeaway
+311,Q64779710,receiving state or organization,Key:target
+312,Q16521,taxon,Key:taxon
+313,Q7777573,theatrical genre,Key:theatre:genre
+314,Q49389,tourism,Key:tourism
+315,Q170285,traffic sign,Key:traffic_sign
+316,Q44377,tunnel,Key:tunnel
+317,P2002,Twitter username,Key:twitter
+318,Q918,Twitter,Key:twitter
+319,P722,UIC station code,Key:uic_ref
+320,P2699,URL,Key:url
+321,Q42253,Uniform Resource Locator,Key:url
+322,P2436,voltage,Key:voltage
+323,Q388201,railway electrification system,Key:voltage
+324,Q1267889,waterway,Key:waterway
+325,P856,official website,Key:website
+326,Q22137024,official website,Key:website
+327,P2614,World Heritage criteria,Key:whc:criteria
+328,Q24192107,wheelchair accessibility,Key:wheelchair
+329,P2049,width,Key:width
+330,Q43649390,Wikidata identifier,Key:wikidata
+331,P18,image,Key:wikimedia_commons
+332,P373,Commons category,Key:wikimedia_commons
+333,Q565,Wikimedia Commons,Key:wikimedia_commons
+334,P1281,WOEID,Key:woeid

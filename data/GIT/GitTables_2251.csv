@@ -1,0 +1,28 @@
+,col0,col1,col2,col3
+0,gd_taxc,Struktura DDV,DDV,
+1,gd_taxc_1,Znesek osnov za DDV,OS-SUM,gd_taxc
+2,gd_taxc_11,- odbitni DDV,OS-ODB,gd_taxc_1
+3,gd_taxc_111,- izstopni DDV,OS-ODB-IZST,gd_taxc_11
+4,gd_taxc_1111,Prodaja oproščena DDV,OS-ODB-IZST-0,gd_taxc_111
+5,gd_taxc_1112,Prodaja po znižani stopnji DDV,OS-ODB-IZST-8.5,gd_taxc_111
+6,gd_taxc_1113,Prodaja po osnovni stopnji DDV,OS-ODB-IZST-20,gd_taxc_111
+7,gd_taxc_112,- vstopni DDV,OS-ODB-VST,gd_taxc_11
+8,gd_taxc_1121,Nabave oproščene DDV,OS-ODB-VST-0,gd_taxc_112
+9,gd_taxc_1122,Nabave po znižani stopnji DDV,OS-ODB-VST-8.5,gd_taxc_112
+10,gd_taxc_1123,Nabave po osnovni stopnji DDV,OS-ODB-VST-20,gd_taxc_112
+11,gd_taxc_12,- neodbitni DDV,OS-NEODB,gd_taxc_1
+12,gd_taxc_121,- vstopni DDV,OS-NEODB-VST,gd_taxc_12
+13,gd_taxc_1211,Nabave po znižani stopnji DDV,OS-NEODB-VST-8.5,gd_taxc_121
+14,gd_taxc_1212,Nabave po osnovni stopnji DDV,OS-NEODB-VST-20,gd_taxc_121
+15,gd_taxc_2,Znesek DDV,ZN-SUM,gd_taxc
+16,gd_taxc_21,- odbitni DDV,ZN-ODB,gd_taxc_2
+17,gd_taxc_211,- izstopni DDV,ZN-ODB-IZST,gd_taxc_21
+18,gd_taxc_2111,Izstopni DDV - znižana stopnja,ZN-ODB-IZST-8.5,gd_taxc_211
+19,gd_taxc_2112,Izstopni DDV - osnovna stopnja,ZN-ODB-IZST-20,gd_taxc_211
+20,gd_taxc_212,- vstopni DDV,ZN-ODB-VST,gd_taxc_21
+21,gd_taxc_2121,Vstopni DDV - znižana stopnja,ZN-ODB-VST-8.5,gd_taxc_212
+22,gd_taxc_2122,Vstopni DDV - osnovna stopnja,ZN-ODB-VST-20,gd_taxc_212
+23,gd_taxc_22,- neodbitni DDV,ZN-NEODB,gd_taxc_2
+24,gd_taxc_221,- vstopni DDV,ZN-NEODB-VST,gd_taxc_22
+25,gd_taxc_2211,Neodbitni DDV – znižana stopnja,ZN-NEODB-VST-8.5,gd_taxc_221
+26,gd_taxc_2212,Neodbitni DDV – osnovna stopnja,ZN-NEODB-VST-20,gd_taxc_221

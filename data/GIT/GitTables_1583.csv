@@ -1,0 +1,11 @@
+,col0,col1,col2,col3,col4
+0,832.0778,832.2,Hand,FailOnTouchObstacleLong,Pushed
+1,832.1,832.3445,Hand,FailOnTouchObstacleShort,LeftGate
+2,832.1,832.3445,Hand,FailOnTouchObstacleMed,LeftGate
+3,832.1,832.1111,Hand,FailOnTouchObstacleLong,RightGate
+4,832.1556,832.1667,Hand,FailOnTouchObstacleLong,RightGate
+5,832.1889,832.2,Hand,FailOnTouchObstacleLong,RightGate
+6,832.1994,,Hand,FailOnTouchObstacleLong,PickedUp
+7,832.2222,832.2889,Hand,FailOnTouchObstacleLong,RightGate
+8,832.3445,832.3778,Hand,FailOnTouchObstacleLong,RightGate
+9,832.5889,,HandToWrist,FailOnTouchObstacleLong,Pushed

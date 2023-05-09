@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<entity>
+    <logicalTable>
+        <content>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Supremi Apostolatus Officio&lt;/td&gt;</html>
+                    <text>Supremi Apostolatus Officio</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;On Devotion of the Rosary&lt;/td&gt;</html>
+                    <text>On Devotion of the Rosary</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;1 Sep 1883&lt;/td&gt;</html>
+                    <text>1 Sep 1883</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Superiore Anno&lt;/td&gt;</html>
+                    <text>Superiore Anno</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;on the recitation of the rosary&lt;/td&gt;</html>
+                    <text>on the recitation of the rosary</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;30 Aug 1884&lt;/td&gt;</html>
+                    <text>30 Aug 1884</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Vi E Ben Noto&lt;/td&gt;</html>
+                    <text>Vi E Ben Noto</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;On the Rosary and Public Life&lt;/td&gt;</html>
+                    <text>On the Rosary and Public Life</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;20 Sep 1887&lt;/td&gt;</html>
+                    <text>20 Sep 1887</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Octobri Mense&lt;/td&gt;</html>
+                    <text>Octobri Mense</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;On the Rosary&lt;/td&gt;</html>
+                    <text>On the Rosary</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;22 Sep 1891&lt;/td&gt;</html>
+                    <text>22 Sep 1891</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Magnae Dei Matris&lt;/td&gt;</html>
+                    <text>Magnae Dei Matris</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;On the Rosary&lt;/td&gt;</html>
+                    <text>On the Rosary</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;8 Sep 1892&lt;/td&gt;</html>
+                    <text>8 Sep 1892</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Laetitiae Sanctae&lt;/td&gt;</html>
+                    <text>Laetitiae Sanctae</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;On the Rosary&lt;/td&gt;</html>
+                    <text>On the Rosary</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;8 Sep 1893&lt;/td&gt;</html>
+                    <text>8 Sep 1893</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Iucunda Semper&lt;/td&gt;</html>
+                    <text>Iucunda Semper</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;On the Rosary&lt;/td&gt;</html>
+                    <text>On the Rosary</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;8 Sep 1894&lt;/td&gt;</html>
+                    <text>8 Sep 1894</text>
+                </cell>
+            </row>
+        </content>
+    </logicalTable>
+</entity>

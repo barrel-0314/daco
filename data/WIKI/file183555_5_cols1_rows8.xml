@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<entity>
+    <logicalTable>
+        <content>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;New Frontier&lt;/td&gt;</html>
+                    <text>New Frontier</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Peter David&lt;/td&gt;</html>
+                    <text>Peter David</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;The Captain's Table : Once Burned&lt;/td&gt;</html>
+                    <text>The Captain&amp;apos;s Table : Once Burned</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Peter David&lt;/td&gt;</html>
+                    <text>Peter David</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Double Helix : Double or Nothing&lt;/td&gt;</html>
+                    <text>Double Helix : Double or Nothing</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Peter David&lt;/td&gt;</html>
+                    <text>Peter David</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Gateways : Cold Wars&lt;/td&gt;</html>
+                    <text>Gateways : Cold Wars</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Peter David&lt;/td&gt;</html>
+                    <text>Peter David</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Gateways : What Lay Beyond&lt;/td&gt;</html>
+                    <text>Gateways : What Lay Beyond</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Peter David&lt;/td&gt;</html>
+                    <text>Peter David</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Gods Above&lt;/td&gt;</html>
+                    <text>Gods Above</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Peter David&lt;/td&gt;</html>
+                    <text>Peter David</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;No Limits&lt;/td&gt;</html>
+                    <text>No Limits</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Peter David&lt;/td&gt;</html>
+                    <text>Peter David</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Stone and Anvil&lt;/td&gt;</html>
+                    <text>Stone and Anvil</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;Peter David&lt;/td&gt;</html>
+                    <text>Peter David</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;&lt;/td&gt;</html>
+                    <text></text>
+                </cell>
+            </row>
+        </content>
+    </logicalTable>
+</entity>

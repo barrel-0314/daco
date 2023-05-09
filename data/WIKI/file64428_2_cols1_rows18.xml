@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<entity>
+    <logicalTable>
+        <content>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Con Mine&lt;/td&gt;</html>
+                    <text>Con Mine</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;1938 - 2003&lt;/td&gt;</html>
+                    <text>1938 - 2003</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;gold&lt;/td&gt;</html>
+                    <text>gold</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Giant Mine&lt;/td&gt;</html>
+                    <text>Giant Mine</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;1948 - 2004&lt;/td&gt;</html>
+                    <text>1948 - 2004</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;gold&lt;/td&gt;</html>
+                    <text>gold</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Ptarmigan and Tom Mine&lt;/td&gt;</html>
+                    <text>Ptarmigan and Tom Mine</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;1941 - 1942 , 1986 - 1997&lt;/td&gt;</html>
+                    <text>1941 - 1942 , 1986 - 1997</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;gold&lt;/td&gt;</html>
+                    <text>gold</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Negus Mine&lt;/td&gt;</html>
+                    <text>Negus Mine</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;1939 - 1952&lt;/td&gt;</html>
+                    <text>1939 - 1952</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;gold&lt;/td&gt;</html>
+                    <text>gold</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Thompson - Lundmark Mine&lt;/td&gt;</html>
+                    <text>Thompson - Lundmark Mine</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;1941 - 1943 , 1947 - 1949&lt;/td&gt;</html>
+                    <text>1941 - 1943 , 1947 - 1949</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;gold&lt;/td&gt;</html>
+                    <text>gold</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Discovery Mine&lt;/td&gt;</html>
+                    <text>Discovery Mine</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;1950 - 1969&lt;/td&gt;</html>
+                    <text>1950 - 1969</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;gold&lt;/td&gt;</html>
+                    <text>gold</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Camlaren Mine&lt;/td&gt;</html>
+                    <text>Camlaren Mine</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;1962 - 1963 , 1980 - 1981&lt;/td&gt;</html>
+                    <text>1962 - 1963 , 1980 - 1981</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;gold&lt;/td&gt;</html>
+                    <text>gold</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Eldorado Mine&lt;/td&gt;</html>
+                    <text>Eldorado Mine</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;1933 - 1940 , 1942 - 1960 , 1976 - 1982&lt;/td&gt;</html>
+                    <text>1933 - 1940 , 1942 - 1960 , 1976 - 1982</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;radium , uranium , silver , copper&lt;/td&gt;</html>
+                    <text>radium , uranium , silver , copper</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Echo Bay Mine&lt;/td&gt;</html>
+                    <text>Echo Bay Mine</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;1964 - 1975&lt;/td&gt;</html>
+                    <text>1964 - 1975</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;silver and copper&lt;/td&gt;</html>
+                    <text>silver and copper</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Ekati Diamond Mine&lt;/td&gt;</html>
+                    <text>Ekati Diamond Mine</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;1998 - current&lt;/td&gt;</html>
+                    <text>1998 - current</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;diamonds&lt;/td&gt;</html>
+                    <text>diamonds</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Diavik Diamond Mine&lt;/td&gt;</html>
+                    <text>Diavik Diamond Mine</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;2003 - current&lt;/td&gt;</html>
+                    <text>2003 - current</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;diamonds&lt;/td&gt;</html>
+                    <text>diamonds</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Pine Point Mine&lt;/td&gt;</html>
+                    <text>Pine Point Mine</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;1964 - 1988&lt;/td&gt;</html>
+                    <text>1964 - 1988</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;lead and zinc&lt;/td&gt;</html>
+                    <text>lead and zinc</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Cantung Mine&lt;/td&gt;</html>
+                    <text>Cantung Mine</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;1962 - 1986 , 2002 - 2003&lt;/td&gt;</html>
+                    <text>1962 - 1986 , 2002 - 2003</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;tungsten&lt;/td&gt;</html>
+                    <text>tungsten</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Rayrock Mine&lt;/td&gt;</html>
+                    <text>Rayrock Mine</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;1957 - 1959&lt;/td&gt;</html>
+                    <text>1957 - 1959</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;uranium&lt;/td&gt;</html>
+                    <text>uranium</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Terra Mine&lt;/td&gt;</html>
+                    <text>Terra Mine</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;1969 - 1985&lt;/td&gt;</html>
+                    <text>1969 - 1985</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;silver and copper&lt;/td&gt;</html>
+                    <text>silver and copper</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Tundra Mine&lt;/td&gt;</html>
+                    <text>Tundra Mine</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;1964 - 1968&lt;/td&gt;</html>
+                    <text>1964 - 1968</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;gold&lt;/td&gt;</html>
+                    <text>gold</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Salmita Mine&lt;/td&gt;</html>
+                    <text>Salmita Mine</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;1983 - 1987&lt;/td&gt;</html>
+                    <text>1983 - 1987</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;gold&lt;/td&gt;</html>
+                    <text>gold</text>
+                </cell>
+            </row>
+            <row>
+                <cell>
+                    <html>&lt;td&gt;Colomac Mine&lt;/td&gt;</html>
+                    <text>Colomac Mine</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;1990 - 1992 , 1994 - 1997&lt;/td&gt;</html>
+                    <text>1990 - 1992 , 1994 - 1997</text>
+                </cell>
+                <cell>
+                    <html>&lt;td&gt;gold&lt;/td&gt;</html>
+                    <text>gold</text>
+                </cell>
+            </row>
+        </content>
+    </logicalTable>
+</entity>

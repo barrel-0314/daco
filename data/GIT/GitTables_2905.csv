@@ -1,0 +1,142 @@
+,col0,col1,col2
+0,1,1,Classic English-Style Pale Ale
+1,2,1,English-Style India Pale Ale
+2,3,1,Ordinary Bitter
+3,4,1,Special Bitter or Best Bitter
+4,5,1,Extra Special Bitter
+5,6,1,English-Style Summer Ale
+6,7,1,Scottish-Style Light Ale
+7,8,1,Scottish-Style Heavy Ale
+8,9,1,Scottish-Style Export Ale
+9,10,1,English-Style Pale Mild Ale
+10,11,1,English-Style Dark Mild Ale
+11,12,1,English-Style Brown Ale
+12,13,1,Old Ale
+13,14,1,Strong Ale
+14,15,1,Scotch Ale
+15,16,1,British-Style Imperial Stout
+16,17,1,British-Style Barley Wine Ale
+17,18,1,Robust Porter
+18,19,1,Brown Porter
+19,20,1,Sweet Stout
+20,21,1,Oatmeal Stout
+21,22,2,Irish-Style Red Ale
+22,23,2,Classic Irish-Style Dry Stout
+23,24,2,Foreign (Export)-Style Stout
+24,25,2,Porter
+25,26,3,American-Style Pale Ale
+26,27,3,Fresh Hop Ale
+27,28,3,Pale American-Belgo-Style Ale
+28,29,3,Dark American-Belgo-Style Ale
+29,30,3,American-Style Strong Pale Ale
+30,31,3,American-Style India Pale Ale
+31,32,3,Imperial or Double India Pale Ale
+32,33,3,American-Style Amber/Red Ale
+33,34,3,Imperial or Double Red Ale
+34,35,3,American-Style Barley Wine Ale
+35,36,3,American-Style Wheat Wine Ale
+36,37,3,Golden or Blonde Ale
+37,38,3,American-Style Brown Ale
+38,39,3,Smoke Porter
+39,40,3,American-Style Sour Ale
+40,41,3,American-Style India Black Ale
+41,42,3,American-Style Stout
+42,43,3,American-Style Imperial Stout
+43,44,3,Specialty Stouts
+44,45,3,American-Style Imperial Porter
+45,46,3,Porter
+46,47,4,German-Style Kolsch
+47,48,4,Berliner-Style Weisse
+48,49,4,Leipzig-Style Gose
+49,50,4,South German-Style Hefeweizen
+50,51,4,South German-Style Kristal Weizen
+51,52,4,German-Style Leichtes Weizen
+52,53,4,South German-Style Bernsteinfarbenes Weizen
+53,54,4,South German-Style Dunkel Weizen
+54,55,4,South German-Style Weizenbock
+55,56,4,Bamberg-Style Weiss Rauchbier
+56,57,4,German-Style Brown Ale/Altbier
+57,58,4,Kellerbier - Ale
+58,59,5,Belgian-Style Flanders/Oud Bruin
+59,60,5,Belgian-Style Dubbel
+60,61,5,Belgian-Style Tripel
+61,62,5,Belgian-Style Quadrupel
+62,63,5,Belgian-Style Blonde Ale
+63,64,5,Belgian-Style Pale Ale
+64,65,5,Belgian-Style Pale Strong Ale
+65,66,5,Belgian-Style Dark Strong Ale
+66,67,5,Belgian-Style White
+67,68,5,Belgian-Style Lambic
+68,69,5,Belgian-Style Gueuze Lambic
+69,70,5,Belgian-Style Fruit Lambic
+70,71,5,Belgian-Style Table Beer
+71,72,5,Other Belgian-Style Ales
+72,73,5,French-Style Biere de Garde
+73,74,5,French & Belgian-Style Saison
+74,75,6,International-Style Pale Ale
+75,76,6,Australasian-Style Pale Ale
+76,77,7,German-Style Pilsener
+77,78,7,Bohemian-Style Pilsener
+78,79,7,European Low-Alcohol Lager
+79,80,7,Munchner-Style Helles
+80,81,7,Dortmunder/European-Style Export
+81,82,7,Vienna-Style Lager
+82,83,7,German-Style Marzen
+83,84,7,German-Style Oktoberfest
+84,85,7,European-Style Dark
+85,86,7,German-Style Schwarzbier
+86,87,7,Bamberg-Style Marzen
+87,88,7,Bamberg-Style Helles Rauchbier
+88,89,7,Bamberg-Style Bock Rauchbier
+89,90,7,Traditional German-Style Bock
+90,91,7,German-Style Heller Bock/Maibock
+91,92,7,German-Style Doppelbock
+92,93,7,German-Style Eisbock
+93,94,7,Kellerbier - Lager
+94,95,8,American-Style Lager
+95,96,8,American-Style Light Lager
+96,97,8,American-Style Low-Carb Light Lager
+97,98,8,American-Style Amber Lager
+98,99,8,American-Style Premium Lager
+99,100,8,American-Style Pilsener
+100,101,8,American-Style Ice Lager
+101,102,8,American-Style Malt Liquor
+102,103,8,American-Style Amber Lager
+103,104,8,American-Style Marzen/Oktoberfest
+104,105,8,American-Style Dark Lager
+105,106,9,Baltic-Style Porter
+106,107,9,Australasian-Style Light Lager
+107,108,9,Latin American-Style Light Lager
+108,109,9,Tropical-Style Light Lager
+109,110,10,International-Style Pilsener
+110,111,10,Dry Lager
+111,112,11,Session Beer
+112,113,11,American-Style Cream Ale or Lager
+113,114,11,California Common Beer
+114,115,11,Japanese Sake-Yeast Beer
+115,116,11,Light American Wheat Ale or Lager
+116,117,11,Fruit Wheat Ale or Lager
+117,118,11,Dark American Wheat Ale or Lager
+118,119,11,American Rye Ale or Lager
+119,120,11,German-Style Rye Ale
+120,121,11,Fruit Beer
+121,122,11,Field Beer
+122,123,11,Pumpkin Beer
+123,124,11,Chocolate/Cocoa-Flavored Beer
+124,125,11,Coffee-Flavored Beer
+125,126,11,Herb and Spice Beer
+126,127,11,Specialty Beer
+127,128,11,Specialty Honey Lager or Ale
+128,129,11,Gluten-Free Beer
+129,130,11,Smoke Beer
+130,131,11,Experimental Beer
+131,132,11,Out of Category
+132,133,11,Wood- and Barrel-Aged Beer
+133,134,11,Wood- and Barrel-Aged Pale to Amber Beer
+134,135,11,Wood- and Barrel-Aged Dark Beer
+135,136,11,Wood- and Barrel-Aged Strong Beer
+136,137,11,Wood- and Barrel-Aged Sour Beer
+137,138,11,Aged Beer
+138,139,11,Other Strong Ale or Lager
+139,140,11,Non-Alcoholic Beer
+140,141,11,Winter Warmer
